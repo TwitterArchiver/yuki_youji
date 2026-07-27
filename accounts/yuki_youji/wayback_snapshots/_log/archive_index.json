@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-27T20:45:59",
+  "last_updated": "2026-07-27T20:46:21",
   "html": {
     "https://web.archive.org/web/20260620135152if_/https://twitter.com/yuki_youji/status/2068330996995666304": {
       "status": "done",
@@ -5183,22 +5183,25 @@
       "last_updated": "2026-07-27T16:07:33"
     },
     "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260710115318_twitter_com_yuki_youji_status_2075548915886334369.json"
-      ]
+      ],
+      "last_updated": "2026-07-27T20:46:20"
     },
     "https://pbs.twimg.com/profile_images/1932130103040892928/QQi_liri_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260720061812_twitter_com_yuki_youji_status_2079088466005311902.json"
-      ]
+      ],
+      "last_updated": "2026-07-27T20:46:20"
     },
     "https://pbs.twimg.com/profile_images/2045112323614883840/7g8HVzW3_normal.png": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260726081808_twitter_com_yuki_youji_status_2081292974332510599.json"
-      ]
+      ],
+      "last_updated": "2026-07-27T20:46:20"
     }
   },
   "media": {
@@ -11433,7 +11436,7 @@
       "last_updated": "2026-07-27T16:06:26"
     },
     "20260710115318_twitter_com_yuki_youji_status_2075548915886334369.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11442,7 +11445,7 @@
           "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T20:45:59"
+      "last_updated": "2026-07-27T20:46:20"
     },
     "20260714073930_twitter_com_yuki_youji_status_2076934598790119708.json": {
       "status": "done",
@@ -11520,7 +11523,7 @@
       "miss_count": 2
     },
     "20260720061812_twitter_com_yuki_youji_status_2079088466005311902.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11529,7 +11532,7 @@
           "https://pbs.twimg.com/profile_images/1932130103040892928/QQi_liri_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T20:45:59"
+      "last_updated": "2026-07-27T20:46:20"
     },
     "20260720123126_twitter_com_yuki_youji_status_2079182394524074379.json": {
       "status": "done",
@@ -11592,7 +11595,7 @@
       "last_updated": "2026-07-27T20:43:36"
     },
     "20260726081808_twitter_com_yuki_youji_status_2081292974332510599.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11601,7 +11604,7 @@
           "https://pbs.twimg.com/profile_images/2045112323614883840/7g8HVzW3_normal.png"
         ]
       },
-      "last_updated": "2026-07-27T20:45:59"
+      "last_updated": "2026-07-27T20:46:20"
     },
     "20260726104257_twitter_com_yuki_youji_status_2081329419462041648.json": {
       "status": "failed",
