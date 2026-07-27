@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072184832009121792",
+        "3_2072184906663489536"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072184955699077409",
+    "created_at": "2026-07-01T05:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072184955699077409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YKCprhZhbW",
+          "end": 40,
+          "expanded_url": "https://x.com/yuki_youji/status/2072184955699077409/photo/1",
+          "media_key": "3_2072184832009121792",
+          "start": 17,
+          "url": "https://t.co/YKCprhZhbW"
+        },
+        {
+          "display_url": "pic.x.com/YKCprhZhbW",
+          "end": 40,
+          "expanded_url": "https://x.com/yuki_youji/status/2072184955699077409/photo/1",
+          "media_key": "3_2072184906663489536",
+          "start": 17,
+          "url": "https://t.co/YKCprhZhbW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072184955699077409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的小仓鼠非常可爱(๑＞ڡ＜)☆ https://t.co/YKCprhZhbW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072184832009121792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHhIDTbMAA5Enk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072184906663489536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHhMZaacAAw4m0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072184832009121792",
+            "3_2072184906663489536"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072184955699077409",
+        "created_at": "2026-07-01T05:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072184955699077409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKCprhZhbW",
+              "end": 40,
+              "expanded_url": "https://x.com/yuki_youji/status/2072184955699077409/photo/1",
+              "media_key": "3_2072184832009121792",
+              "start": 17,
+              "url": "https://t.co/YKCprhZhbW"
+            },
+            {
+              "display_url": "pic.x.com/YKCprhZhbW",
+              "end": 40,
+              "expanded_url": "https://x.com/yuki_youji/status/2072184955699077409/photo/1",
+              "media_key": "3_2072184906663489536",
+              "start": 17,
+              "url": "https://t.co/YKCprhZhbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072184955699077409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的小仓鼠非常可爱(๑＞ڡ＜)☆ https://t.co/YKCprhZhbW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo聊天💓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2071908328108876179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 19,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      }
+    ]
+  }
+}

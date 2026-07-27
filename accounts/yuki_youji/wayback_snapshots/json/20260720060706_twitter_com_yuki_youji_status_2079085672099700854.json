@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077278357994250240"
+      ],
+      "media_source_tweet_id": [
+        "2077278367787978891"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079085672099700854",
+    "created_at": "2026-07-20T06:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079085672099700854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025216486760157184",
+          "start": 3,
+          "username": "Cosmo2267651"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LWsgAF7l4r",
+          "end": 57,
+          "expanded_url": "https://x.com/Cosmo2267651/status/2077278367787978891/photo/1",
+          "media_key": "3_2077278357994250240",
+          "start": 34,
+          "url": "https://t.co/LWsgAF7l4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079085672099700854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077278367787978891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cosmo2267651: 可以帮忙转发一下嘛☺️🥹🥹🥹🥹 https://t.co/LWsgAF7l4r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2077278357994250240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP5qSPaoAAxD3C.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077278357994250240"
+          ]
+        },
+        "author_id": "2025216486760157184",
+        "conversation_id": "2077278367787978891",
+        "created_at": "2026-07-15T06:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077278367787978891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LWsgAF7l4r",
+              "end": 39,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2077278367787978891/photo/1",
+              "media_key": "3_2077278357994250240",
+              "start": 16,
+              "url": "https://t.co/LWsgAF7l4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077278367787978891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2281,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "可以帮忙转发一下嘛☺️🥹🥹🥹🥹 https://t.co/LWsgAF7l4r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077278357994250240"
+          ],
+          "media_source_tweet_id": [
+            "2077278367787978891"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079085672099700854",
+        "created_at": "2026-07-20T06:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079085672099700854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025216486760157184",
+              "start": 3,
+              "username": "Cosmo2267651"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LWsgAF7l4r",
+              "end": 57,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2077278367787978891/photo/1",
+              "media_key": "3_2077278357994250240",
+              "start": 34,
+              "url": "https://t.co/LWsgAF7l4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079085672099700854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077278367787978891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cosmo2267651: 可以帮忙转发一下嘛☺️🥹🥹🥹🥹 https://t.co/LWsgAF7l4r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 35,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 239
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "额💊🔪同类互fo。男的，很友好的，欢迎扩列，https://t.co/ngyfA7Q25G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhhhhh79341",
+                "end": 45,
+                "expanded_url": "https://ngl.link/hhhhhh79341",
+                "start": 22,
+                "url": "https://t.co/ngyfA7Q25G"
+              }
+            ]
+          }
+        },
+        "id": "2025216486760157184",
+        "location": "成都",
+        "name": "renhaoqiguai",
+        "pinned_tweet_id": "2077278367787978891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076599066172239872/T_QdGKWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 516,
+          "like_count": 2504,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "Cosmo2267651",
+        "verified": false
+      }
+    ]
+  }
+}

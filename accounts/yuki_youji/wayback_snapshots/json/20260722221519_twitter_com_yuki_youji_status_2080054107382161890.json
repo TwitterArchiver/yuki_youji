@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079917589053260014",
+    "created_at": "2026-07-22T22:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T23:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080054107382161890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1404997135360270343",
+          "start": 0,
+          "username": "_yukinaOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080054107382161890",
+    "in_reply_to_user_id": "1404997135360270343",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079986918146863477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yukinaOvO 😽💖💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079917589053260014",
+        "created_at": "2026-07-22T22:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080054107382161890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1404997135360270343",
+              "start": 0,
+              "username": "_yukinaOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080054107382161890",
+        "in_reply_to_user_id": "1404997135360270343",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079986918146863477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yukinaOvO 😽💖💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404997135360270343",
+        "conversation_id": "2079917589053260014",
+        "created_at": "2026-07-22T17:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079986918146863477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079986918146863477",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079917589053260014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 萌妹子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜纯绿🚪25\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 63,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 286
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T03:00:05.000Z",
+        "description": "^⌯𖥦⌯^ ੭ 鹿角/Yukina❄️ 04┆碎碎念記錄合集┆水色🩵┆中文En OK、日本語勉強中┆音游┆繪畫┆毛绒大好き┆ハチワレ、湊友希那┆直fo成分回┆不喜歡我請滾出我的世界┆最爱@TheDuckyyyyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "TheDuckyyyyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yuki_ovo_neko",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@yuki_ovo_neko",
+                "start": 0,
+                "url": "https://t.co/MI0cejXPTN"
+              }
+            ]
+          }
+        },
+        "id": "1404997135360270343",
+        "location": "｡ﾟ+.雨° 雪꜆˖♡* 貓咪/ᐠ - ˕ -マ Ⳋ",
+        "name": "Yuki._.Neko",
+        "pinned_tweet_id": "2078877479339700333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079184577940312064/VYDursNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 334,
+          "like_count": 3191,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/MI0cejXPTN",
+        "username": "_yukinaOvO",
+        "verified": false
+      }
+    ]
+  }
+}

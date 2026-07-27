@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081256874985562216",
+    "created_at": "2026-07-26T05:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081256874985562216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1921734233334448128",
+          "start": 3,
+          "username": "Amesawa_Sumire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081256874985562216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077914573693428127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amesawa_Sumire: 自我紹介\n———\n=雨沢菫 あめさわ すみれ\n18↓ 性別未知\n———\nGIGANTØMAKHIA 推 同擔拒否\n🚬|酒|overdose|鋼琴|音樂遊戲|🔞|偶爾自傷|負面言論過多\nMaimai15k|WaCCa1800|Arcaea1…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081256874985562216",
+        "created_at": "2026-07-26T05:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081256874985562216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1921734233334448128",
+              "start": 3,
+              "username": "Amesawa_Sumire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081256874985562216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077914573693428127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amesawa_Sumire: 自我紹介\n———\n=雨沢菫 あめさわ すみれ\n18↓ 性別未知\n———\nGIGANTØMAKHIA 推 同擔拒否\n🚬|酒|overdose|鋼琴|音樂遊戲|🔞|偶爾自傷|負面言論過多\nMaimai15k|WaCCa1800|Arcaea1…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921734233334448128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2077914573693428127",
+        "created_at": "2026-07-17T00:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077914573693428127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077914573693428127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 729,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自我紹介\n———\n=雨沢菫 あめさわ すみれ\n18↓ 性別未知\n———\nGIGANTØMAKHIA 推 同擔拒否\n🚬|酒|overdose|鋼琴|音樂遊戲|🔞|偶爾自傷|負面言論過多\nMaimai15k|WaCCa1800|Arcaea12.63|Phigros16.03\n堇級已確認 紫極預備\n———\n討厭態度不好的人\n牆內外是兩個人 另一邊遇到我就裝死不認識吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 142,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T01:09:00.000Z",
+        "description": "永遠寫著緣直到消散為止\n自我紹介在置頂哦 愿意和我互fo嘛🥺",
+        "id": "1921734233334448128",
+        "name": "Vwis",
+        "pinned_tweet_id": "2077914573693428127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077722991652478976/Dxdr7VSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 101,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "Amesawa_Sumire",
+        "verified": false
+      }
+    ]
+  }
+}

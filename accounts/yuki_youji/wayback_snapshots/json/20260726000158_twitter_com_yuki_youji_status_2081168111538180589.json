@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081045557888602442",
+    "created_at": "2026-07-26T00:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T01:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081168111538180589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2077766358784413697",
+          "start": 0,
+          "username": "swnsld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081168111538180589",
+    "in_reply_to_user_id": "2077766358784413697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081165305104240998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swnsld 那你真的是个很好的孩子😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081045557888602442",
+        "created_at": "2026-07-26T00:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081168111538180589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2077766358784413697",
+              "start": 0,
+              "username": "swnsld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081168111538180589",
+        "in_reply_to_user_id": "2077766358784413697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081165305104240998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swnsld 那你真的是个很好的孩子😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077766358784413697",
+        "conversation_id": "2081045557888602442",
+        "created_at": "2026-07-25T23:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081165305104240998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081165305104240998",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081045557888602442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 可是大家都很好，，🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 130,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T14:45:59.000Z",
+        "description": "身边有很多长得像女生的人 但靠近却又没有弹出对话框 我怀疑这个世界上根本没有女生",
+        "id": "2077766358784413697",
+        "location": "辽宁",
+        "name": "塞塞是阴暗哥布林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077767596771053568/TmWLRTVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 34,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "swnsld",
+        "verified": false
+      }
+    ]
+  }
+}

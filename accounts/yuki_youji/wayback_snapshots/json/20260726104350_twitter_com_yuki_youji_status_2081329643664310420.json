@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081168429797736546",
+    "created_at": "2026-07-26T10:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081329643664310420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809227152073863168",
+          "start": 0,
+          "username": "xinxin052866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081329643664310420",
+    "in_reply_to_user_id": "1809227152073863168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081328472266281061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxin052866 你是个好宝宝。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081168429797736546",
+        "created_at": "2026-07-26T10:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081329643664310420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809227152073863168",
+              "start": 0,
+              "username": "xinxin052866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081329643664310420",
+        "in_reply_to_user_id": "1809227152073863168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081328472266281061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxin052866 你是个好宝宝。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809227152073863168",
+        "conversation_id": "2081168429797736546",
+        "created_at": "2026-07-26T10:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081328472266281061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081328472266281061",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081168429797736546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 我懂我懂 我看见大家这样也会想吐很难受。明明自己也这样过也完全没什么不适 但是看见大家这样就会特别难受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 146,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:06:11.000Z",
+        "description": "09 INFP-T 双子 | 高精力健全入 | 雷霆恋爱脑 | 大部分话为口嗨 | 狗啃日语勇闯日高ing",
+        "id": "1809227152073863168",
+        "location": "天国",
+        "name": "xin欣",
+        "pinned_tweet_id": "2080284010761089517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003009839216091136/x71o1FI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 90,
+          "like_count": 8088,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "xinxin052866",
+        "verified": true
+      }
+    ]
+  }
+}

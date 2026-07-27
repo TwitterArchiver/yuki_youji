@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2080968037977772223",
+    "created_at": "2026-07-26T07:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081284003827782014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2062164542541479936",
+          "start": 0,
+          "username": "pai6676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081284003827782014",
+    "in_reply_to_user_id": "2062164542541479936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081283001124573281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pai6676 💋💋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2080968037977772223",
+        "created_at": "2026-07-26T07:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081284003827782014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2062164542541479936",
+              "start": 0,
+              "username": "pai6676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081284003827782014",
+        "in_reply_to_user_id": "2062164542541479936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081283001124573281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pai6676 💋💋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062164542541479936",
+        "conversation_id": "2080968037977772223",
+        "created_at": "2026-07-26T07:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081283001124573281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081283001124573281",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080968037977772223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 愛你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 143,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T13:30:04.000Z",
+        "description": "=PAI https://t.co/Nke8gtyGiO 問答：https://t.co/L3jQ4ftthl\n手殘bass手｜11號手術刀重度依賴｜座右铭｜我想要让所有oder获得爱！！（歡迎互fo）\n順直男 #非友跨 #尊重但請繞道｜患有边缘性人格 ｜BPD",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "非友跨"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "tag": "尊重但請繞道"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/king_pppai",
+                "end": 28,
+                "expanded_url": "https://t.me/king_pppai",
+                "start": 5,
+                "url": "https://t.co/Nke8gtyGiO"
+              },
+              {
+                "display_url": "ngl.link/pai30558",
+                "end": 55,
+                "expanded_url": "https://ngl.link/pai30558",
+                "start": 32,
+                "url": "https://t.co/L3jQ4ftthl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/king_pppai",
+                "end": 23,
+                "expanded_url": "https://t.me/king_pppai",
+                "start": 0,
+                "url": "https://t.co/Nke8gtyGiO"
+              }
+            ]
+          }
+        },
+        "id": "2062164542541479936",
+        "location": "地獄",
+        "name": "愈美戰士(求互fo版）",
+        "pinned_tweet_id": "2080179422724813039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062180259752017920/-RDuVZe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 142,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/Nke8gtyGiO",
+        "username": "pai6676",
+        "verified": false
+      }
+    ]
+  }
+}

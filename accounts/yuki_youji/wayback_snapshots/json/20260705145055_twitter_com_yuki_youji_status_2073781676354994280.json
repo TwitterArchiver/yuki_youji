@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2073781676354994280",
+    "created_at": "2026-07-05T14:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073781676354994280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woapmpble/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/woapmpble/status/2073733958119174305",
+          "start": 10,
+          "url": "https://t.co/wxkt8J6bhU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073781676354994280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073733958119174305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的妻子就是这么萌 https://t.co/wxkt8J6bhU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2073733868268756992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdh91DbIAAOhRG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2073781676354994280",
+        "created_at": "2026-07-05T14:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073781676354994280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woapmpble/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/woapmpble/status/2073733958119174305",
+              "start": 10,
+              "url": "https://t.co/wxkt8J6bhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073781676354994280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073733958119174305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的妻子就是这么萌 https://t.co/wxkt8J6bhU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073733868268756992"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2073733958119174305",
+        "created_at": "2026-07-05T11:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073733958119174305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2i37ExHcbf",
+              "end": 50,
+              "expanded_url": "https://x.com/woapmpble/status/2073733958119174305/photo/1",
+              "media_key": "3_2073733868268756992",
+              "start": 27,
+              "url": "https://t.co/2i37ExHcbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073733958119174305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我最喜欢的关于我的照片，是我妻子给我画的妆www https://t.co/2i37ExHcbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo聊天💓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2071908328108876179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 23,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 31,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

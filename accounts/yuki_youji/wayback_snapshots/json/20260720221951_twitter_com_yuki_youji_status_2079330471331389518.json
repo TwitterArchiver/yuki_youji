@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079094543732101321",
+    "created_at": "2026-07-20T22:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T23:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079330471331389518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1357980907",
+          "start": 0,
+          "username": "NFB25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079330471331389518",
+    "in_reply_to_user_id": "1357980907",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079233665431916793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NFB25 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079094543732101321",
+        "created_at": "2026-07-20T22:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079330471331389518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1357980907",
+              "start": 0,
+              "username": "NFB25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079330471331389518",
+        "in_reply_to_user_id": "1357980907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079233665431916793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NFB25 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357980907",
+        "conversation_id": "2079094543732101321",
+        "created_at": "2026-07-20T15:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079233665431916793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079233665431916793",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079094543732101321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji かわいい(*´﹃｀*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 47,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T21:59:57.000Z",
+        "description": "若と呼ばれたいから！                                                 \n                                                                             \n(っ'-')╮ =͟͟͞͞ 🐱🦈",
+        "id": "1357980907",
+        "name": "😈💀🌶𝒲𝒜𝒞𝒜🌶💀😈🐲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328107366366146560/p8pSvEXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5503,
+          "following_count": 6616,
+          "like_count": 505636,
+          "listed_count": 41,
+          "media_count": 262,
+          "tweet_count": 380771
+        },
+        "url": "",
+        "username": "NFB25",
+        "verified": false
+      }
+    ]
+  }
+}

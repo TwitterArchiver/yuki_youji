@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2069024848085766231",
+    "created_at": "2026-06-22T11:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069024848085766231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/diraism/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/diraism/status/2068672858877038979",
+          "start": 10,
+          "url": "https://t.co/Lzf23mzbHV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069024848085766231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068672858877038979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的cp是我和女友 https://t.co/Lzf23mzbHV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2069024848085766231",
+        "created_at": "2026-06-22T11:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069024848085766231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/diraism/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/diraism/status/2068672858877038979",
+              "start": 10,
+              "url": "https://t.co/Lzf23mzbHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069024848085766231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068672858877038979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的cp是我和女友 https://t.co/Lzf23mzbHV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329607397384495105",
+        "conversation_id": "2068672858877038979",
+        "created_at": "2026-06-21T12:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068672858877038979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068672858877038979",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3852,
+          "impression_count": 1404162,
+          "like_count": 54055,
+          "quote_count": 7834,
+          "reply_count": 567,
+          "retweet_count": 13702
+        },
+        "reply_settings": "everyone",
+        "text": "lu pernah gasi demen bgt sama satu ship tiap hari lu ke tiktok lihatin editan mereka, terus tiap sebelum tidur lu refresh page ao3 mereka jaga2 ada fanfic baru, terus tiap dengerin lagu lu akan sambung2in liriknya ke dynamic mereka 😭😭😭😭😭 THIS IS SICK I NEED HELP 😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜妻子的狗",
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2067505461872689324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 17,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-20T02:08:28.000Z",
+        "description": "dldr • writings and commissions (https://t.co/XEl5TIvGuw) material support (https://t.co/jen6wCZ6XE)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/deearchive",
+                "end": 56,
+                "expanded_url": "https://linktr.ee/deearchive",
+                "start": 33,
+                "url": "https://t.co/XEl5TIvGuw"
+              },
+              {
+                "display_url": "trakteer.id/diraism",
+                "end": 99,
+                "expanded_url": "https://trakteer.id/diraism",
+                "start": 76,
+                "url": "https://t.co/jen6wCZ6XE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "diraism.carrd.co",
+                "end": 23,
+                "expanded_url": "https://diraism.carrd.co",
+                "start": 0,
+                "url": "https://t.co/K3KhcJ5dbI"
+              }
+            ]
+          }
+        },
+        "id": "1329607397384495105",
+        "name": "nana kopaja (deera)",
+        "pinned_tweet_id": "2057780773420470338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046856680240263168/K4HYLYxE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13126,
+          "following_count": 33,
+          "like_count": 20155,
+          "listed_count": 21,
+          "media_count": 5271,
+          "tweet_count": 39323
+        },
+        "url": "https://t.co/K3KhcJ5dbI",
+        "username": "diraism",
+        "verified": false
+      }
+    ]
+  }
+}

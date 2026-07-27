@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2078695100125970510",
+    "created_at": "2026-07-19T12:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078823611645988892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998718271856717826",
+          "start": 0,
+          "username": "PaulaRiver9119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078823611645988892",
+    "in_reply_to_user_id": "1998718271856717826",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078730955234410855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulaRiver9119 (施展了一些治愈魔法)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2078695100125970510",
+        "created_at": "2026-07-19T12:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078823611645988892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998718271856717826",
+              "start": 0,
+              "username": "PaulaRiver9119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078823611645988892",
+        "in_reply_to_user_id": "1998718271856717826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078730955234410855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulaRiver9119 (施展了一些治愈魔法)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998718271856717826",
+        "conversation_id": "2078695100125970510",
+        "created_at": "2026-07-19T06:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078730955234410855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078730955234410855",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078695100125970510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 饿啊！！！！（耳朵爆炸）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2071908328108876179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 26,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T11:36:07.000Z",
+        "description": "@guest07080279的影分身👁✋️👁\n互动消息我一般都会看的！一般发碎碎念有负面预警！！😈⚠\n/Eng&日本語 翻译器💖💖/\n可以叫我V\n被ban的时候也会在这里发点画😢如果你喜欢我的画的话也可以去关注大号呀！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "guest07080279"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guest0708",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guest0708",
+                "start": 0,
+                "url": "https://t.co/l4GGSVahDj"
+              }
+            ]
+          }
+        },
+        "id": "1998718271856717826",
+        "location": "向我提问吧💖→",
+        "name": "Vermilion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066463827311607809/Pt_Cicbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 35,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/l4GGSVahDj",
+        "username": "PaulaRiver9119",
+        "verified": false
+      }
+    ]
+  }
+}

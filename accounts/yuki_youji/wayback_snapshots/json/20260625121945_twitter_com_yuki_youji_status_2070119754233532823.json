@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069829708091727872"
+      ],
+      "media_source_tweet_id": [
+        "2069829717377818803"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070119754233532823",
+    "created_at": "2026-06-25T12:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070119754233532823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1599012090517540869",
+          "start": 3,
+          "username": "loveforeversfy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7tv3m50fj7",
+          "end": 84,
+          "expanded_url": "https://x.com/loveforeversfy/status/2069829717377818803/photo/1",
+          "media_key": "3_2069829708091727872",
+          "start": 61,
+          "url": "https://t.co/7tv3m50fj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070119754233532823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069829717377818803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveforeversfy: 2500fo纪念！！\n\n转发关注抽奖三盒玉米面五天后开奖（wohuineidin https://t.co/7tv3m50fj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069829708091727872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmDJzBboAAvl8_.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069829708091727872"
+          ],
+          "media_source_tweet_id": [
+            "2069829717377818803"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070119754233532823",
+        "created_at": "2026-06-25T12:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070119754233532823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1599012090517540869",
+              "start": 3,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tv3m50fj7",
+              "end": 84,
+              "expanded_url": "https://x.com/loveforeversfy/status/2069829717377818803/photo/1",
+              "media_key": "3_2069829708091727872",
+              "start": 61,
+              "url": "https://t.co/7tv3m50fj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070119754233532823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069829717377818803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveforeversfy: 2500fo纪念！！\n\n转发关注抽奖三盒玉米面五天后开奖（wohuineidin https://t.co/7tv3m50fj7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069829708091727872"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069829717377818803",
+        "created_at": "2026-06-24T17:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069829717377818803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tv3m50fj7",
+              "end": 64,
+              "expanded_url": "https://x.com/loveforeversfy/status/2069829717377818803/photo/1",
+              "media_key": "3_2069829708091727872",
+              "start": 41,
+              "url": "https://t.co/7tv3m50fj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069829717377818803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2212,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "2500fo纪念！！\n\n转发关注抽奖三盒玉米面五天后开奖（wohuineidin https://t.co/7tv3m50fj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜妻子的狗",
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2067505461872689324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 19,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2540,
+          "following_count": 1557,
+          "like_count": 35348,
+          "listed_count": 8,
+          "media_count": 1215,
+          "tweet_count": 11382
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

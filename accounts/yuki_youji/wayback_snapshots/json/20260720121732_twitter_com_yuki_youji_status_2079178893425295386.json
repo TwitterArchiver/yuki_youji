@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076665453171142656",
+        "3_2076665445726203904",
+        "3_2076665447789805568",
+        "3_2076665446888067072"
+      ],
+      "media_source_tweet_id": [
+        "2076665457273180666",
+        "2076665457273180666",
+        "2076665457273180666",
+        "2076665457273180666"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079178893425295386",
+    "created_at": "2026-07-20T12:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079178893425295386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2062758646141054976",
+          "start": 3,
+          "username": "Chuiertu_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BpnRHe904T",
+          "end": 98,
+          "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+          "media_key": "3_2076665453171142656",
+          "start": 75,
+          "url": "https://t.co/BpnRHe904T"
+        },
+        {
+          "display_url": "pic.x.com/BpnRHe904T",
+          "end": 98,
+          "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+          "media_key": "3_2076665445726203904",
+          "start": 75,
+          "url": "https://t.co/BpnRHe904T"
+        },
+        {
+          "display_url": "pic.x.com/BpnRHe904T",
+          "end": 98,
+          "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+          "media_key": "3_2076665447789805568",
+          "start": 75,
+          "url": "https://t.co/BpnRHe904T"
+        },
+        {
+          "display_url": "pic.x.com/BpnRHe904T",
+          "end": 98,
+          "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+          "media_key": "3_2076665446888067072",
+          "start": 75,
+          "url": "https://t.co/BpnRHe904T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079178893425295386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076665457273180666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chuiertu_chan: 🐾我补发一遍呀\n这里Akira/晓晓\nod 戒割中 同类宝宝互fo大欢迎…\n我跟温良求在乎呀♡̷ ₍ᐢ..ᐢ₎ https://t.co/BpnRHe904T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2076665453171142656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHMOh2XcAAK-78.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076665445726203904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHMOGHWsAAHX6S.jpg",
+        "width": 1537
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2076665447789805568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHMONzWwAABZ_7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2076665446888067072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHMOKcXUAAd9N4.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076665453171142656",
+            "3_2076665445726203904",
+            "3_2076665447789805568",
+            "3_2076665446888067072"
+          ]
+        },
+        "author_id": "2062758646141054976",
+        "conversation_id": "2076665457273180666",
+        "created_at": "2026-07-13T13:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076665457273180666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BpnRHe904T",
+              "end": 79,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+              "media_key": "3_2076665453171142656",
+              "start": 56,
+              "url": "https://t.co/BpnRHe904T"
+            },
+            {
+              "display_url": "pic.x.com/BpnRHe904T",
+              "end": 79,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+              "media_key": "3_2076665445726203904",
+              "start": 56,
+              "url": "https://t.co/BpnRHe904T"
+            },
+            {
+              "display_url": "pic.x.com/BpnRHe904T",
+              "end": 79,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+              "media_key": "3_2076665447789805568",
+              "start": 56,
+              "url": "https://t.co/BpnRHe904T"
+            },
+            {
+              "display_url": "pic.x.com/BpnRHe904T",
+              "end": 79,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+              "media_key": "3_2076665446888067072",
+              "start": 56,
+              "url": "https://t.co/BpnRHe904T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076665457273180666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5394,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "🐾我补发一遍呀\n这里Akira/晓晓\nod 戒割中 同类宝宝互fo大欢迎…\n我跟温良求在乎呀♡̷ ₍ᐢ..ᐢ₎ https://t.co/BpnRHe904T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076665453171142656",
+            "3_2076665445726203904",
+            "3_2076665447789805568",
+            "3_2076665446888067072"
+          ],
+          "media_source_tweet_id": [
+            "2076665457273180666",
+            "2076665457273180666",
+            "2076665457273180666",
+            "2076665457273180666"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079178893425295386",
+        "created_at": "2026-07-20T12:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079178893425295386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2062758646141054976",
+              "start": 3,
+              "username": "Chuiertu_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BpnRHe904T",
+              "end": 98,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+              "media_key": "3_2076665453171142656",
+              "start": 75,
+              "url": "https://t.co/BpnRHe904T"
+            },
+            {
+              "display_url": "pic.x.com/BpnRHe904T",
+              "end": 98,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+              "media_key": "3_2076665445726203904",
+              "start": 75,
+              "url": "https://t.co/BpnRHe904T"
+            },
+            {
+              "display_url": "pic.x.com/BpnRHe904T",
+              "end": 98,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+              "media_key": "3_2076665447789805568",
+              "start": 75,
+              "url": "https://t.co/BpnRHe904T"
+            },
+            {
+              "display_url": "pic.x.com/BpnRHe904T",
+              "end": 98,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2076665457273180666/photo/1",
+              "media_key": "3_2076665446888067072",
+              "start": 75,
+              "url": "https://t.co/BpnRHe904T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079178893425295386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076665457273180666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chuiertu_chan: 🐾我补发一遍呀\n这里Akira/晓晓\nod 戒割中 同类宝宝互fo大欢迎…\n我跟温良求在乎呀♡̷ ₍ᐢ..ᐢ₎ https://t.co/BpnRHe904T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 39,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T04:50:25.000Z",
+        "description": "坏蛋世界。双子星@AkiraTT_chan \n互fo请私信呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "AkiraTT_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chuiertu_chan",
+                "end": 23,
+                "expanded_url": "http://t.me/Chuiertu_chan",
+                "start": 0,
+                "url": "https://t.co/og70qcUDvV"
+              }
+            ]
+          }
+        },
+        "id": "2062758646141054976",
+        "name": "Akira_晓",
+        "pinned_tweet_id": "2076665457273180666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076663312704512000/9fIpz77U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 84,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/og70qcUDvV",
+        "username": "Chuiertu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

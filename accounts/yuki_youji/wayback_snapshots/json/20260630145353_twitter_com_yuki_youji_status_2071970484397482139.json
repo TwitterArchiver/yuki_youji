@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2071960410807247137",
+    "created_at": "2026-06-30T14:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071970484397482139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067225262924738560",
+          "start": 0,
+          "username": "kawaiiocg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071970484397482139",
+    "in_reply_to_user_id": "2067225262924738560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071960410807247137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaiiocg 你真可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_2071960408584302592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEVA45XMAAPqy_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2071960410807247137",
+        "created_at": "2026-06-30T14:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071970484397482139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067225262924738560",
+              "start": 0,
+              "username": "kawaiiocg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071970484397482139",
+        "in_reply_to_user_id": "2067225262924738560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071960410807247137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaiiocg 你真可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071960408584302592"
+          ]
+        },
+        "author_id": "2067225262924738560",
+        "conversation_id": "2071960410807247137",
+        "created_at": "2026-06-30T14:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071960410807247137"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "jiraikei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKnqx8hvtI",
+              "end": 33,
+              "expanded_url": "https://x.com/kawaiiocg/status/2071960410807247137/photo/1",
+              "media_key": "3_2071960408584302592",
+              "start": 10,
+              "url": "https://t.co/gKnqx8hvtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071960410807247137",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#jiraikei https://t.co/gKnqx8hvtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo聊天💓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2071908328108876179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 20,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T12:38:50.000Z",
+        "description": "7 years of self-harm\nFake personality\nPrincess of Nightmare Land\nHospitalized in a psychiatric ward twice \nGod\n#希死念慮 #病み垢 #メンヘラ #メンヘラ女子 #メンクリ #shedtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 111,
+                "tag": "希死念慮"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "病み垢"
+              },
+              {
+                "end": 127,
+                "start": 122,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "tag": "メンヘラ女子"
+              },
+              {
+                "end": 141,
+                "start": 136,
+                "tag": "メンクリ"
+              },
+              {
+                "end": 150,
+                "start": 142,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "2067225262924738560",
+        "name": "ミチカ",
+        "pinned_tweet_id": "2067228651309986234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069077450483458048/Cbr0VPMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 117,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "kawaiiocg",
+        "verified": false
+      }
+    ]
+  }
+}

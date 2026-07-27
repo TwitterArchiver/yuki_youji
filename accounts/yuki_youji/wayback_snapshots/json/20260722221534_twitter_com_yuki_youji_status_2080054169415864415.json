@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079924591498285213",
+    "created_at": "2026-07-22T22:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T23:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080054169415864415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036099373608968192",
+          "start": 0,
+          "username": "szh80268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080054169415864415",
+    "in_reply_to_user_id": "2036099373608968192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079981262060863568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szh80268 钱我太爱你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079924591498285213",
+        "created_at": "2026-07-22T22:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080054169415864415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036099373608968192",
+              "start": 0,
+              "username": "szh80268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080054169415864415",
+        "in_reply_to_user_id": "2036099373608968192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079981262060863568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szh80268 钱我太爱你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036099373608968192",
+        "conversation_id": "2079924591498285213",
+        "created_at": "2026-07-22T17:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079981262060863568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079981262060863568",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079924591498285213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 錢我太愛你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜纯绿🚪25\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 63,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T15:15:03.000Z",
+        "description": "沒事可以找我聊天喔",
+        "id": "2036099373608968192",
+        "name": "素直",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036859816908619776/LYTzS830_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 380,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 2064
+        },
+        "url": "",
+        "username": "szh80268",
+        "verified": false
+      }
+    ]
+  }
+}

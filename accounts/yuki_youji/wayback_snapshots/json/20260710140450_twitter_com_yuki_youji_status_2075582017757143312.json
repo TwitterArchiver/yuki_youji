@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075581982596272128"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2075582017757143312",
+    "created_at": "2026-07-10T14:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075582017757143312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FovG9wrXwN",
+          "end": 29,
+          "expanded_url": "https://x.com/yuki_youji/status/2075582017757143312/photo/1",
+          "media_key": "3_2075581982596272128",
+          "start": 6,
+          "url": "https://t.co/FovG9wrXwN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075582017757143312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "试试新衣服 https://t.co/FovG9wrXwN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075581982596272128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3y0PbaEAAQwF1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075581982596272128"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2075582017757143312",
+        "created_at": "2026-07-10T14:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075582017757143312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FovG9wrXwN",
+              "end": 29,
+              "expanded_url": "https://x.com/yuki_youji/status/2075582017757143312/photo/1",
+              "media_key": "3_2075581982596272128",
+              "start": 6,
+              "url": "https://t.co/FovG9wrXwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075582017757143312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试试新衣服 https://t.co/FovG9wrXwN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2071908328108876179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 24,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      }
+    ]
+  }
+}

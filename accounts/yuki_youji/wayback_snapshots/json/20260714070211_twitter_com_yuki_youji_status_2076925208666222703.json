@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2076925208666222703",
+    "created_at": "2026-07-14T07:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076925208666222703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1929164111491076097",
+          "start": 3,
+          "username": "5885643597549c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076925208666222703",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076434852950552868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5885643597549c: メイクして、髪セットして、可愛い服着てもただの小綺麗なブス"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2076925208666222703",
+        "created_at": "2026-07-14T07:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076925208666222703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1929164111491076097",
+              "start": 3,
+              "username": "5885643597549c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076925208666222703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076434852950552868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5885643597549c: メイクして、髪セットして、可愛い服着てもただの小綺麗なブス"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929164111491076097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2076434852950552868",
+        "created_at": "2026-07-12T22:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076434852950552868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076434852950552868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 54371,
+          "like_count": 905,
+          "quote_count": 17,
+          "reply_count": 3,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "メイクして、髪セットして、可愛い服着てもただの小綺麗なブス"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2071908328108876179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 23,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 182
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T13:12:35.000Z",
+        "description": "👊🩸/全コンプ/無言フォロー🙇/コミュ障/自虐\nhttps://t.co/nBEArsxbIp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/4m45vqh0l2lvij…",
+                "end": 47,
+                "expanded_url": "https://marshmallow-qa.com/4m45vqh0l2lviji?t=GqJqfT&utm_medium=url_text&utm_source=promotion",
+                "start": 24,
+                "url": "https://t.co/nBEArsxbIp"
+              }
+            ]
+          }
+        },
+        "id": "1929164111491076097",
+        "name": "ｵｰﾝ",
+        "pinned_tweet_id": "2057401571718430918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056367829478502400/cQOVoCVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 119,
+          "like_count": 1895,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 554
+        },
+        "url": "",
+        "username": "5885643597549c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079184176327409664",
+        "3_2079184434574876672",
+        "3_2079184453394677760"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079184774573490440",
+    "created_at": "2026-07-20T12:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079184774573490440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7MTCKgT8dO",
+          "end": 71,
+          "expanded_url": "https://x.com/yuki_youji/status/2079184774573490440/photo/1",
+          "media_key": "3_2079184176327409664",
+          "start": 48,
+          "url": "https://t.co/7MTCKgT8dO"
+        },
+        {
+          "display_url": "pic.x.com/7MTCKgT8dO",
+          "end": 71,
+          "expanded_url": "https://x.com/yuki_youji/status/2079184774573490440/photo/1",
+          "media_key": "3_2079184434574876672",
+          "start": 48,
+          "url": "https://t.co/7MTCKgT8dO"
+        },
+        {
+          "display_url": "pic.x.com/7MTCKgT8dO",
+          "end": 71,
+          "expanded_url": "https://x.com/yuki_youji/status/2079184774573490440/photo/1",
+          "media_key": "3_2079184453394677760",
+          "start": 48,
+          "url": "https://t.co/7MTCKgT8dO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079184774573490440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我吃不起饭惹……求天使哥哥姐姐们过我的纯绿门，只要20，和我聊天可以吗，看在我这么可爱的份上😿 https://t.co/7MTCKgT8dO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2079184176327409664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq-_gybwAAtrU3.jpg",
+        "width": 1037
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079184434574876672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq_Oi1bYAA9qLq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079184453394677760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq_Po8awAAClv0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079184176327409664",
+            "3_2079184434574876672",
+            "3_2079184453394677760"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079184774573490440",
+        "created_at": "2026-07-20T12:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079184774573490440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7MTCKgT8dO",
+              "end": 71,
+              "expanded_url": "https://x.com/yuki_youji/status/2079184774573490440/photo/1",
+              "media_key": "3_2079184176327409664",
+              "start": 48,
+              "url": "https://t.co/7MTCKgT8dO"
+            },
+            {
+              "display_url": "pic.x.com/7MTCKgT8dO",
+              "end": 71,
+              "expanded_url": "https://x.com/yuki_youji/status/2079184774573490440/photo/1",
+              "media_key": "3_2079184434574876672",
+              "start": 48,
+              "url": "https://t.co/7MTCKgT8dO"
+            },
+            {
+              "display_url": "pic.x.com/7MTCKgT8dO",
+              "end": 71,
+              "expanded_url": "https://x.com/yuki_youji/status/2079184774573490440/photo/1",
+              "media_key": "3_2079184453394677760",
+              "start": 48,
+              "url": "https://t.co/7MTCKgT8dO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079184774573490440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃不起饭惹……求天使哥哥姐姐们过我的纯绿门，只要20，和我聊天可以吗，看在我这么可爱的份上😿 https://t.co/7MTCKgT8dO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 41,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      }
+    ]
+  }
+}

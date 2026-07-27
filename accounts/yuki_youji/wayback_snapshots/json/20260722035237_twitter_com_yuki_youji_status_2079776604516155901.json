@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079776604516155901",
+    "created_at": "2026-07-22T03:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079776604516155901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065572926825340928",
+          "start": 0,
+          "username": "xHxKxHxKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079776604516155901",
+    "in_reply_to_user_id": "2065572926825340928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@xHxKxHxKx 死蛆我给你个建议去跳楼吧你这惨淡无光的人生已经无趣到只能拿散发恶意的帖子给自己当自介了，你是整个推特最应该去死之人，被你伤害的所有精神病人的痛苦都会反噬到你身上因为你他妈就是个孽畜，你活着就毫无意义，你妈知道你只敢在网络上哔哔骂人吗，哦不，忘了你全家已经被我砍死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079776604516155901",
+        "created_at": "2026-07-22T03:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079776604516155901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065572926825340928",
+              "start": 0,
+              "username": "xHxKxHxKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079776604516155901",
+        "in_reply_to_user_id": "2065572926825340928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@xHxKxHxKx 死蛆我给你个建议去跳楼吧你这惨淡无光的人生已经无趣到只能拿散发恶意的帖子给自己当自介了，你是整个推特最应该去死之人，被你伤害的所有精神病人的痛苦都会反噬到你身上因为你他妈就是个孽畜，你活着就毫无意义，你妈知道你只敢在网络上哔哔骂人吗，哦不，忘了你全家已经被我砍死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 59,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T23:13:33.000Z",
+        "description": "xx",
+        "id": "2065572926825340928",
+        "name": "Lank",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079641762235342848/fN1vQBBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "xHxKxHxKx",
+        "verified": false
+      }
+    ]
+  }
+}

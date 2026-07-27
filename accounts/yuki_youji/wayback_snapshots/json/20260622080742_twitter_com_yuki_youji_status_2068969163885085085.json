@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2068969163885085085",
+    "created_at": "2026-06-22T08:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068969163885085085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woapmpble/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/woapmpble/status/2068925767589978140",
+          "start": 5,
+          "url": "https://t.co/tEIEh1RSUi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068969163885085085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068925767589978140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢你 https://t.co/tEIEh1RSUi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2068925678322585600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZM8VsaEAAmNRE.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1174,
+        "media_key": "3_2068925700112068608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZM9m3bMAAqkcJ.jpg",
+        "width": 1566
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2068925719963631616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZM-w0aAAAgsy0.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2068925742772371457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZNAFybwAEIGnz.jpg",
+        "width": 1700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2068969163885085085",
+        "created_at": "2026-06-22T08:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068969163885085085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woapmpble/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/woapmpble/status/2068925767589978140",
+              "start": 5,
+              "url": "https://t.co/tEIEh1RSUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068969163885085085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068925767589978140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢你 https://t.co/tEIEh1RSUi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068925678322585600",
+            "3_2068925700112068608",
+            "3_2068925719963631616",
+            "3_2068925742772371457"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2068925767589978140",
+        "created_at": "2026-06-22T05:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068925767589978140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jmp32SVvGW",
+              "end": 26,
+              "expanded_url": "https://x.com/woapmpble/status/2068925767589978140/photo/1",
+              "media_key": "3_2068925678322585600",
+              "start": 3,
+              "url": "https://t.co/Jmp32SVvGW"
+            },
+            {
+              "display_url": "pic.x.com/Jmp32SVvGW",
+              "end": 26,
+              "expanded_url": "https://x.com/woapmpble/status/2068925767589978140/photo/1",
+              "media_key": "3_2068925700112068608",
+              "start": 3,
+              "url": "https://t.co/Jmp32SVvGW"
+            },
+            {
+              "display_url": "pic.x.com/Jmp32SVvGW",
+              "end": 26,
+              "expanded_url": "https://x.com/woapmpble/status/2068925767589978140/photo/1",
+              "media_key": "3_2068925719963631616",
+              "start": 3,
+              "url": "https://t.co/Jmp32SVvGW"
+            },
+            {
+              "display_url": "pic.x.com/Jmp32SVvGW",
+              "end": 26,
+              "expanded_url": "https://x.com/woapmpble/status/2068925767589978140/photo/1",
+              "media_key": "3_2068925742772371457",
+              "start": 3,
+              "url": "https://t.co/Jmp32SVvGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068925767589978140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汪汪 https://t.co/Jmp32SVvGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜妻子的狗",
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2067505461872689324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 17,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/",
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

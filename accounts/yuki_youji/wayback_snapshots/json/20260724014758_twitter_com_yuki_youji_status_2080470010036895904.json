@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080283979333206016",
+        "3_2080283979379359744",
+        "3_2080283978578173952"
+      ],
+      "media_source_tweet_id": [
+        "2080284010761089517",
+        "2080284010761089517",
+        "2080284010761089517"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2080470010036895904",
+    "created_at": "2026-07-24T01:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T02:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080470010036895904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809227152073863168",
+          "start": 3,
+          "username": "xinxin052866"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FCwvNc0hIb",
+          "end": 136,
+          "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+          "media_key": "3_2080283979333206016",
+          "start": 113,
+          "url": "https://t.co/FCwvNc0hIb"
+        },
+        {
+          "display_url": "pic.x.com/FCwvNc0hIb",
+          "end": 136,
+          "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+          "media_key": "3_2080283979379359744",
+          "start": 113,
+          "url": "https://t.co/FCwvNc0hIb"
+        },
+        {
+          "display_url": "pic.x.com/FCwvNc0hIb",
+          "end": 136,
+          "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+          "media_key": "3_2080283978578173952",
+          "start": 113,
+          "url": "https://t.co/FCwvNc0hIb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080470010036895904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080284010761089517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinxin052866: 一则互fo\n♡这里是欣欣ᕱ⑅ᕱ  ྀི\n♡地雷係女子 喜欢可爱的一切\n♡雷霆恋爱脑 婉拒不喜欢我日常的&gt;ෆ&lt;\n♡具体都在p1了 妹宝摩多摩多\n♡希望我的互fo们天天开心永远幸福 https://t.co/FCwvNc0hIb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_2080283979333206016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6nQeQXgAAf6Ro.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2080283979379359744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6nQebXwAAGL_Z.jpg",
+        "width": 900
+      },
+      {
+        "height": 566,
+        "media_key": "3_2080283978578173952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6nQbcWoAA6KkS.jpg",
+        "width": 552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080283979333206016",
+            "3_2080283979379359744",
+            "3_2080283978578173952"
+          ]
+        },
+        "author_id": "1809227152073863168",
+        "conversation_id": "2080284010761089517",
+        "created_at": "2026-07-23T13:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080284010761089517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FCwvNc0hIb",
+              "end": 118,
+              "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+              "media_key": "3_2080283979333206016",
+              "start": 95,
+              "url": "https://t.co/FCwvNc0hIb"
+            },
+            {
+              "display_url": "pic.x.com/FCwvNc0hIb",
+              "end": 118,
+              "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+              "media_key": "3_2080283979379359744",
+              "start": 95,
+              "url": "https://t.co/FCwvNc0hIb"
+            },
+            {
+              "display_url": "pic.x.com/FCwvNc0hIb",
+              "end": 118,
+              "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+              "media_key": "3_2080283978578173952",
+              "start": 95,
+              "url": "https://t.co/FCwvNc0hIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080284010761089517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一则互fo\n♡这里是欣欣ᕱ⑅ᕱ  ྀི\n♡地雷係女子 喜欢可爱的一切\n♡雷霆恋爱脑 婉拒不喜欢我日常的&gt;ෆ&lt;\n♡具体都在p1了 妹宝摩多摩多\n♡希望我的互fo们天天开心永远幸福 https://t.co/FCwvNc0hIb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080283979333206016",
+            "3_2080283979379359744",
+            "3_2080283978578173952"
+          ],
+          "media_source_tweet_id": [
+            "2080284010761089517",
+            "2080284010761089517",
+            "2080284010761089517"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2080470010036895904",
+        "created_at": "2026-07-24T01:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080470010036895904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809227152073863168",
+              "start": 3,
+              "username": "xinxin052866"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FCwvNc0hIb",
+              "end": 136,
+              "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+              "media_key": "3_2080283979333206016",
+              "start": 113,
+              "url": "https://t.co/FCwvNc0hIb"
+            },
+            {
+              "display_url": "pic.x.com/FCwvNc0hIb",
+              "end": 136,
+              "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+              "media_key": "3_2080283979379359744",
+              "start": 113,
+              "url": "https://t.co/FCwvNc0hIb"
+            },
+            {
+              "display_url": "pic.x.com/FCwvNc0hIb",
+              "end": 136,
+              "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+              "media_key": "3_2080283978578173952",
+              "start": 113,
+              "url": "https://t.co/FCwvNc0hIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080470010036895904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080284010761089517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xinxin052866: 一则互fo\n♡这里是欣欣ᕱ⑅ᕱ  ྀི\n♡地雷係女子 喜欢可爱的一切\n♡雷霆恋爱脑 婉拒不喜欢我日常的&gt;ෆ&lt;\n♡具体都在p1了 妹宝摩多摩多\n♡希望我的互fo们天天开心永远幸福 https://t.co/FCwvNc0hIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜纯绿🚪25\n妻子@woapmpble的狗\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080199739530973649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 78,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:06:11.000Z",
+        "description": "09 INFP-T 双子 | 高精力健全入 | 雷霆恋爱脑 | 大部分话为口嗨 | 狗啃日语勇闯日高ing",
+        "id": "1809227152073863168",
+        "location": "天国",
+        "name": "xin欣",
+        "pinned_tweet_id": "2080284010761089517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003009839216091136/x71o1FI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 88,
+          "like_count": 7938,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 454
+        },
+        "url": "",
+        "username": "xinxin052866",
+        "verified": true
+      }
+    ]
+  }
+}

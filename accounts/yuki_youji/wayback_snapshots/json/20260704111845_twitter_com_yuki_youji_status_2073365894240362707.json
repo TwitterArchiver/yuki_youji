@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2068608405976338576",
+    "created_at": "2026-07-04T11:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073365894240362707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1707962415428816896",
+          "start": 0,
+          "username": "MTAT216"
+        },
+        {
+          "end": 20,
+          "id": "1468680674458488833",
+          "start": 9,
+          "username": "Doll070707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073365894240362707",
+    "in_reply_to_user_id": "1707962415428816896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071612203460132950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTAT216 @Doll070707 走闲鱼不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2068608405976338576",
+        "created_at": "2026-07-04T11:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073365894240362707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1707962415428816896",
+              "start": 0,
+              "username": "MTAT216"
+            },
+            {
+              "end": 20,
+              "id": "1468680674458488833",
+              "start": 9,
+              "username": "Doll070707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073365894240362707",
+        "in_reply_to_user_id": "1707962415428816896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071612203460132950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTAT216 @Doll070707 走闲鱼不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707962415428816896",
+        "conversation_id": "2068608405976338576",
+        "created_at": "2026-06-29T15:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071612203460132950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468680674458488833",
+              "start": 0,
+              "username": "Doll070707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071612203460132950",
+        "in_reply_to_user_id": "1468680674458488833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068608405976338576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doll070707 谁要愈美我有10盒要出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo聊天💓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2071908328108876179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 23,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T03:36:02.000Z",
+        "description": "ovo",
+        "id": "1707962415428816896",
+        "location": "0.1km",
+        "name": "小猫公主",
+        "pinned_tweet_id": "1946556407597195614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926687333903937536/X32JNX6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 72,
+          "like_count": 525,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "MTAT216",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T20:35:47.000Z",
+        "description": "扩列52谁想加我",
+        "id": "1468680674458488833",
+        "name": "yd",
+        "pinned_tweet_id": "1998762211867766834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893254177893060608/Hu16SB4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 120,
+          "like_count": 818,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "Doll070707",
+        "verified": false
+      }
+    ]
+  }
+}

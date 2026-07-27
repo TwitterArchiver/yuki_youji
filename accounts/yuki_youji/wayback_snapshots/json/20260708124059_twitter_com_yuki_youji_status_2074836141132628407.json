@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074836072694202368",
+        "3_2074836115094409217"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2074836141132628407",
+    "created_at": "2026-07-08T12:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074836141132628407"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "地雷系"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ajReSii7S",
+          "end": 28,
+          "expanded_url": "https://x.com/yuki_youji/status/2074836141132628407/photo/1",
+          "media_key": "3_2074836072694202368",
+          "start": 5,
+          "url": "https://t.co/2ajReSii7S"
+        },
+        {
+          "display_url": "pic.x.com/2ajReSii7S",
+          "end": 28,
+          "expanded_url": "https://x.com/yuki_youji/status/2074836141132628407/photo/1",
+          "media_key": "3_2074836115094409217",
+          "start": 5,
+          "url": "https://t.co/2ajReSii7S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074836141132628407",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#地雷系 https://t.co/2ajReSii7S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074836072694202368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtMakgawAAhFJI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074836115094409217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtMdCdakAEyZ3D.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074836072694202368",
+            "3_2074836115094409217"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2074836141132628407",
+        "created_at": "2026-07-08T12:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074836141132628407"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ajReSii7S",
+              "end": 28,
+              "expanded_url": "https://x.com/yuki_youji/status/2074836141132628407/photo/1",
+              "media_key": "3_2074836072694202368",
+              "start": 5,
+              "url": "https://t.co/2ajReSii7S"
+            },
+            {
+              "display_url": "pic.x.com/2ajReSii7S",
+              "end": 28,
+              "expanded_url": "https://x.com/yuki_youji/status/2074836141132628407/photo/1",
+              "media_key": "3_2074836115094409217",
+              "start": 5,
+              "url": "https://t.co/2ajReSii7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074836141132628407",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷系 https://t.co/2ajReSii7S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2071908328108876179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 22,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      }
+    ]
+  }
+}

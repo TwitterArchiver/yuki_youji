@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2080977061032968526",
+    "created_at": "2026-07-25T12:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080988342108426725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1404997135360270343",
+          "start": 0,
+          "username": "_yukinaOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080988342108426725",
+    "in_reply_to_user_id": "1404997135360270343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080977061032968526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yukinaOvO 梦限大很好！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10066,
+        "height": 1920,
+        "media_key": "13_2080976646845472768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080976646845472768/img/_DcNAARdqH7JkXCB.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080976646845472768/vid/avc1/720x1280/dNOAIf-L9mEjqcld.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080976646845472768/vid/avc1/320x568/g7nXfxREJwpLiZzm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080976646845472768/pl/jmK8BFgGLWQDcqh1.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080976646845472768/vid/avc1/1080x1920/GK0o5KD6EtFhaXvA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080976646845472768/vid/avc1/480x852/NITNmP5Hth7uLGJP.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2080977061032968526",
+        "created_at": "2026-07-25T12:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080988342108426725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1404997135360270343",
+              "start": 0,
+              "username": "_yukinaOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080988342108426725",
+        "in_reply_to_user_id": "1404997135360270343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080977061032968526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yukinaOvO 梦限大很好！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080976646845472768"
+          ]
+        },
+        "author_id": "1404997135360270343",
+        "conversation_id": "2080977061032968526",
+        "created_at": "2026-07-25T11:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080977061032968526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wedE9IZxQp",
+              "end": 23,
+              "expanded_url": "https://x.com/_yukinaOvO/status/2080977061032968526/video/1",
+              "media_key": "13_2080976646845472768",
+              "start": 0,
+              "url": "https://t.co/wedE9IZxQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080977061032968526",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wedE9IZxQp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿🚪25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 122,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T03:00:05.000Z",
+        "description": "^⌯𖥦⌯^ ੭ 鹿角/Yukina❄️ 04┆碎碎念記錄合集┆水色🩵┆中文En OK、日本語勉強中┆音游┆繪畫┆毛绒大好き┆ハチワレ、湊友希那、リラックマ┆直fo成分回┆不喜歡我請滾出我的世界┆最爱@TheDuckyyyyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 99,
+                "username": "TheDuckyyyyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yuki_ovo_neko",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@yuki_ovo_neko",
+                "start": 0,
+                "url": "https://t.co/MI0cejXPTN"
+              }
+            ]
+          }
+        },
+        "id": "1404997135360270343",
+        "location": "｡ﾟ+.雨° 雪꜆˖♡* 貓咪/ᐠ - ˕ -マ Ⳋ",
+        "name": "Yuki._.Neko",
+        "pinned_tweet_id": "2080541230979825679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079184577940312064/VYDursNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 355,
+          "like_count": 3525,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1513
+        },
+        "url": "https://t.co/MI0cejXPTN",
+        "username": "_yukinaOvO",
+        "verified": false
+      }
+    ]
+  }
+}

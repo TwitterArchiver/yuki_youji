@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2080968037977772223",
+    "created_at": "2026-07-25T13:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081004614900703336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076508802137149440",
+          "start": 0,
+          "username": "uuuUu18sage777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081004614900703336",
+    "in_reply_to_user_id": "2076508802137149440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080989747623923791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uuuUu18sage777 🥺💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2080968037977772223",
+        "created_at": "2026-07-25T13:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081004614900703336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076508802137149440",
+              "start": 0,
+              "username": "uuuUu18sage777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081004614900703336",
+        "in_reply_to_user_id": "2076508802137149440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080989747623923791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uuuUu18sage777 🥺💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076508802137149440",
+        "conversation_id": "2080968037977772223",
+        "created_at": "2026-07-25T12:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080989747623923791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080989747623923791",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080968037977772223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 吹吹不痛了🥺🌬️🌬️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿🚪25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 123,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T03:28:58.000Z",
+        "description": "8teen 直女 mdd/cptsd/adhd/bulimia转限制 EN/简中 #shedtwt #tcc 新教徒待受洗 #moots #midwestemo 💉 #Mounjaro 10mg gw115lbs 互fo欢迎 i block freely😋i follow back 暗恋孙笑川",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "tcc"
+              },
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "moots"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "midwestemo"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "tag": "Mounjaro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/WNRIHx14RL"
+              }
+            ]
+          }
+        },
+        "id": "2076508802137149440",
+        "location": "Springfield, IL",
+        "name": "uu777🇺🇸dpna_irl",
+        "pinned_tweet_id": "2080932032667152531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076699309941424130/wmDPpwfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 130,
+          "like_count": 1994,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/WNRIHx14RL",
+        "username": "uuuUu18sage777",
+        "verified": false
+      }
+    ]
+  }
+}

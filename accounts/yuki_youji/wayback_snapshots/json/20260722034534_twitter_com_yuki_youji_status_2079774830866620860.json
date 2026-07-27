@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079596588423594036",
+    "created_at": "2026-07-22T03:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079774830866620860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065572926825340928",
+          "start": 0,
+          "username": "xHxKxHxKx"
+        },
+        {
+          "end": 21,
+          "id": "2067599818109984768",
+          "start": 11,
+          "username": "woapmpble"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079774830866620860",
+    "in_reply_to_user_id": "2065572926825340928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079644327366844421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xHxKxHxKx @woapmpble 去死吧刻薄蛆无视他人痛苦煽风点火是不是觉得自己可帅了 其实你只是一条只敢在互联网对少数群体散发恶意的蛆，你最好的路就是去卖屁眼，死蛆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079596588423594036",
+        "created_at": "2026-07-22T03:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079774830866620860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065572926825340928",
+              "start": 0,
+              "username": "xHxKxHxKx"
+            },
+            {
+              "end": 21,
+              "id": "2067599818109984768",
+              "start": 11,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079774830866620860",
+        "in_reply_to_user_id": "2065572926825340928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079644327366844421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xHxKxHxKx @woapmpble 去死吧刻薄蛆无视他人痛苦煽风点火是不是觉得自己可帅了 其实你只是一条只敢在互联网对少数群体散发恶意的蛆，你最好的路就是去卖屁眼，死蛆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065572926825340928",
+        "conversation_id": "2079596588423594036",
+        "created_at": "2026-07-21T19:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079644327366844421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067599818109984768",
+              "start": 0,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079644327366844421",
+        "in_reply_to_user_id": "2067599818109984768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079596588423594036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woapmpble 难受了就继续磕呀，磕完不就不难受了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 59,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T23:13:33.000Z",
+        "description": "xx",
+        "id": "2065572926825340928",
+        "name": "Lank",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079641762235342848/fN1vQBBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "xHxKxHxKx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 94,
+          "like_count": 2354,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081020280521240609",
+    "created_at": "2026-07-25T14:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081020280521240609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680544465671561216",
+          "start": 3,
+          "username": "LXL0102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081020280521240609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044418589713973522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LXL0102: 大家好，我是离心力😈请不要再恶意举报我，私信互fo大欢迎‼️不爱看就滚\n🈚️🚪不加蝻\n\n神秘学爱好者，从事六年神秘学相关工作，东西玄兼得，女巫一枚，接一些塔罗｜蜡烛｜调频｜通灵等玄学项目\n\n前身餐券妹已脱离苦海😋我很爱我男朋友，发些🔞\n\n我的推文可能会…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044418583456002048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF873q8aMAAEkbz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044418583460200448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF873q9aQAA51vn.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2044418583485448192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF873rDbgAAwk4o.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081020280521240609",
+        "created_at": "2026-07-25T14:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081020280521240609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680544465671561216",
+              "start": 3,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081020280521240609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044418589713973522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LXL0102: 大家好，我是离心力😈请不要再恶意举报我，私信互fo大欢迎‼️不爱看就滚\n🈚️🚪不加蝻\n\n神秘学爱好者，从事六年神秘学相关工作，东西玄兼得，女巫一枚，接一些塔罗｜蜡烛｜调频｜通灵等玄学项目\n\n前身餐券妹已脱离苦海😋我很爱我男朋友，发些🔞\n\n我的推文可能会…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044418583456002048",
+            "3_2044418583460200448",
+            "3_2044418583485448192"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044418589713973522",
+        "created_at": "2026-04-15T14:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044418589713973522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dU483A68LK",
+              "end": 175,
+              "expanded_url": "https://x.com/LXL0102/status/2044418589713973522/photo/1",
+              "media_key": "3_2044418583456002048",
+              "start": 152,
+              "url": "https://t.co/dU483A68LK"
+            },
+            {
+              "display_url": "pic.x.com/dU483A68LK",
+              "end": 175,
+              "expanded_url": "https://x.com/LXL0102/status/2044418589713973522/photo/1",
+              "media_key": "3_2044418583460200448",
+              "start": 152,
+              "url": "https://t.co/dU483A68LK"
+            },
+            {
+              "display_url": "pic.x.com/dU483A68LK",
+              "end": 175,
+              "expanded_url": "https://x.com/LXL0102/status/2044418589713973522/photo/1",
+              "media_key": "3_2044418583485448192",
+              "start": 152,
+              "url": "https://t.co/dU483A68LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044418589713973522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6880,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是离心力😈请不要再恶意举报我，私信互fo大欢迎‼️不爱看就滚\n🈚️🚪不加蝻\n\n神秘学爱好者，从事六年神秘学相关工作，东西玄兼得，女巫一枚，接一些塔罗｜蜡烛｜调频｜通灵等玄学项目\n\n前身餐券妹已脱离苦海😋我很爱我男朋友，发些🔞\n\n我的推文可能会出现：\n恋爱日常／不良言论 /oc\n求转发喵~_^ https://t.co/dU483A68LK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿🚪25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 128,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 371,
+          "like_count": 1696,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 3605
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

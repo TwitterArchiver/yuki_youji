@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2080988764911100293",
+    "created_at": "2026-07-25T12:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080988764911100293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1904731881817735168",
+          "start": 3,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080988764911100293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074083499922047374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3e1diei0_oi7y: 我这个人真的很坏很坏...所以你们不要对我有好印象，更不要给我好脸色看&gt;_&lt;。\n我这个人真的特别特别坏...我可邪恶了我...我就是很坏的那种人，我总是...我总是很容易很容易因为害怕别人而对他人抱持敌意。\n我这个人超级那个什么的。总之如果…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1419,
+        "media_key": "3_2074083488937230336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMif8bibQAAPdxh.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2080988764911100293",
+        "created_at": "2026-07-25T12:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080988764911100293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1904731881817735168",
+              "start": 3,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080988764911100293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074083499922047374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3e1diei0_oi7y: 我这个人真的很坏很坏...所以你们不要对我有好印象，更不要给我好脸色看&gt;_&lt;。\n我这个人真的特别特别坏...我可邪恶了我...我就是很坏的那种人，我总是...我总是很容易很容易因为害怕别人而对他人抱持敌意。\n我这个人超级那个什么的。总之如果…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074083488937230336"
+          ]
+        },
+        "author_id": "1904731881817735168",
+        "conversation_id": "2074083499922047374",
+        "created_at": "2026-07-06T10:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074083499922047374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rz565boetk",
+              "end": 171,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2074083499922047374/photo/1",
+              "media_key": "3_2074083488937230336",
+              "start": 148,
+              "url": "https://t.co/rz565boetk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074083499922047374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4707,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我这个人真的很坏很坏...所以你们不要对我有好印象，更不要给我好脸色看&gt;_&lt;。\n我这个人真的特别特别坏...我可邪恶了我...我就是很坏的那种人，我总是...我总是很容易很容易因为害怕别人而对他人抱持敌意。\n我这个人超级那个什么的。总之如果和我交朋友的话还是要考虑考虑清楚喔.... https://t.co/rz565boetk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿🚪25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 122,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 454,
+          "like_count": 25468,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      }
+    ]
+  }
+}

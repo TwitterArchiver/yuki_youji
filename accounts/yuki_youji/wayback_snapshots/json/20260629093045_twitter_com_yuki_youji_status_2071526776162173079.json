@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2071526776162173079",
+    "created_at": "2026-06-29T09:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071526776162173079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woapmpble/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/woapmpble/status/2071526251005988904",
+          "start": 12,
+          "url": "https://t.co/TIr6FM9QVe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071526776162173079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071526251005988904",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "(大摇大摆地走来走去) https://t.co/TIr6FM9QVe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071526042146385920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-J9b0bMAAJcHJ.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2071526776162173079",
+        "created_at": "2026-06-29T09:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071526776162173079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woapmpble/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/woapmpble/status/2071526251005988904",
+              "start": 12,
+              "url": "https://t.co/TIr6FM9QVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071526776162173079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071526251005988904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "(大摇大摆地走来走去) https://t.co/TIr6FM9QVe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071526042146385920"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2071526251005988904",
+        "created_at": "2026-06-29T09:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071526251005988904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "2067466998393753600",
+              "start": 25,
+              "username": "yuki_youji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1x0TqhOTAy",
+              "end": 60,
+              "expanded_url": "https://x.com/woapmpble/status/2071526251005988904/photo/1",
+              "media_key": "3_2071526042146385920",
+              "start": 37,
+              "url": "https://t.co/1x0TqhOTAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071526251005988904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妻子给我画的自设希望你们能懂这张图的美味之处\n妻子@yuki_youji https://t.co/1x0TqhOTAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜妻子的狗",
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2067505461872689324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 19,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 18,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

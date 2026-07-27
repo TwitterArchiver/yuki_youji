@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068201125908762624",
+        "3_2068201125921353728"
+      ],
+      "media_source_tweet_id": [
+        "2068201135278813575",
+        "2068201135278813575"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081006941346963790",
+    "created_at": "2026-07-25T13:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081006941346963790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063545023812243456",
+          "start": 3,
+          "username": "AgonyTwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Vnq4EIdXq",
+          "end": 125,
+          "expanded_url": "https://x.com/AgonyTwT/status/2068201135278813575/photo/1",
+          "media_key": "3_2068201125908762624",
+          "start": 102,
+          "url": "https://t.co/8Vnq4EIdXq"
+        },
+        {
+          "display_url": "pic.x.com/8Vnq4EIdXq",
+          "end": 125,
+          "expanded_url": "https://x.com/AgonyTwT/status/2068201135278813575/photo/1",
+          "media_key": "3_2068201125921353728",
+          "start": 102,
+          "url": "https://t.co/8Vnq4EIdXq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081006941346963790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068201135278813575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgonyTwT: =小伤 重生转世 不要再炸我号了\n脾气很好 不要欺负我 我是极度玻璃心T…T\n极度缺钱 请多多投喂我宠爱我吧( ᵒ̴̶̷̥́ ^ ᵒ̴̶̷̣̥̀ )\n欢迎女孩子找我互fo互转 https://t.co/8Vnq4EIdXq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068201125908762624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO591na0AAnLUK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2068201125921353728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO591qa8AA7Gfa.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068201125908762624",
+            "3_2068201125921353728"
+          ]
+        },
+        "author_id": "2063545023812243456",
+        "conversation_id": "2068201135278813575",
+        "created_at": "2026-06-20T05:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068201135278813575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Vnq4EIdXq",
+              "end": 111,
+              "expanded_url": "https://x.com/AgonyTwT/status/2068201135278813575/photo/1",
+              "media_key": "3_2068201125908762624",
+              "start": 88,
+              "url": "https://t.co/8Vnq4EIdXq"
+            },
+            {
+              "display_url": "pic.x.com/8Vnq4EIdXq",
+              "end": 111,
+              "expanded_url": "https://x.com/AgonyTwT/status/2068201135278813575/photo/1",
+              "media_key": "3_2068201125921353728",
+              "start": 88,
+              "url": "https://t.co/8Vnq4EIdXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068201135278813575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11222,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "=小伤 重生转世 不要再炸我号了\n脾气很好 不要欺负我 我是极度玻璃心T…T\n极度缺钱 请多多投喂我宠爱我吧( ᵒ̴̶̷̥́ ^ ᵒ̴̶̷̣̥̀ )\n欢迎女孩子找我互fo互转 https://t.co/8Vnq4EIdXq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068201125908762624",
+            "3_2068201125921353728"
+          ],
+          "media_source_tweet_id": [
+            "2068201135278813575",
+            "2068201135278813575"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081006941346963790",
+        "created_at": "2026-07-25T13:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081006941346963790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063545023812243456",
+              "start": 3,
+              "username": "AgonyTwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Vnq4EIdXq",
+              "end": 125,
+              "expanded_url": "https://x.com/AgonyTwT/status/2068201135278813575/photo/1",
+              "media_key": "3_2068201125908762624",
+              "start": 102,
+              "url": "https://t.co/8Vnq4EIdXq"
+            },
+            {
+              "display_url": "pic.x.com/8Vnq4EIdXq",
+              "end": 125,
+              "expanded_url": "https://x.com/AgonyTwT/status/2068201135278813575/photo/1",
+              "media_key": "3_2068201125921353728",
+              "start": 102,
+              "url": "https://t.co/8Vnq4EIdXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081006941346963790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068201135278813575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AgonyTwT: =小伤 重生转世 不要再炸我号了\n脾气很好 不要欺负我 我是极度玻璃心T…T\n极度缺钱 请多多投喂我宠爱我吧( ᵒ̴̶̷̥́ ^ ᵒ̴̶̷̣̥̀ )\n欢迎女孩子找我互fo互转 https://t.co/8Vnq4EIdXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿🚪25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 125,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T08:56:59.000Z",
+        "description": "愿有最终归去 防炸号互转三天取消",
+        "id": "2063545023812243456",
+        "name": "存在感为零",
+        "pinned_tweet_id": "2068201135278813575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063546607300497408/XisHv96Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 10,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "AgonyTwT",
+        "verified": false
+      }
+    ]
+  }
+}

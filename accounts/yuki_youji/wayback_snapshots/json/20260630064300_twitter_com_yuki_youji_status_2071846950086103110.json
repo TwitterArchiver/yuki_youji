@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2071768054481223731",
+    "created_at": "2026-06-30T06:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071846950086103110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1977438559817854976",
+          "start": 0,
+          "username": "b7520chazhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071846950086103110",
+    "in_reply_to_user_id": "1977438559817854976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071768054481223731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@b7520chazhi 真可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071768030741491712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBmDBlbcAAV0nr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2071768054481223731",
+        "created_at": "2026-06-30T06:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071846950086103110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1977438559817854976",
+              "start": 0,
+              "username": "b7520chazhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071846950086103110",
+        "in_reply_to_user_id": "1977438559817854976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071768054481223731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b7520chazhi 真可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071768030741491712"
+          ]
+        },
+        "author_id": "1977438559817854976",
+        "conversation_id": "2071768054481223731",
+        "created_at": "2026-06-30T01:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071768054481223731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uguF43pXf3",
+              "end": 27,
+              "expanded_url": "https://x.com/b7520chazhi/status/2071768054481223731/photo/1",
+              "media_key": "3_2071768030741491712",
+              "start": 4,
+              "url": "https://t.co/uguF43pXf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071768054481223731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啦啦啦 https://t.co/uguF43pXf3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2071529090423877747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 20,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T18:17:59.000Z",
+        "description": "主页全是片的人关注我会死全家\n只和女生玩 有妹子想和我互的可以直接私信我",
+        "id": "1977438559817854976",
+        "name": "kisana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067564632680890368/y50FPeBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 54,
+          "like_count": 1734,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "b7520chazhi",
+        "verified": false
+      }
+    ]
+  }
+}

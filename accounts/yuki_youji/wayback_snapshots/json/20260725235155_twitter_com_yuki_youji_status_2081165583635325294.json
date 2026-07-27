@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2080968037977772223",
+    "created_at": "2026-07-25T23:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T00:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081165583635325294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2079859346742079488",
+          "start": 0,
+          "username": "erikrulk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081165583635325294",
+    "in_reply_to_user_id": "2079859346742079488",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081146548717756816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erikrulk 🥺💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2080968037977772223",
+        "created_at": "2026-07-25T23:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081165583635325294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2079859346742079488",
+              "start": 0,
+              "username": "erikrulk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081165583635325294",
+        "in_reply_to_user_id": "2079859346742079488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081146548717756816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erikrulk 🥺💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079859346742079488",
+        "conversation_id": "2080968037977772223",
+        "created_at": "2026-07-25T22:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081146548717756816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081146548717756816",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080968037977772223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 爱你！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 130,
+          "like_count": 796,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 438
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-22T09:24:00.000Z",
+        "description": "阴沉男  地雷系  轻度M  轻度S  视觉系 性瘾  斯德哥尔摩    重度双相  躯体化 ZC  病娇   无工作  现实重度社交障碍  ptsd",
+        "id": "2079859346742079488",
+        "location": "无意义",
+        "name": "清晨",
+        "pinned_tweet_id": "2080010721929445398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080390177709850624/Gjf1xos4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 266,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "erikrulk",
+        "verified": false
+      }
+    ]
+  }
+}

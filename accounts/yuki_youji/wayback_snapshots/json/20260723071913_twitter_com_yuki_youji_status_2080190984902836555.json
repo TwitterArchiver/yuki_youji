@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2080167217455624678",
+    "created_at": "2026-07-23T07:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080190984902836555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1377077873438117891",
+          "start": 0,
+          "username": "V6jzXtfX8Fir0IE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080190984902836555",
+    "in_reply_to_user_id": "1377077873438117891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080182229725290727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@V6jzXtfX8Fir0IE 每个女孩都很美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2080167217455624678",
+        "created_at": "2026-07-23T07:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080190984902836555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1377077873438117891",
+              "start": 0,
+              "username": "V6jzXtfX8Fir0IE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080190984902836555",
+        "in_reply_to_user_id": "1377077873438117891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080182229725290727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V6jzXtfX8Fir0IE 每个女孩都很美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377077873438117891",
+        "conversation_id": "2080167217455624678",
+        "created_at": "2026-07-23T06:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080182229725290727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080182229725290727",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080167217455624678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 超过玩推特90%的女生了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜纯绿🚪25\n妻子@woapmpble的狗\n欢迎和我互fo，没回关可能是没看见，互fo小窗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 72,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T01:58:56.000Z",
+        "description": "noting",
+        "id": "1377077873438117891",
+        "name": "Saudade",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570660267113185280/Sw22UJ1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 210,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "V6jzXtfX8Fir0IE",
+        "verified": false
+      }
+    ]
+  }
+}

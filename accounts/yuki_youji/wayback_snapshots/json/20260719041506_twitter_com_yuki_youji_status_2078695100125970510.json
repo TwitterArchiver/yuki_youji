@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078694840976777216"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2078695100125970510",
+    "created_at": "2026-07-19T04:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078695100125970510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3WRh532iTh",
+          "end": 31,
+          "expanded_url": "https://x.com/yuki_youji/status/2078695100125970510/video/1",
+          "media_key": "13_2078694840976777216",
+          "start": 8,
+          "url": "https://t.co/3WRh532iTh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078695100125970510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "*音量注意⚠️ https://t.co/3WRh532iTh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9333,
+        "height": 1920,
+        "media_key": "13_2078694840976777216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078694840976777216/img/r5fg9qNNyEi5yr9v.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078694840976777216/vid/avc1/320x568/VgnquTJlFXa5T16J.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078694840976777216/vid/avc1/480x852/GOfEN2muQdl5fz_z.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078694840976777216/vid/avc1/720x1280/AGn4yFMTyzgYOqyB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078694840976777216/pl/igA896Hg1_q5OHt0.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078694840976777216"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2078695100125970510",
+        "created_at": "2026-07-19T04:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078695100125970510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WRh532iTh",
+              "end": 31,
+              "expanded_url": "https://x.com/yuki_youji/status/2078695100125970510/video/1",
+              "media_key": "13_2078694840976777216",
+              "start": 8,
+              "url": "https://t.co/3WRh532iTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078695100125970510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "*音量注意⚠️ https://t.co/3WRh532iTh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2071908328108876179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 26,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      }
+    ]
+  }
+}

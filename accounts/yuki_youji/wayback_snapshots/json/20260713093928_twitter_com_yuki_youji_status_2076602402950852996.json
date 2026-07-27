@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2076293302715068771",
+    "created_at": "2026-07-13T09:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076602402950852996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067599818109984768",
+          "start": 0,
+          "username": "woapmpble"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076602402950852996",
+    "in_reply_to_user_id": "2067599818109984768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076293302715068771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woapmpble 妻子我爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2076291628768358400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNB4PFba8AAnXhg.png",
+        "width": 719
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2076291652864638976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNB4QfMbAAAzk-a.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076291673261477888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNB4RrLaEAA_3IC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2076291950697926656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNB4h0taUAArQWN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2076293302715068771",
+        "created_at": "2026-07-13T09:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076602402950852996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067599818109984768",
+              "start": 0,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076602402950852996",
+        "in_reply_to_user_id": "2067599818109984768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076293302715068771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woapmpble 妻子我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076291628768358400",
+            "3_2076291652864638976",
+            "3_2076291673261477888",
+            "3_2076291950697926656"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2076293302715068771",
+        "created_at": "2026-07-12T13:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076293302715068771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3DVvHsf9KO",
+              "end": 96,
+              "expanded_url": "https://x.com/woapmpble/status/2076293302715068771/photo/1",
+              "media_key": "3_2076291628768358400",
+              "start": 73,
+              "url": "https://t.co/3DVvHsf9KO"
+            },
+            {
+              "display_url": "pic.x.com/3DVvHsf9KO",
+              "end": 96,
+              "expanded_url": "https://x.com/woapmpble/status/2076293302715068771/photo/1",
+              "media_key": "3_2076291652864638976",
+              "start": 73,
+              "url": "https://t.co/3DVvHsf9KO"
+            },
+            {
+              "display_url": "pic.x.com/3DVvHsf9KO",
+              "end": 96,
+              "expanded_url": "https://x.com/woapmpble/status/2076293302715068771/photo/1",
+              "media_key": "3_2076291673261477888",
+              "start": 73,
+              "url": "https://t.co/3DVvHsf9KO"
+            },
+            {
+              "display_url": "pic.x.com/3DVvHsf9KO",
+              "end": 96,
+              "expanded_url": "https://x.com/woapmpble/status/2076293302715068771/photo/1",
+              "media_key": "3_2076291950697926656",
+              "start": 73,
+              "url": "https://t.co/3DVvHsf9KO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076293302715068771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "₍ᐢ..ᐢ₎ ༘♡\n我是程逸璐，叫我璐璐好不好？\n低能儿/小画师/女同性恋/妻子享受者/非健全/od\n吐黑泥碎碎念，不喜欢被定义\n很高兴认识你！ https://t.co/3DVvHsf9KO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2071908328108876179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 23,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 62,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

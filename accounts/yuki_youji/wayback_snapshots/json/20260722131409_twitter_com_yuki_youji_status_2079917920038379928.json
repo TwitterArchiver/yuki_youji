@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079917589053260014",
+    "created_at": "2026-07-22T13:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079917920038379928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945464784763457536",
+          "start": 0,
+          "username": "KuriYasuma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079917920038379928",
+    "in_reply_to_user_id": "1945464784763457536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079917696603591082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuriYasuma 亲亲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079917589053260014",
+        "created_at": "2026-07-22T13:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079917920038379928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945464784763457536",
+              "start": 0,
+              "username": "KuriYasuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079917920038379928",
+        "in_reply_to_user_id": "1945464784763457536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079917696603591082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuriYasuma 亲亲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945464784763457536",
+        "conversation_id": "2079917589053260014",
+        "created_at": "2026-07-22T13:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079917696603591082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079917696603591082",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079917589053260014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 卡瓦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 61,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T12:45:38.000Z",
+        "description": "· .  。· * ◟∗ ˙ . ℜ𝔢𝔱𝔯𝔬 𝔓𝔦𝔠𝔱𝔬𝔯𝔦𝔞𝔩 . ˙ ∗◞🗞* · 。. ·\n小碍/羊尾  我很喜欢jirakei风格\ncptsd+双向|🔪|💊|负能|碎碎念|🚬……\n女孩子互粉互fo大歡迎  看到就会回\n玩推只為發洩情绪 一个纯绿p",
+        "id": "1945464784763457536",
+        "location": "ai的失乐园",
+        "name": "ia",
+        "pinned_tweet_id": "2079120070878564503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077665375949639680/T56YqHrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 135,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "KuriYasuma",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075621282318868482"
+      ],
+      "media_source_tweet_id": [
+        "2075621297179287725"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079179675805647258",
+    "created_at": "2026-07-20T12:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079179675805647258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1640751385502425088",
+          "start": 3,
+          "username": "aiaiaiai_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xbQ0SI8jG3",
+          "end": 111,
+          "expanded_url": "https://x.com/aiaiaiai_9/status/2075621297179287725/photo/1",
+          "media_key": "3_2075621282318868482",
+          "start": 88,
+          "url": "https://t.co/xbQ0SI8jG3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079179675805647258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075621297179287725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiaiaiai_9: 发一个自介吧！\n我是Naomin，坐标北京\n06双相上学中/偶尔健全人/目前已和前老公分手/尼古丁性恋\n喜欢和推友互动～聊天吹水互fo大欢迎～ https://t.co/xbQ0SI8jG3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075621282318868482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4WjyTbYAIJRT4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075621282318868482"
+          ]
+        },
+        "author_id": "1640751385502425088",
+        "conversation_id": "2075621297179287725",
+        "created_at": "2026-07-10T16:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075621297179287725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbQ0SI8jG3",
+              "end": 95,
+              "expanded_url": "https://x.com/aiaiaiai_9/status/2075621297179287725/photo/1",
+              "media_key": "3_2075621282318868482",
+              "start": 72,
+              "url": "https://t.co/xbQ0SI8jG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075621297179287725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5499,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "发一个自介吧！\n我是Naomin，坐标北京\n06双相上学中/偶尔健全人/目前已和前老公分手/尼古丁性恋\n喜欢和推友互动～聊天吹水互fo大欢迎～ https://t.co/xbQ0SI8jG3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075621282318868482"
+          ],
+          "media_source_tweet_id": [
+            "2075621297179287725"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079179675805647258",
+        "created_at": "2026-07-20T12:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079179675805647258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1640751385502425088",
+              "start": 3,
+              "username": "aiaiaiai_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbQ0SI8jG3",
+              "end": 111,
+              "expanded_url": "https://x.com/aiaiaiai_9/status/2075621297179287725/photo/1",
+              "media_key": "3_2075621282318868482",
+              "start": 88,
+              "url": "https://t.co/xbQ0SI8jG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079179675805647258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075621297179287725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiaiaiai_9: 发一个自介吧！\n我是Naomin，坐标北京\n06双相上学中/偶尔健全人/目前已和前老公分手/尼古丁性恋\n喜欢和推友互动～聊天吹水互fo大欢迎～ https://t.co/xbQ0SI8jG3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 40,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T16:23:24.000Z",
+        "description": "爱无能乐子人\n世人害我，妒我，怨我，我却握紧手中的愈美一笑而过❤️https://t.co/zTLe1aRKzm⬅️提问箱\n没回复就是被吞评论了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naomin86665",
+                "end": 56,
+                "expanded_url": "https://ngl.link/naomin86665",
+                "start": 33,
+                "url": "https://t.co/zTLe1aRKzm"
+              }
+            ]
+          }
+        },
+        "id": "1640751385502425088",
+        "name": "Naomin💵✨",
+        "pinned_tweet_id": "2075621297179287725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077030321720279040/Yp2xnY-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 131,
+          "like_count": 4247,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 921
+        },
+        "url": "",
+        "username": "aiaiaiai_9",
+        "verified": false
+      }
+    ]
+  }
+}

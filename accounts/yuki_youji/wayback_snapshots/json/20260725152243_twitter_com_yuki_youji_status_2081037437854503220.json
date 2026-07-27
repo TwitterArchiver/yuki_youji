@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079582655897899008",
+        "3_2079582654929010688",
+        "3_2079582654954119168",
+        "3_2079582654954102784"
+      ],
+      "media_source_tweet_id": [
+        "2079582688181395961",
+        "2079582688181395961",
+        "2079582688181395961",
+        "2079582688181395961"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081037437854503220",
+    "created_at": "2026-07-25T15:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081037437854503220"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "线下女友"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "母狗"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "地雷系"
+        },
+        {
+          "end": 78,
+          "start": 73,
+          "tag": "电子女友"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "萝莉母狗"
+        },
+        {
+          "end": 90,
+          "start": 85,
+          "tag": "求门槛哥"
+        },
+        {
+          "end": 96,
+          "start": 91,
+          "tag": "反差母狗"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1849649174192717824",
+          "start": 3,
+          "username": "sy_TvTwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rc296JMLi5",
+          "end": 120,
+          "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+          "media_key": "3_2079582655897899008",
+          "start": 97,
+          "url": "https://t.co/Rc296JMLi5"
+        },
+        {
+          "display_url": "pic.x.com/Rc296JMLi5",
+          "end": 120,
+          "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+          "media_key": "3_2079582654929010688",
+          "start": 97,
+          "url": "https://t.co/Rc296JMLi5"
+        },
+        {
+          "display_url": "pic.x.com/Rc296JMLi5",
+          "end": 120,
+          "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+          "media_key": "3_2079582654954119168",
+          "start": 97,
+          "url": "https://t.co/Rc296JMLi5"
+        },
+        {
+          "display_url": "pic.x.com/Rc296JMLi5",
+          "end": 120,
+          "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+          "media_key": "3_2079582654954102784",
+          "start": 97,
+          "url": "https://t.co/Rc296JMLi5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081037437854503220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079582688181395961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sy_TvTwww: 小泣肥来了。之前的不小心删了 QwQ有没有人想过这个小女孩门槛的。#门槛妹 #爸爸活 #线下女友 #母狗 #地雷系 #电子女友 #萝莉母狗 #求门槛哥 #反差母狗 https://t.co/Rc296JMLi5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079582655897899008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwpaE3bkAAvAzK.jpg",
+        "width": 1124
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079582654929010688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwpaBQbgAA-ivJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079582654954119168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwpaBWaoAAwbVp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079582654954102784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwpaBWaYAARHae.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079582655897899008",
+            "3_2079582654929010688",
+            "3_2079582654954119168",
+            "3_2079582654954102784"
+          ]
+        },
+        "author_id": "1849649174192717824",
+        "conversation_id": "2079582688181395961",
+        "created_at": "2026-07-21T15:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079582688181395961"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "线下女友"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "母狗"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "地雷系"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "电子女友"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "萝莉母狗"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "求门槛哥"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "反差母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rc296JMLi5",
+              "end": 105,
+              "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+              "media_key": "3_2079582655897899008",
+              "start": 82,
+              "url": "https://t.co/Rc296JMLi5"
+            },
+            {
+              "display_url": "pic.x.com/Rc296JMLi5",
+              "end": 105,
+              "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+              "media_key": "3_2079582654929010688",
+              "start": 82,
+              "url": "https://t.co/Rc296JMLi5"
+            },
+            {
+              "display_url": "pic.x.com/Rc296JMLi5",
+              "end": 105,
+              "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+              "media_key": "3_2079582654954119168",
+              "start": 82,
+              "url": "https://t.co/Rc296JMLi5"
+            },
+            {
+              "display_url": "pic.x.com/Rc296JMLi5",
+              "end": 105,
+              "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+              "media_key": "3_2079582654954102784",
+              "start": 82,
+              "url": "https://t.co/Rc296JMLi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079582688181395961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2770,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "小泣肥来了。之前的不小心删了 QwQ有没有人想过这个小女孩门槛的。#门槛妹 #爸爸活 #线下女友 #母狗 #地雷系 #电子女友 #萝莉母狗 #求门槛哥 #反差母狗 https://t.co/Rc296JMLi5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079582655897899008",
+            "3_2079582654929010688",
+            "3_2079582654954119168",
+            "3_2079582654954102784"
+          ],
+          "media_source_tweet_id": [
+            "2079582688181395961",
+            "2079582688181395961",
+            "2079582688181395961",
+            "2079582688181395961"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081037437854503220",
+        "created_at": "2026-07-25T15:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081037437854503220"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "线下女友"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "母狗"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "地雷系"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "电子女友"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "萝莉母狗"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "求门槛哥"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "反差母狗"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1849649174192717824",
+              "start": 3,
+              "username": "sy_TvTwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rc296JMLi5",
+              "end": 120,
+              "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+              "media_key": "3_2079582655897899008",
+              "start": 97,
+              "url": "https://t.co/Rc296JMLi5"
+            },
+            {
+              "display_url": "pic.x.com/Rc296JMLi5",
+              "end": 120,
+              "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+              "media_key": "3_2079582654929010688",
+              "start": 97,
+              "url": "https://t.co/Rc296JMLi5"
+            },
+            {
+              "display_url": "pic.x.com/Rc296JMLi5",
+              "end": 120,
+              "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+              "media_key": "3_2079582654954119168",
+              "start": 97,
+              "url": "https://t.co/Rc296JMLi5"
+            },
+            {
+              "display_url": "pic.x.com/Rc296JMLi5",
+              "end": 120,
+              "expanded_url": "https://x.com/sy_TvTwww/status/2079582688181395961/photo/1",
+              "media_key": "3_2079582654954102784",
+              "start": 97,
+              "url": "https://t.co/Rc296JMLi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081037437854503220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079582688181395961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sy_TvTwww: 小泣肥来了。之前的不小心删了 QwQ有没有人想过这个小女孩门槛的。#门槛妹 #爸爸活 #线下女友 #母狗 #地雷系 #电子女友 #萝莉母狗 #求门槛哥 #反差母狗 https://t.co/Rc296JMLi5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿🚪25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 128,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-25T03:08:37.000Z",
+        "description": "有精神病。od 只回复口令我很缺钱有人心疼我吗🚪88/188/520/1314",
+        "id": "1849649174192717824",
+        "name": "ラム（只回复口令）",
+        "pinned_tweet_id": "2079582688181395961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942629220284522498/pkItBu-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 16,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "sy_TvTwww",
+        "verified": false
+      }
+    ]
+  }
+}
