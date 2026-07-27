@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-27T20:49:47",
+  "last_updated": "2026-07-27T20:50:03",
   "html": {
     "https://web.archive.org/web/20260620135152if_/https://twitter.com/yuki_youji/status/2068330996995666304": {
       "status": "done",
@@ -4433,9 +4433,9 @@
         "20260701043910_twitter_com_yuki_youji_status_2072178175732551845.json",
         "20260701053523_twitter_com_yuki_youji_status_2072192321849004054.json"
       ],
-      "last_updated": "2026-07-27T16:07:34",
+      "last_updated": "2026-07-27T20:50:03",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260701053523if_/https://pbs.twimg.com/profile_images/2067536921539006464/lbZTNdCC_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg": {
       "status": "done",
@@ -4549,12 +4549,12 @@
       "last_updated": "2026-07-27T16:07:31"
     },
     "https://pbs.twimg.com/profile_images/2074700266176471040/89nvzQQ1_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260720121720_twitter_com_yuki_youji_status_2079178843827687774.json",
         "20260720121752_twitter_com_yuki_youji_status_2079178978439594447.json"
       ],
-      "last_updated": "2026-07-27T16:07:33",
+      "last_updated": "2026-07-27T20:50:03",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260720121752if_/https://pbs.twimg.com/profile_images/2074700266176471040/89nvzQQ1_normal.jpg",
       "miss_count": 1
     },
