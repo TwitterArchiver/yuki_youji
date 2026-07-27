@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079087388484407582",
+    "created_at": "2026-07-20T06:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079088466005311902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1303206498294738944",
+          "start": 0,
+          "username": "Mariodrac4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079088466005311902",
+    "in_reply_to_user_id": "1303206498294738944",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079087568680063330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mariodrac4 ✌︎ ॑꒳ ॑✌︎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079087388484407582",
+        "created_at": "2026-07-20T06:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079088466005311902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1303206498294738944",
+              "start": 0,
+              "username": "Mariodrac4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079088466005311902",
+        "in_reply_to_user_id": "1303206498294738944",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079087568680063330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mariodrac4 ✌︎ ॑꒳ ॑✌︎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303206498294738944",
+        "conversation_id": "2079087388484407582",
+        "created_at": "2026-07-20T06:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079087568680063330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079087568680063330",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079087388484407582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji So cutee!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜小画师\n妻子@woapmpble的狗\n欢迎小女孩和我互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2078828097298948130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 37,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T05:40:30.000Z",
+        "description": "Well... hi",
+        "id": "1303206498294738944",
+        "name": "Mariodrac",
+        "pinned_tweet_id": "1944538389069635879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932130103040892928/QQi_liri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 107,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "Mariodrac4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081312746986229760",
+        "3_2081312747002957824",
+        "3_2081312746994532352"
+      ],
+      "media_source_tweet_id": [
+        "2081312774257607161",
+        "2081312774257607161",
+        "2081312774257607161"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081329419462041648",
+    "created_at": "2026-07-26T10:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081329419462041648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1551296593",
+          "start": 3,
+          "username": "AlanAbeles"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dh9mMejGQh",
+          "end": 80,
+          "expanded_url": "https://x.com/AlanAbeles/status/2081312774257607161/photo/1",
+          "media_key": "3_2081312746986229760",
+          "start": 57,
+          "url": "https://t.co/Dh9mMejGQh"
+        },
+        {
+          "display_url": "pic.x.com/Dh9mMejGQh",
+          "end": 80,
+          "expanded_url": "https://x.com/AlanAbeles/status/2081312774257607161/photo/1",
+          "media_key": "3_2081312747002957824",
+          "start": 57,
+          "url": "https://t.co/Dh9mMejGQh"
+        },
+        {
+          "display_url": "pic.x.com/Dh9mMejGQh",
+          "end": 80,
+          "expanded_url": "https://x.com/AlanAbeles/status/2081312774257607161/photo/1",
+          "media_key": "3_2081312746994532352",
+          "start": 57,
+          "url": "https://t.co/Dh9mMejGQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081329419462041648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081312774257607161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AlanAbeles: 🤍我是小妍 可以叫我雾塔\n🚪88/188/288/520\n*详情请小窗咨询^ω^ https://t.co/Dh9mMejGQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081312746986229760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJO6oabUAAZgFW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081312747002957824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJO6oeakAAhLwj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081312746994532352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJO6ocaAAAcrK9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081312746986229760",
+            "3_2081312747002957824",
+            "3_2081312746994532352"
+          ]
+        },
+        "author_id": "1551296593",
+        "conversation_id": "2081312774257607161",
+        "created_at": "2026-07-26T09:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081312774257607161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dh9mMejGQh",
+              "end": 64,
+              "expanded_url": "https://x.com/AlanAbeles/status/2081312774257607161/photo/1",
+              "media_key": "3_2081312746986229760",
+              "start": 41,
+              "url": "https://t.co/Dh9mMejGQh"
+            },
+            {
+              "display_url": "pic.x.com/Dh9mMejGQh",
+              "end": 64,
+              "expanded_url": "https://x.com/AlanAbeles/status/2081312774257607161/photo/1",
+              "media_key": "3_2081312747002957824",
+              "start": 41,
+              "url": "https://t.co/Dh9mMejGQh"
+            },
+            {
+              "display_url": "pic.x.com/Dh9mMejGQh",
+              "end": 64,
+              "expanded_url": "https://x.com/AlanAbeles/status/2081312774257607161/photo/1",
+              "media_key": "3_2081312746994532352",
+              "start": 41,
+              "url": "https://t.co/Dh9mMejGQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081312774257607161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🤍我是小妍 可以叫我雾塔\n🚪88/188/288/520\n*详情请小窗咨询^ω^ https://t.co/Dh9mMejGQh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081312746986229760",
+            "3_2081312747002957824",
+            "3_2081312746994532352"
+          ],
+          "media_source_tweet_id": [
+            "2081312774257607161",
+            "2081312774257607161",
+            "2081312774257607161"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081329419462041648",
+        "created_at": "2026-07-26T10:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081329419462041648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1551296593",
+              "start": 3,
+              "username": "AlanAbeles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dh9mMejGQh",
+              "end": 80,
+              "expanded_url": "https://x.com/AlanAbeles/status/2081312774257607161/photo/1",
+              "media_key": "3_2081312746986229760",
+              "start": 57,
+              "url": "https://t.co/Dh9mMejGQh"
+            },
+            {
+              "display_url": "pic.x.com/Dh9mMejGQh",
+              "end": 80,
+              "expanded_url": "https://x.com/AlanAbeles/status/2081312774257607161/photo/1",
+              "media_key": "3_2081312747002957824",
+              "start": 57,
+              "url": "https://t.co/Dh9mMejGQh"
+            },
+            {
+              "display_url": "pic.x.com/Dh9mMejGQh",
+              "end": 80,
+              "expanded_url": "https://x.com/AlanAbeles/status/2081312774257607161/photo/1",
+              "media_key": "3_2081312746994532352",
+              "start": 57,
+              "url": "https://t.co/Dh9mMejGQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081329419462041648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081312774257607161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AlanAbeles: 🤍我是小妍 可以叫我雾塔\n🚪88/188/288/520\n*详情请小窗咨询^ω^ https://t.co/Dh9mMejGQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2080854622378549455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 146,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 477
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-27T18:50:12.000Z",
+        "description": "=雾塔/小妍 欢迎和我交朋友\n 🤍🩹\n@Xxxxxxy9u5f\n@Suuuuziy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "Xxxxxxy9u5f"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "username": "Suuuuziy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Otaku_rain",
+                "end": 23,
+                "expanded_url": "http://t.me/Otaku_rain",
+                "start": 0,
+                "url": "https://t.co/qAghJYvx1C"
+              }
+            ]
+          }
+        },
+        "id": "1551296593",
+        "location": "🚪88/188/288/520",
+        "name": "雾塔",
+        "pinned_tweet_id": "2081312774257607161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080175280577187840/lpbAl5X6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 8,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/qAghJYvx1C",
+        "username": "AlanAbeles",
+        "verified": false
+      }
+    ]
+  }
+}
