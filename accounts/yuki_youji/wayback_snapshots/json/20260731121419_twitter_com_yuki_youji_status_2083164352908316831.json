@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2083115670699655591",
+    "created_at": "2026-07-31T12:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083164352908316831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1949348575378644992",
+          "start": 0,
+          "username": "Ace_Purin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083164352908316831",
+    "in_reply_to_user_id": "1949348575378644992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083122787288547573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ace_Purin 嘿嘿嘿🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2083115670699655591",
+        "created_at": "2026-07-31T12:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083164352908316831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083164352908316831",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083122787288547573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 嘿嘿嘿🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2083115670699655591",
+        "created_at": "2026-07-31T09:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083122787288547573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083122787288547573",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083115670699655591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 好萌好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 214,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 402,
+          "like_count": 4091,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 2838
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

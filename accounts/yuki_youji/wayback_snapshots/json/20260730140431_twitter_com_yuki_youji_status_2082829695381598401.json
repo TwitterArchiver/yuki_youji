@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2082773433721778590",
+    "created_at": "2026-07-30T14:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082829695381598401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999221009967382530",
+          "start": 0,
+          "username": "mimi7rkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082829695381598401",
+    "in_reply_to_user_id": "1999221009967382530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082828468853886991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimi7rkv 是止咬器狗狗！🥺🥺💋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2082773433721778590",
+        "created_at": "2026-07-30T14:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082829695381598401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999221009967382530",
+              "start": 0,
+              "username": "mimi7rkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082829695381598401",
+        "in_reply_to_user_id": "1999221009967382530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082828468853886991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimi7rkv 是止咬器狗狗！🥺🥺💋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999221009967382530",
+        "conversation_id": "2082773433721778590",
+        "created_at": "2026-07-30T13:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082828468853886991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082828468853886991",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082773433721778590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 女僕狗嗎？好漂亮好漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 223,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T20:53:39.000Z",
+        "description": "超級敏感，重度焦慮患者",
+        "id": "1999221009967382530",
+        "name": "刺猬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082032850572853248/T2tpglkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "mimi7rkv",
+        "verified": false
+      }
+    ]
+  }
+}

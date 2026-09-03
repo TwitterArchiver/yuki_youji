@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2083175657018945558",
+    "created_at": "2026-07-31T12:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083175657018945558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woapmpble/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/woapmpble/status/2083116526216020169",
+          "start": 9,
+          "url": "https://t.co/xDnkBdPaqG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083175657018945558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083116526216020169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们看这是我老公 https://t.co/xDnkBdPaqG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2083116499498373120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi3a2JbEAA5Sti.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2083175657018945558",
+        "created_at": "2026-07-31T12:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083175657018945558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woapmpble/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/woapmpble/status/2083116526216020169",
+              "start": 9,
+              "url": "https://t.co/xDnkBdPaqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083175657018945558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083116526216020169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们看这是我老公 https://t.co/xDnkBdPaqG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083116499498373120"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2083116526216020169",
+        "created_at": "2026-07-31T09:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083116526216020169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8hY4E0pBL",
+              "end": 30,
+              "expanded_url": "https://x.com/woapmpble/status/2083116526216020169/photo/1",
+              "media_key": "3_2083116499498373120",
+              "start": 7,
+              "url": "https://t.co/M8hY4E0pBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083116526216020169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "*旧照片一则 https://t.co/M8hY4E0pBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 228,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2083171559217520791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 186,
+          "like_count": 3861,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

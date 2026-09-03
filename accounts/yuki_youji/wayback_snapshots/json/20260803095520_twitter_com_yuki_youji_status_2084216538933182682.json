@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084216423749185536"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084216538933182682",
+    "created_at": "2026-08-03T09:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084216538933182682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2r0iON8VL1",
+          "end": 49,
+          "expanded_url": "https://x.com/yuki_youji/status/2084216538933182682/photo/1",
+          "media_key": "3_2084216423749185536",
+          "start": 26,
+          "url": "https://t.co/2r0iON8VL1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084216538933182682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我给oc画了生贺嘿嘿\n提前放一下，8.8是她的生日 https://t.co/2r0iON8VL1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2084216423749185536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyfy3Sa8AAcV3g.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084216423749185536"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084216538933182682",
+        "created_at": "2026-08-03T09:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084216538933182682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2r0iON8VL1",
+              "end": 49,
+              "expanded_url": "https://x.com/yuki_youji/status/2084216538933182682/photo/1",
+              "media_key": "3_2084216423749185536",
+              "start": 26,
+              "url": "https://t.co/2r0iON8VL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084216538933182682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给oc画了生贺嘿嘿\n提前放一下，8.8是她的生日 https://t.co/2r0iON8VL1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 259,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      }
+    ]
+  }
+}

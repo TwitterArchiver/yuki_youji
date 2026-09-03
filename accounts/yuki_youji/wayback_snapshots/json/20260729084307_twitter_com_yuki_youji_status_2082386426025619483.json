@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2082386426025619483",
+    "created_at": "2026-07-29T08:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082386426025619483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuki_youji/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yuki_youji/status/2081733452953723158",
+          "start": 5,
+          "url": "https://t.co/W0As0jLTb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082386426025619483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081733452953723158",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求转发！ https://t.co/W0As0jLTb1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2081733322842288128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPNbXkbsAA1nQ4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2081733380849418240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPNevqaQAAee5c.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2081733443705344001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPNiZ0bkAE1dG3.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2082386426025619483",
+        "created_at": "2026-07-29T08:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082386426025619483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki_youji/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yuki_youji/status/2081733452953723158",
+              "start": 5,
+              "url": "https://t.co/W0As0jLTb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082386426025619483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081733452953723158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求转发！ https://t.co/W0As0jLTb1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081733322842288128",
+            "3_2081733380849418240",
+            "3_2081733443705344001"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2081733452953723158",
+        "created_at": "2026-07-27T13:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081733452953723158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 54,
+              "id": "2067599818109984768",
+              "start": 44,
+              "username": "woapmpble"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4S0npm1Ap1",
+              "end": 120,
+              "expanded_url": "https://x.com/yuki_youji/status/2081733452953723158/photo/1",
+              "media_key": "3_2081733322842288128",
+              "start": 97,
+              "url": "https://t.co/4S0npm1Ap1"
+            },
+            {
+              "display_url": "pic.x.com/4S0npm1Ap1",
+              "end": 120,
+              "expanded_url": "https://x.com/yuki_youji/status/2081733452953723158/photo/1",
+              "media_key": "3_2081733380849418240",
+              "start": 97,
+              "url": "https://t.co/4S0npm1Ap1"
+            },
+            {
+              "display_url": "pic.x.com/4S0npm1Ap1",
+              "end": 120,
+              "expanded_url": "https://x.com/yuki_youji/status/2081733452953723158/photo/1",
+              "media_key": "3_2081733443705344001",
+              "start": 97,
+              "url": "https://t.co/4S0npm1Ap1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081733452953723158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1283,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "⁺⋆✧⭒𓏴世纪末仅存唯一的魔法少女𓏴⭒✧\n抑郁or双相？/焦虑/osdd人格分裂\n妻子 @woapmpble \n日常/绘画/负能/碎碎念/自拍\n想和你们互fo互转！\n关注我以获取更多地雷女日常 https://t.co/4S0npm1Ap1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 199,
+          "like_count": 950,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 549
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084059102171602944",
+        "3_2084059116771930112"
+      ],
+      "media_source_tweet_id": [
+        "2084059124019704128",
+        "2084059124019704128"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2084122703683027221",
+    "created_at": "2026-08-03T03:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084122703683027221"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "线下"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "纯绿"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "半绿"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "陪玩"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "昆明"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1973982253786308608",
+          "start": 3,
+          "username": "xinin321"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GJqT8AZXcb",
+          "end": 99,
+          "expanded_url": "https://x.com/xinin321/status/2084059124019704128/photo/1",
+          "media_key": "3_2084059102171602944",
+          "start": 76,
+          "url": "https://t.co/GJqT8AZXcb"
+        },
+        {
+          "display_url": "pic.x.com/GJqT8AZXcb",
+          "end": 99,
+          "expanded_url": "https://x.com/xinin321/status/2084059124019704128/photo/1",
+          "media_key": "3_2084059116771930112",
+          "start": 76,
+          "url": "https://t.co/GJqT8AZXcb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084122703683027221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084059124019704128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinin321: 我又重生了TvT 坐标昆明\n欢迎妹子们找我互fo互转呀www\n#门槛妹 ＃爸爸活 ＃线下 ＃纯绿 ＃半绿 \n#陪玩 #昆明 https://t.co/GJqT8AZXcb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084059102171602944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwQtivboAA8VRB.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1025,
+        "media_key": "3_2084059116771930112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwQuZIa8AA04_8.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084059102171602944",
+            "3_2084059116771930112"
+          ]
+        },
+        "author_id": "1973982253786308608",
+        "conversation_id": "2084059124019704128",
+        "created_at": "2026-08-02T23:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084059124019704128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "线下"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "纯绿"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "半绿"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "陪玩"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "昆明"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJqT8AZXcb",
+              "end": 85,
+              "expanded_url": "https://x.com/xinin321/status/2084059124019704128/photo/1",
+              "media_key": "3_2084059102171602944",
+              "start": 62,
+              "url": "https://t.co/GJqT8AZXcb"
+            },
+            {
+              "display_url": "pic.x.com/GJqT8AZXcb",
+              "end": 85,
+              "expanded_url": "https://x.com/xinin321/status/2084059124019704128/photo/1",
+              "media_key": "3_2084059116771930112",
+              "start": 62,
+              "url": "https://t.co/GJqT8AZXcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084059124019704128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又重生了TvT 坐标昆明\n欢迎妹子们找我互fo互转呀www\n#门槛妹 ＃爸爸活 ＃线下 ＃纯绿 ＃半绿 \n#陪玩 #昆明 https://t.co/GJqT8AZXcb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084059102171602944",
+            "3_2084059116771930112"
+          ],
+          "media_source_tweet_id": [
+            "2084059124019704128",
+            "2084059124019704128"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2084122703683027221",
+        "created_at": "2026-08-03T03:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084122703683027221"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "线下"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "纯绿"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "半绿"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "陪玩"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "昆明"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1973982253786308608",
+              "start": 3,
+              "username": "xinin321"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJqT8AZXcb",
+              "end": 99,
+              "expanded_url": "https://x.com/xinin321/status/2084059124019704128/photo/1",
+              "media_key": "3_2084059102171602944",
+              "start": 76,
+              "url": "https://t.co/GJqT8AZXcb"
+            },
+            {
+              "display_url": "pic.x.com/GJqT8AZXcb",
+              "end": 99,
+              "expanded_url": "https://x.com/xinin321/status/2084059124019704128/photo/1",
+              "media_key": "3_2084059116771930112",
+              "start": 76,
+              "url": "https://t.co/GJqT8AZXcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084122703683027221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084059124019704128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xinin321: 我又重生了TvT 坐标昆明\n欢迎妹子们找我互fo互转呀www\n#门槛妹 ＃爸爸活 ＃线下 ＃纯绿 ＃半绿 \n#陪玩 #昆明 https://t.co/GJqT8AZXcb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 255,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T05:23:59.000Z",
+        "description": "做了一个很长很长的梦",
+        "id": "1973982253786308608",
+        "name": "天空灰的像哭过",
+        "pinned_tweet_id": "2084059124019704128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083648676384395264/-lPj-l6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 1,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "xinin321",
+        "verified": false
+      }
+    ]
+  }
+}

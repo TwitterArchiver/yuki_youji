@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081774200281567232",
+        "3_2081774200285757440"
+      ],
+      "media_source_tweet_id": [
+        "2081774211706847372",
+        "2081774211706847372"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2082673627854721463",
+    "created_at": "2026-07-30T03:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082673627854721463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2072894227193974784",
+          "start": 3,
+          "username": "EfrainGregos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qxFGFJ8uF4",
+          "end": 83,
+          "expanded_url": "https://x.com/EfrainGregos/status/2081774211706847372/photo/1",
+          "media_key": "3_2081774200281567232",
+          "start": 60,
+          "url": "https://t.co/qxFGFJ8uF4"
+        },
+        {
+          "display_url": "pic.x.com/qxFGFJ8uF4",
+          "end": 83,
+          "expanded_url": "https://x.com/EfrainGregos/status/2081774211706847372/photo/1",
+          "media_key": "3_2081774200285757440",
+          "start": 60,
+          "url": "https://t.co/qxFGFJ8uF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082673627854721463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081774211706847372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EfrainGregos: 门槛哥你会拯救我吗.jpg\n我下海了然后呢这是我的第十代目\n求你们和我互推互fo。 https://t.co/qxFGFJ8uF4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_2081774200281567232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPymv5bEAAe9b9.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081774200285757440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPymv6bAAAOZ-y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081774200281567232",
+            "3_2081774200285757440"
+          ]
+        },
+        "author_id": "2072894227193974784",
+        "conversation_id": "2081774211706847372",
+        "created_at": "2026-07-27T16:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081774211706847372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qxFGFJ8uF4",
+              "end": 65,
+              "expanded_url": "https://x.com/EfrainGregos/status/2081774211706847372/photo/1",
+              "media_key": "3_2081774200281567232",
+              "start": 42,
+              "url": "https://t.co/qxFGFJ8uF4"
+            },
+            {
+              "display_url": "pic.x.com/qxFGFJ8uF4",
+              "end": 65,
+              "expanded_url": "https://x.com/EfrainGregos/status/2081774211706847372/photo/1",
+              "media_key": "3_2081774200285757440",
+              "start": 42,
+              "url": "https://t.co/qxFGFJ8uF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081774211706847372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 689,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "门槛哥你会拯救我吗.jpg\n我下海了然后呢这是我的第十代目\n求你们和我互推互fo。 https://t.co/qxFGFJ8uF4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081774200281567232",
+            "3_2081774200285757440"
+          ],
+          "media_source_tweet_id": [
+            "2081774211706847372",
+            "2081774211706847372"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2082673627854721463",
+        "created_at": "2026-07-30T03:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082673627854721463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2072894227193974784",
+              "start": 3,
+              "username": "EfrainGregos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qxFGFJ8uF4",
+              "end": 83,
+              "expanded_url": "https://x.com/EfrainGregos/status/2081774211706847372/photo/1",
+              "media_key": "3_2081774200281567232",
+              "start": 60,
+              "url": "https://t.co/qxFGFJ8uF4"
+            },
+            {
+              "display_url": "pic.x.com/qxFGFJ8uF4",
+              "end": 83,
+              "expanded_url": "https://x.com/EfrainGregos/status/2081774211706847372/photo/1",
+              "media_key": "3_2081774200285757440",
+              "start": 60,
+              "url": "https://t.co/qxFGFJ8uF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082673627854721463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081774211706847372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EfrainGregos: 门槛哥你会拯救我吗.jpg\n我下海了然后呢这是我的第十代目\n求你们和我互推互fo。 https://t.co/qxFGFJ8uF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 211,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-03T04:04:47.000Z",
+        "description": "问坐标验证都20/私信只回口令/我会很礼貌的所以希望你也^_^",
+        "id": "2072894227193974784",
+        "location": "你心里",
+        "name": "即使一生追随神我也仍是丑陋的",
+        "pinned_tweet_id": "2081774211706847372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081771951421554688/6txOXW-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "EfrainGregos",
+        "verified": false
+      }
+    ]
+  }
+}

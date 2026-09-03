@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081960147744968924",
+    "created_at": "2026-07-28T04:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081960147744968924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2080523665960251392",
+          "start": 3,
+          "username": "ninegami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081960147744968924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081775614839919052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ninegami: 小梦的自我介绍๑'~'๑\n07 168/46kg  家里蹲中没有生活费试着发推求哥哥姐姐打赏呀，脾气很好的不过门也可以和我在推上互动呀•͈ ₃ •͈\n🚪52 （只接受私信口令）纯绿随意聊天，我话有点多会喜欢主动聊天不要嫌我烦w，\n欢迎女宝互fo互转♪…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2081775603997634560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPz4dJacAAn2rb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081960147744968924",
+        "created_at": "2026-07-28T04:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081960147744968924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2080523665960251392",
+              "start": 3,
+              "username": "ninegami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081960147744968924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081775614839919052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ninegami: 小梦的自我介绍๑'~'๑\n07 168/46kg  家里蹲中没有生活费试着发推求哥哥姐姐打赏呀，脾气很好的不过门也可以和我在推上互动呀•͈ ₃ •͈\n🚪52 （只接受私信口令）纯绿随意聊天，我话有点多会喜欢主动聊天不要嫌我烦w，\n欢迎女宝互fo互转♪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081775603997634560"
+          ]
+        },
+        "author_id": "2080523665960251392",
+        "conversation_id": "2081775614839919052",
+        "created_at": "2026-07-27T16:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081775614839919052"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "门槛"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "门哥"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "门姐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdFG5dNEnM",
+              "end": 177,
+              "expanded_url": "https://x.com/ninegami/status/2081775614839919052/photo/1",
+              "media_key": "3_2081775603997634560",
+              "start": 154,
+              "url": "https://t.co/jdFG5dNEnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081775614839919052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小梦的自我介绍๑'~'๑\n07 168/46kg  家里蹲中没有生活费试着发推求哥哥姐姐打赏呀，脾气很好的不过门也可以和我在推上互动呀•͈ ₃ •͈\n🚪52 （只接受私信口令）纯绿随意聊天，我话有点多会喜欢主动聊天不要嫌我烦w，\n欢迎女宝互fo互转♪(´ε｀)快来和我玩吧\n#门槛 #门槛妹 #门哥 #门姐 https://t.co/jdFG5dNEnM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 191,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T05:22:43.000Z",
+        "description": "🚪52 /1314",
+        "id": "2080523665960251392",
+        "name": "梦",
+        "pinned_tweet_id": "2081775614839919052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081770104325603328/AM6b2-f0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "ninegami",
+        "verified": false
+      }
+    ]
+  }
+}

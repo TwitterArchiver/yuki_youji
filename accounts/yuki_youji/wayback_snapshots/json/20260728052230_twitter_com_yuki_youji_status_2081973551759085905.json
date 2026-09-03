@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081963478789820893",
+    "created_at": "2026-07-28T05:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081973551759085905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057324764599824384",
+          "start": 0,
+          "username": "whitney96ga8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081973551759085905",
+    "in_reply_to_user_id": "2057324764599824384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081973361446670373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitney96ga8 感觉真有🧊不会舍得给你掺的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081963478789820893",
+        "created_at": "2026-07-28T05:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081973551759085905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057324764599824384",
+              "start": 0,
+              "username": "whitney96ga8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081973551759085905",
+        "in_reply_to_user_id": "2057324764599824384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081973361446670373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitney96ga8 感觉真有🧊不会舍得给你掺的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057324764599824384",
+        "conversation_id": "2081963478789820893",
+        "created_at": "2026-07-28T05:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081973361446670373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081973361446670373",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081972705608483092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 怕网上卖的会不会掺冰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 196,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 516
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T04:57:08.000Z",
+        "description": "🧊｜只发自己想发的。｜男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/whitney96ga8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/whitney96ga8",
+                "start": 0,
+                "url": "https://t.co/sGth0YLZ1Y"
+              }
+            ]
+          }
+        },
+        "id": "2057324764599824384",
+        "location": "电子世界",
+        "name": "冬。",
+        "pinned_tweet_id": "2081715853645779237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080884082620448768/m-DDx8om_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 13,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/sGth0YLZ1Y",
+        "username": "whitney96ga8",
+        "verified": false
+      }
+    ]
+  }
+}

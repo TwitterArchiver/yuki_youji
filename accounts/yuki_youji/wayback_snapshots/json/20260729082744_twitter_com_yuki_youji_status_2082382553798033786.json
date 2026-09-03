@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2082377338168455450",
+    "created_at": "2026-07-29T08:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082382553798033786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653266334619402245",
+          "start": 0,
+          "username": "itsagoodnameO_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082382553798033786",
+    "in_reply_to_user_id": "1653266334619402245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082381147078902002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsagoodnameO_o 妈妈👩🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2082377338168455450",
+        "created_at": "2026-07-29T08:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082382553798033786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082382553798033786",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082381147078902002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 妈妈👩🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2082377338168455450",
+        "created_at": "2026-07-29T08:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082381147078902002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082381147078902002",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082377338168455450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 好美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 198,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079572464414445568/oRlzRC9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 131,
+          "like_count": 1932,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

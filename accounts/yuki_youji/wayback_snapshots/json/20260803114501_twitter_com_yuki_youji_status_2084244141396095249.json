@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2084237287165182297",
+    "created_at": "2026-08-03T11:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084244141396095249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "987000927985872898",
+          "start": 0,
+          "username": "YNshgTDtcVsFch6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084244141396095249",
+    "in_reply_to_user_id": "987000927985872898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084239800010408091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YNshgTDtcVsFch6 心情不好时说想死结果一堆人追着骂我去死。。我根本都没惹他们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2084237287165182297",
+        "created_at": "2026-08-03T11:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084244141396095249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "987000927985872898",
+              "start": 0,
+              "username": "YNshgTDtcVsFch6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084244141396095249",
+        "in_reply_to_user_id": "987000927985872898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084239800010408091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YNshgTDtcVsFch6 心情不好时说想死结果一堆人追着骂我去死。。我根本都没惹他们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "987000927985872898",
+        "conversation_id": "2084237287165182297",
+        "created_at": "2026-08-03T11:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084239800010408091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084239800010408091",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084237287165182297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 寶包怎麼了！😞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 260,
+          "like_count": 1208,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 662
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-19T16:12:13.000Z",
+        "description": "",
+        "id": "987000927985872898",
+        "location": "Taoyuan County, Taiwan",
+        "name": "1234男",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082150992855130112/-WPCwa-S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 19,
+          "like_count": 7162,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "YNshgTDtcVsFch6",
+        "verified": false
+      }
+    ]
+  }
+}

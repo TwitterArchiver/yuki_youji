@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2084123259638088100",
+    "created_at": "2026-08-03T03:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084123259638088100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2644921026",
+          "start": 3,
+          "username": "hassaangul1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084123259638088100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082465934128955714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hassaangul1: 泥嚎！这里斯斯\n08bbw巨乳萝莉\n又炸号啦\n免费验证 入门可抵线下❗️\n高档位的哥熟了可以免费找我出来玩呀～\n有精神疾病需要钱治病\n我是粘人小狗！入门的哥哥不要嫌弃我话多好不\n好\n想和哥有很多未来\n我会很照顾哥的情绪哦现在入门还抵线下哦！\n想…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082465894433984512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZnspaakAAdNAE.jpg",
+        "width": 945
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2082465894438146048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZnspbaEAAmuQs.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2084123259638088100",
+        "created_at": "2026-08-03T03:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084123259638088100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2644921026",
+              "start": 3,
+              "username": "hassaangul1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084123259638088100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082465934128955714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hassaangul1: 泥嚎！这里斯斯\n08bbw巨乳萝莉\n又炸号啦\n免费验证 入门可抵线下❗️\n高档位的哥熟了可以免费找我出来玩呀～\n有精神疾病需要钱治病\n我是粘人小狗！入门的哥哥不要嫌弃我话多好不\n好\n想和哥有很多未来\n我会很照顾哥的情绪哦现在入门还抵线下哦！\n想…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082465894433984512",
+            "3_2082465894438146048"
+          ]
+        },
+        "author_id": "2644921026",
+        "conversation_id": "2082465934128955714",
+        "created_at": "2026-07-29T13:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082465934128955714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1N27JNg0z",
+              "end": 153,
+              "expanded_url": "https://x.com/hassaangul1/status/2082465934128955714/photo/1",
+              "media_key": "3_2082465894433984512",
+              "start": 130,
+              "url": "https://t.co/M1N27JNg0z"
+            },
+            {
+              "display_url": "pic.x.com/M1N27JNg0z",
+              "end": 153,
+              "expanded_url": "https://x.com/hassaangul1/status/2082465934128955714/photo/1",
+              "media_key": "3_2082465894438146048",
+              "start": 130,
+              "url": "https://t.co/M1N27JNg0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082465934128955714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1323,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "泥嚎！这里斯斯\n08bbw巨乳萝莉\n又炸号啦\n免费验证 入门可抵线下❗️\n高档位的哥熟了可以免费找我出来玩呀～\n有精神疾病需要钱治病\n我是粘人小狗！入门的哥哥不要嫌弃我话多好不\n好\n想和哥有很多未来\n我会很照顾哥的情绪哦现在入门还抵线下哦！\n想被爱着想被宠着 https://t.co/M1N27JNg0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 255,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-14T10:15:08.000Z",
+        "description": "坐标成都 补药举报我求求了 只回口令",
+        "id": "2644921026",
+        "name": "斯斯斯",
+        "pinned_tweet_id": "2082465934128955714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082464916120948736/ZfRajTWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "hassaangul1",
+        "verified": false
+      }
+    ]
+  }
+}

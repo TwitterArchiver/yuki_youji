@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2084237287165182297",
+    "created_at": "2026-08-04T03:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084485597071380532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083112466490486784",
+          "start": 0,
+          "username": "ShiinaTakii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084485597071380532",
+    "in_reply_to_user_id": "2083112466490486784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084358041336693058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiinaTakii 谢谢你宝贝😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2084237287165182297",
+        "created_at": "2026-08-04T03:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084485597071380532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083112466490486784",
+              "start": 0,
+              "username": "ShiinaTakii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084485597071380532",
+        "in_reply_to_user_id": "2083112466490486784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084358041336693058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiinaTakii 谢谢你宝贝😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083112466490486784",
+        "conversation_id": "2084237287165182297",
+        "created_at": "2026-08-03T19:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084358041336693058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084358041336693058",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084237287165182297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 宝宝你好可爱啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 262,
+          "like_count": 1211,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 669
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-31T08:50:50.000Z",
+        "description": "",
+        "id": "2083112466490486784",
+        "name": "Taki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083113401543438336/tQPvuERK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "ShiinaTakii",
+        "verified": false
+      }
+    ]
+  }
+}

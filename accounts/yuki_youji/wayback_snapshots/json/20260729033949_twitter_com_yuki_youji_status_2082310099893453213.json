@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081508605111763013",
+    "created_at": "2026-07-29T03:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T04:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082310099893453213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1612280433064185859",
+          "start": 0,
+          "username": "c2F4F4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082310099893453213",
+    "in_reply_to_user_id": "1612280433064185859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081508605111763013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c2F4F4F 天皇我要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2081508596920266752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMBCmRasAAfkNL.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2081508596932816896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMBCmUaMAAHA2d.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081508605111763013",
+        "created_at": "2026-07-29T03:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082310099893453213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1612280433064185859",
+              "start": 0,
+              "username": "c2F4F4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082310099893453213",
+        "in_reply_to_user_id": "1612280433064185859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081508605111763013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c2F4F4F 天皇我要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081508596920266752",
+            "3_2081508596932816896"
+          ]
+        },
+        "author_id": "1612280433064185859",
+        "conversation_id": "2081508605111763013",
+        "created_at": "2026-07-26T22:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T23:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081508605111763013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBETdRNYD6",
+              "end": 157,
+              "expanded_url": "https://x.com/c2F4F4F/status/2081508605111763013/photo/1",
+              "media_key": "3_2081508596920266752",
+              "start": 134,
+              "url": "https://t.co/uBETdRNYD6"
+            },
+            {
+              "display_url": "pic.x.com/uBETdRNYD6",
+              "end": 157,
+              "expanded_url": "https://x.com/c2F4F4F/status/2081508605111763013/photo/1",
+              "media_key": "3_2081508596932816896",
+              "start": 134,
+              "url": "https://t.co/uBETdRNYD6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081508605111763013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8498,
+          "like_count": 110,
+          "quote_count": 4,
+          "reply_count": 75,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "200fo福利来了  虽然还没到但是我还是先抽吧！  评论 +转+赞+fo参与呀\n求转   感觉我还是很宠粉的哦\n奖品1：20软妹币×1\n         2：10软妹币×2\n         3：粉色仙女套/警示牌×1\n          八月二号晚上12点准时开 https://t.co/uBETdRNYD6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 190,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |望厨",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "pinned_tweet_id": "2081508605111763013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 561,
+          "like_count": 10262,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1024
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

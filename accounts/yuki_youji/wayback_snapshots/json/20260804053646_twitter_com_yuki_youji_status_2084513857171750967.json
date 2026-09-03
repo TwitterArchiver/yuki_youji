@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2083652180746391706",
+    "created_at": "2026-08-04T05:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084513857171750967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        },
+        {
+          "end": 30,
+          "id": "2033892007937249284",
+          "start": 14,
+          "username": "Overdose_Aether"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084513857171750967",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083652180746391706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu @Overdose_Aether 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2083652180746391706",
+        "created_at": "2026-08-04T05:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084513857171750967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            },
+            {
+              "end": 30,
+              "id": "2033892007937249284",
+              "start": 14,
+              "username": "Overdose_Aether"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084513857171750967",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083652180746391706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu @Overdose_Aether 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2083652180746391706",
+        "created_at": "2026-08-01T20:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083652180746391706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 72,
+              "id": "2033892007937249284",
+              "start": 56,
+              "username": "Overdose_Aether"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083652180746391706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3776,
+          "like_count": 99,
+          "quote_count": 4,
+          "reply_count": 75,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "拖延症大晚期……\n1000fo好久了，之前就说要抽奖，现在来啦\n一等奖：一位，雪花糖1t，来自AtherLab @Overdose_Aether \n二等奖：两位，红pr两版\n三等奖：三位，小口令红包\n关注转发评论，8月8日由gork随机抽取幸运观众，请大家多多转发哦，爱你们❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 263,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 1090,
+          "like_count": 5264,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1790
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-17T13:04:15.000Z",
+        "description": "小糖铺子，分享好吃的糖🍬 tg分享频道https://t.co/oEbYzOtKnL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AetherLAB01",
+                "end": 42,
+                "expanded_url": "https://t.me/AetherLAB01",
+                "start": 19,
+                "url": "https://t.co/oEbYzOtKnL"
+              }
+            ]
+          }
+        },
+        "id": "2033892007937249284",
+        "location": "Carina",
+        "name": "⚛️Aether 🅻🅰🅱🍬",
+        "pinned_tweet_id": "2079910717755675083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070200170030215168/CGg-EHDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 73,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "Overdose_Aether",
+        "verified": false
+      }
+    ]
+  }
+}

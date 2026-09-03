@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2079717780694471096",
+    "created_at": "2026-07-31T15:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083208000597381228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1771909316909604864",
+          "start": 0,
+          "username": "HTX_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083208000597381228",
+    "in_reply_to_user_id": "1771909316909604864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079717780694471096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HTX_QAQ 蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2079717780694471096",
+        "created_at": "2026-07-31T15:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083208000597381228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1771909316909604864",
+              "start": 0,
+              "username": "HTX_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083208000597381228",
+        "in_reply_to_user_id": "1771909316909604864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079717780694471096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HTX_QAQ 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771909316909604864",
+        "conversation_id": "2079717780694471096",
+        "created_at": "2026-07-21T23:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079717780694471096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079717780694471096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 23790,
+          "like_count": 145,
+          "quote_count": 1,
+          "reply_count": 71,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "发现了个普瑞的升级版 同等剂量下效果是普瑞的25倍！ 现缺少大剂量下的测试！且很容易在拼多多美团上面买到 我查找了下 发现没什么人吃 但确实是升级版普瑞\n\n等快递到了 测一测它！！\n\n目前知道的人并不多 知道的可以评论区打出来 一起交流呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 228,
+          "like_count": 1064,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T14:38:03.000Z",
+        "description": "07 重抑重焦｜oder｜是个小笨蛋｜🈲政｜互fo｜无雷放心食用｜看心情的药代",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOnb666",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOnb666",
+                "start": 0,
+                "url": "https://t.co/I1qBUCSlfD"
+              }
+            ]
+          }
+        },
+        "id": "1771909316909604864",
+        "name": "NEKOOOO🍥💻",
+        "pinned_tweet_id": "2082154777199497620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079718343460970496/wDuU8Hxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 386,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/I1qBUCSlfD",
+        "username": "HTX_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

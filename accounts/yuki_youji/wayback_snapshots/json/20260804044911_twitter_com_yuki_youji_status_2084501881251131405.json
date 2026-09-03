@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2084486466949058694",
+    "created_at": "2026-08-04T04:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084501881251131405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934302404922810369",
+          "start": 0,
+          "username": "ChenY47047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084501881251131405",
+    "in_reply_to_user_id": "1934302404922810369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084495924697637303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenY47047 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2084486466949058694",
+        "created_at": "2026-08-04T04:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084501881251131405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934302404922810369",
+              "start": 0,
+              "username": "ChenY47047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084501881251131405",
+        "in_reply_to_user_id": "1934302404922810369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084495924697637303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenY47047 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934302404922810369",
+        "conversation_id": "2084486466949058694",
+        "created_at": "2026-08-04T04:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084495924697637303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084495924697637303",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084486466949058694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 喵我觉得这个好那个我根本忍受不了 我对象越久不回我消息我就很焦虑很烦很崩溃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 262,
+          "like_count": 1213,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:30:20.000Z",
+        "description": "cn御风🚪52 不是健全b 09 偶尔zc 经常缺爱/发牢骚/负能 诚招一位打三角洲厉害的姐姐 入门的小宝宝都会被我关爱被我哄的 接定制 有想我念的台本可以私发给我呀 匿名提问:https://t.co/tITXigjnoR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/suki",
+                "end": 112,
+                "expanded_url": "https://miyu.link/suki",
+                "start": 89,
+                "url": "https://t.co/tITXigjnoR"
+              }
+            ]
+          }
+        },
+        "id": "1934302404922810369",
+        "location": "距离487m",
+        "name": "suki！",
+        "pinned_tweet_id": "2080499323868238149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951431674119725060/rg9TZR5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 38,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 625
+        },
+        "url": "",
+        "username": "ChenY47047",
+        "verified": false
+      }
+    ]
+  }
+}

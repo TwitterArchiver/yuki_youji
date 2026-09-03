@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2082718783450550337",
+    "created_at": "2026-07-30T10:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082777878027293023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2036095725717823488",
+          "start": 0,
+          "username": "wmzttfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082777878027293023",
+    "in_reply_to_user_id": "2036095725717823488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082755334637281340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmzttfc 就是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2082718783450550337",
+        "created_at": "2026-07-30T10:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082777878027293023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2036095725717823488",
+              "start": 0,
+              "username": "wmzttfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082777878027293023",
+        "in_reply_to_user_id": "2036095725717823488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082755334637281340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmzttfc 就是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036095725717823488",
+        "conversation_id": "2082718783450550337",
+        "created_at": "2026-07-30T09:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082755334637281340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082755334637281340",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082718783450550337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 这个看起来也太好吃了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 223,
+          "like_count": 1064,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T15:00:44.000Z",
+        "description": "一个没什么正经才艺、只会疯狂输出搞笑内容的梗图博主，全网搜罗各类沙雕神图、阴间搞笑图与趣味表情包，主打一个轻松解压、无脑乐呵，关注我，快乐永远不打烊！",
+        "id": "2036095725717823488",
+        "location": "乐子中心",
+        "name": "逗逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036098419648036864/mosfnwoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 39,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "wmzttfc",
+        "verified": true
+      }
+    ]
+  }
+}

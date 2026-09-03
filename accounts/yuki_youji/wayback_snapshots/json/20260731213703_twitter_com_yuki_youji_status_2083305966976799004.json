@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083089740002369537",
+        "3_2083089740002361344",
+        "3_2083089740107321345",
+        "13_2083089741285855232"
+      ],
+      "media_source_tweet_id": [
+        "2083090248016580918",
+        "2083090248016580918",
+        "2083090248016580918",
+        "2083090248016580918"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2083305966976799004",
+    "created_at": "2026-07-31T21:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083305966976799004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "882561616855810050",
+          "start": 3,
+          "username": "loveling23333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H9z7pMGCkJ",
+          "end": 105,
+          "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+          "media_key": "3_2083089740002369537",
+          "start": 82,
+          "url": "https://t.co/H9z7pMGCkJ"
+        },
+        {
+          "display_url": "pic.x.com/H9z7pMGCkJ",
+          "end": 105,
+          "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+          "media_key": "3_2083089740002361344",
+          "start": 82,
+          "url": "https://t.co/H9z7pMGCkJ"
+        },
+        {
+          "display_url": "pic.x.com/H9z7pMGCkJ",
+          "end": 105,
+          "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+          "media_key": "3_2083089740107321345",
+          "start": 82,
+          "url": "https://t.co/H9z7pMGCkJ"
+        },
+        {
+          "display_url": "pic.x.com/H9z7pMGCkJ",
+          "end": 105,
+          "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+          "media_key": "13_2083089741285855232",
+          "start": 82,
+          "url": "https://t.co/H9z7pMGCkJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083305966976799004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083090248016580918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveling23333: 我是小茜\n08丨153丨37kg\n因为家里人完全不管我所以来当门槛妹\n一个人艰难生存中..求入门求怜爱 &gt;﹏&lt;。 https://t.co/H9z7pMGCkJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083089740002369537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOifFPQaIAEcfRn.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083089740002361344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOifFPQaAAAE71R.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083089740107321345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOifFPpbkAE4k67.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 15066,
+        "height": 1280,
+        "media_key": "13_2083089741285855232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083089741285855232/img/tER7J7OLrDM0EXX4.jpg",
+        "public_metrics": {
+          "view_count": 309
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083089741285855232/vid/avc1/320x568/D8kr6ifOIIgOdCZo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083089741285855232/vid/avc1/480x852/86vAi4gV7YFa70bB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083089741285855232/vid/avc1/720x1280/wPuaE_0jptEq9rUq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083089741285855232/pl/kZ9bkP4KGvIA2A6r.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083089740002369537",
+            "3_2083089740002361344",
+            "3_2083089740107321345",
+            "13_2083089741285855232"
+          ]
+        },
+        "author_id": "882561616855810050",
+        "conversation_id": "2083090248016580918",
+        "created_at": "2026-07-31T07:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083090248016580918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9z7pMGCkJ",
+              "end": 86,
+              "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+              "media_key": "3_2083089740002369537",
+              "start": 63,
+              "url": "https://t.co/H9z7pMGCkJ"
+            },
+            {
+              "display_url": "pic.x.com/H9z7pMGCkJ",
+              "end": 86,
+              "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+              "media_key": "3_2083089740002361344",
+              "start": 63,
+              "url": "https://t.co/H9z7pMGCkJ"
+            },
+            {
+              "display_url": "pic.x.com/H9z7pMGCkJ",
+              "end": 86,
+              "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+              "media_key": "3_2083089740107321345",
+              "start": 63,
+              "url": "https://t.co/H9z7pMGCkJ"
+            },
+            {
+              "display_url": "pic.x.com/H9z7pMGCkJ",
+              "end": 86,
+              "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+              "media_key": "13_2083089741285855232",
+              "start": 63,
+              "url": "https://t.co/H9z7pMGCkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083090248016580918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 903,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我是小茜\n08丨153丨37kg\n因为家里人完全不管我所以来当门槛妹\n一个人艰难生存中..求入门求怜爱 &gt;﹏&lt;。 https://t.co/H9z7pMGCkJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083089740002369537",
+            "3_2083089740002361344",
+            "3_2083089740107321345",
+            "13_2083089741285855232"
+          ],
+          "media_source_tweet_id": [
+            "2083090248016580918",
+            "2083090248016580918",
+            "2083090248016580918",
+            "2083090248016580918"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2083305966976799004",
+        "created_at": "2026-07-31T21:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083305966976799004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "882561616855810050",
+              "start": 3,
+              "username": "loveling23333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9z7pMGCkJ",
+              "end": 105,
+              "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+              "media_key": "3_2083089740002369537",
+              "start": 82,
+              "url": "https://t.co/H9z7pMGCkJ"
+            },
+            {
+              "display_url": "pic.x.com/H9z7pMGCkJ",
+              "end": 105,
+              "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+              "media_key": "3_2083089740002361344",
+              "start": 82,
+              "url": "https://t.co/H9z7pMGCkJ"
+            },
+            {
+              "display_url": "pic.x.com/H9z7pMGCkJ",
+              "end": 105,
+              "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+              "media_key": "3_2083089740107321345",
+              "start": 82,
+              "url": "https://t.co/H9z7pMGCkJ"
+            },
+            {
+              "display_url": "pic.x.com/H9z7pMGCkJ",
+              "end": 105,
+              "expanded_url": "https://x.com/loveling23333/status/2083090248016580918/video/1",
+              "media_key": "13_2083089741285855232",
+              "start": 82,
+              "url": "https://t.co/H9z7pMGCkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083305966976799004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083090248016580918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveling23333: 我是小茜\n08丨153丨37kg\n因为家里人完全不管我所以来当门槛妹\n一个人艰难生存中..求入门求怜爱 &gt;﹏&lt;。 https://t.co/H9z7pMGCkJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 242,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 634
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-05T11:27:41.000Z",
+        "description": "距离奇迹降临还有__天",
+        "id": "882561616855810050",
+        "name": "akane",
+        "pinned_tweet_id": "2083090248016580918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965912317805121536/IDmc-vgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "loveling23333",
+        "verified": false
+      }
+    ]
+  }
+}

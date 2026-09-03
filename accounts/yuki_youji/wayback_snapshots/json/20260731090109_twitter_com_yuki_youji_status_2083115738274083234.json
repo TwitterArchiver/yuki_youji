@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2083065234617495967",
+    "created_at": "2026-07-31T09:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083115738274083234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895170750002204672",
+          "start": 0,
+          "username": "MiSai28846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083115738274083234",
+    "in_reply_to_user_id": "1895170750002204672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083065234617495967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiSai28846 女孩你好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2083065145685614592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiItqSWoAAhFFI.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2083065234617495967",
+        "created_at": "2026-07-31T09:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083115738274083234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895170750002204672",
+              "start": 0,
+              "username": "MiSai28846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083115738274083234",
+        "in_reply_to_user_id": "1895170750002204672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083065234617495967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiSai28846 女孩你好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083065145685614592"
+          ]
+        },
+        "author_id": "1895170750002204672",
+        "conversation_id": "2083065234617495967",
+        "created_at": "2026-07-31T05:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083065234617495967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIkvFQNFu5",
+              "end": 39,
+              "expanded_url": "https://x.com/MiSai28846/status/2083065234617495967/photo/1",
+              "media_key": "3_2083065145685614592",
+              "start": 16,
+              "url": "https://t.co/LIkvFQNFu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083065234617495967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "处理一些人和事的方式还是太幼稚 https://t.co/LIkvFQNFu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 214,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T17:55:02.000Z",
+        "description": "休学中/日常/热爱人类/欢迎私信",
+        "id": "1895170750002204672",
+        "name": "弥赛亚",
+        "pinned_tweet_id": "1904340937955848657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903960536741548033/wCpUPl4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 87,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "MiSai28846",
+        "verified": false
+      }
+    ]
+  }
+}

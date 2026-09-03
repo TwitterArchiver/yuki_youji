@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081976226873507962",
+    "created_at": "2026-07-28T07:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082007595012022331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998718271856717826",
+          "start": 0,
+          "username": "PaulaRiver9119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082007595012022331",
+    "in_reply_to_user_id": "1998718271856717826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081984129181389286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulaRiver9119 在减肥吃不了😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081976226873507962",
+        "created_at": "2026-07-28T07:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082007595012022331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998718271856717826",
+              "start": 0,
+              "username": "PaulaRiver9119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082007595012022331",
+        "in_reply_to_user_id": "1998718271856717826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081984129181389286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulaRiver9119 在减肥吃不了😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998718271856717826",
+        "conversation_id": "2081976226873507962",
+        "created_at": "2026-07-28T06:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081984129181389286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081984129181389286",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081976226873507962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 今天必胜客披萨买一送一还有半价榴莲披萨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 196,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T11:36:07.000Z",
+        "description": "@guest07080279的影分身👁✋️👁\n互动消息我一般都会看的！一般发碎碎念有负面预警！！😈⚠\n/Eng&日本語 翻译器💖💖/\n可以叫我V\n被ban的时候也会在这里发点画😢如果你喜欢我的画的话也可以去关注大号呀！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "guest07080279"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guest0708",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guest0708",
+                "start": 0,
+                "url": "https://t.co/l4GGSVahDj"
+              }
+            ]
+          }
+        },
+        "id": "1998718271856717826",
+        "location": "向我提问吧💖→",
+        "name": "Vermilion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066463827311607809/Pt_Cicbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 35,
+          "like_count": 1945,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/l4GGSVahDj",
+        "username": "PaulaRiver9119",
+        "verified": false
+      }
+    ]
+  }
+}

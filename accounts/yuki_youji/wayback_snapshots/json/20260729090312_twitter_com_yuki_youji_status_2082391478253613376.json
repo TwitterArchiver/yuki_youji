@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2082391478253613376",
+    "created_at": "2026-07-29T09:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082391478253613376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771909316909604864",
+          "start": 3,
+          "username": "HTX_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082391478253613376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080912335892599275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HTX_QAQ: 300fo奖励来了\n\n✨【限时抽奖活动开启！】\n📷右美福利大派送，好运直接砸中你！  为感谢各位宝子们一直以来的支持，\n特别推出【右美幸运抽奖】活动！\n奖品丰厚，轻松参与，人人有机会！  \n📷 奖项设置：\n\n 一等奖（1名）\n右美 5板 +进口伟哥3粒…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2082391478253613376",
+        "created_at": "2026-07-29T09:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082391478253613376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771909316909604864",
+              "start": 3,
+              "username": "HTX_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082391478253613376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080912335892599275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HTX_QAQ: 300fo奖励来了\n\n✨【限时抽奖活动开启！】\n📷右美福利大派送，好运直接砸中你！  为感谢各位宝子们一直以来的支持，\n特别推出【右美幸运抽奖】活动！\n奖品丰厚，轻松参与，人人有机会！  \n📷 奖项设置：\n\n 一等奖（1名）\n右美 5板 +进口伟哥3粒…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771909316909604864",
+        "conversation_id": "2080912335892599275",
+        "created_at": "2026-07-25T07:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:45:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080907337725055312",
+          "2080912335892599275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080912335892599275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 333,
+                "start": 328,
+                "tag": "右美抽奖"
+              },
+              {
+                "end": 341,
+                "start": 334,
+                "tag": "右美好物推荐"
+              },
+              {
+                "end": 348,
+                "start": 342,
+                "tag": "幸运大放送"
+              },
+              {
+                "end": 352,
+                "start": 349,
+                "tag": "右美"
+              }
+            ]
+          },
+          "text": "300fo奖励来了\n\n✨【限时抽奖活动开启！】\n📷右美福利大派送，好运直接砸中你！  为感谢各位宝子们一直以来的支持，\n特别推出【右美幸运抽奖】活动！\n奖品丰厚，轻松参与，人人有机会！  \n📷 奖项设置：\n\n 一等奖（1名）\n右美 5板 +进口伟哥3粒 \n\n📷 二等奖（3名）\n右美 2板 \n\n📷 三等奖（6名）\n普瑞原粉5g \n\n必备好物，品质放心，效果看得见！\n\n现在参与抽奖，就有机会把满满的右美大礼包带回家～  参与方式超简单：\n关注 + 转发 + 评论区留言\n即可自动获得抽奖资格！  活动时间有限，手慢无！\n快来试试你的手气，把右美好运一起带走吧～  右美，与你同行，温暖每一天！\n\n开奖时间为7月29日 20:00 北京时间使用grok开奖\n#右美抽奖 #右美好物推荐 #幸运大放送 #右美"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6385,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 79,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "300fo奖励来了\n\n✨【限时抽奖活动开启！】\n📷右美福利大派送，好运直接砸中你！  为感谢各位宝子们一直以来的支持，\n特别推出【右美幸运抽奖】活动！\n奖品丰厚，轻松参与，人人有机会！  \n📷 奖项设置：\n\n 一等奖（1名）\n右美 5板 +进口伟哥3粒 \n\n📷 二等奖（3名）\n右美 2板 \n\n📷 三等奖（6名）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 204,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 557
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T14:38:03.000Z",
+        "description": "07 重抑重焦｜oder｜是个小笨蛋｜🈲政｜互fo｜无雷放心食用｜看心情的药代",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOnb666",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOnb666",
+                "start": 0,
+                "url": "https://t.co/I1qBUCSlfD"
+              }
+            ]
+          }
+        },
+        "id": "1771909316909604864",
+        "name": "NEKOOOO🍥💻",
+        "pinned_tweet_id": "2082154777199497620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079718343460970496/wDuU8Hxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 387,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/I1qBUCSlfD",
+        "username": "HTX_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

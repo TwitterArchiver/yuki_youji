@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078161143198343168"
+      ],
+      "media_source_tweet_id": [
+        "2078161146008481858"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2082306327410614288",
+    "created_at": "2026-07-29T03:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T04:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082306327410614288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881818955859509248",
+          "start": 3,
+          "username": "KanA_e316"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QRMK9dD1MP",
+          "end": 38,
+          "expanded_url": "https://x.com/KanA_e316/status/2078161146008481858/photo/1",
+          "media_key": "3_2078161143198343168",
+          "start": 15,
+          "url": "https://t.co/QRMK9dD1MP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082306327410614288",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078161146008481858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KanA_e316: https://t.co/QRMK9dD1MP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078161143198343168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNccjJZbYAAaEu6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078161143198343168"
+          ]
+        },
+        "author_id": "1881818955859509248",
+        "conversation_id": "2078161146008481858",
+        "created_at": "2026-07-17T16:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078161146008481858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRMK9dD1MP",
+              "end": 23,
+              "expanded_url": "https://x.com/KanA_e316/status/2078161146008481858/photo/1",
+              "media_key": "3_2078161143198343168",
+              "start": 0,
+              "url": "https://t.co/QRMK9dD1MP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078161146008481858",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3081,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QRMK9dD1MP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078161143198343168"
+          ],
+          "media_source_tweet_id": [
+            "2078161146008481858"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2082306327410614288",
+        "created_at": "2026-07-29T03:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082306327410614288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881818955859509248",
+              "start": 3,
+              "username": "KanA_e316"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRMK9dD1MP",
+              "end": 38,
+              "expanded_url": "https://x.com/KanA_e316/status/2078161146008481858/photo/1",
+              "media_key": "3_2078161143198343168",
+              "start": 15,
+              "url": "https://t.co/QRMK9dD1MP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082306327410614288",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078161146008481858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KanA_e316: https://t.co/QRMK9dD1MP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 189,
+          "like_count": 916,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 527
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T21:39:47.000Z",
+        "description": "追寻快乐，也追寻痛苦。\nig：https://t.co/zS7vPQQVMv\n📮：https://t.co/A4aSGsM9PL\n喜欢我请🚪88",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kana_e316?igsh…",
+                "end": 38,
+                "expanded_url": "https://www.instagram.com/kana_e316?igsh=bjByb3d3cWpkbnJz",
+                "start": 15,
+                "url": "https://t.co/zS7vPQQVMv"
+              },
+              {
+                "display_url": "ngl.link/kanaeee90929",
+                "end": 64,
+                "expanded_url": "https://ngl.link/kanaeee90929",
+                "start": 41,
+                "url": "https://t.co/A4aSGsM9PL"
+              }
+            ]
+          }
+        },
+        "id": "1881818955859509248",
+        "name": "Kanae",
+        "pinned_tweet_id": "2078161146008481858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077937777455611904/cpb_v8yG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 33,
+          "like_count": 3189,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "KanA_e316",
+        "verified": false
+      }
+    ]
+  }
+}

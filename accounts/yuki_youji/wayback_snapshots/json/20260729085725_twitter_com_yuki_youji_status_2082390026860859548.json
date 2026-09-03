@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077288578590068737",
+        "3_2077288578611122176",
+        "3_2077288578544017408",
+        "3_2077288578585894912"
+      ],
+      "media_source_tweet_id": [
+        "2077288594171908329",
+        "2077288594171908329",
+        "2077288594171908329",
+        "2077288594171908329"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2082390026860859548",
+    "created_at": "2026-07-29T08:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082390026860859548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1309142787422588930",
+          "start": 3,
+          "username": "claudineipexe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AuMiAsGuyk",
+          "end": 54,
+          "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+          "media_key": "3_2077288578590068737",
+          "start": 31,
+          "url": "https://t.co/AuMiAsGuyk"
+        },
+        {
+          "display_url": "pic.x.com/AuMiAsGuyk",
+          "end": 54,
+          "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+          "media_key": "3_2077288578611122176",
+          "start": 31,
+          "url": "https://t.co/AuMiAsGuyk"
+        },
+        {
+          "display_url": "pic.x.com/AuMiAsGuyk",
+          "end": 54,
+          "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+          "media_key": "3_2077288578544017408",
+          "start": 31,
+          "url": "https://t.co/AuMiAsGuyk"
+        },
+        {
+          "display_url": "pic.x.com/AuMiAsGuyk",
+          "end": 54,
+          "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+          "media_key": "3_2077288578585894912",
+          "start": 31,
+          "url": "https://t.co/AuMiAsGuyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082390026860859548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077288594171908329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @claudineipexe: 🔝没回消息就是在睡觉觉 https://t.co/AuMiAsGuyk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_2077288578590068737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQC9M7WUAEwGrN.jpg",
+        "width": 1179
+      },
+      {
+        "height": 758,
+        "media_key": "3_2077288578611122176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQC9NAXkAAmVsE.jpg",
+        "width": 1081
+      },
+      {
+        "height": 2014,
+        "media_key": "3_2077288578544017408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQC9MwXoAA4ryU.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1646,
+        "media_key": "3_2077288578585894912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQC9M6WoAAtb4u.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077288578590068737",
+            "3_2077288578611122176",
+            "3_2077288578544017408",
+            "3_2077288578585894912"
+          ]
+        },
+        "author_id": "1309142787422588930",
+        "conversation_id": "2077288594171908329",
+        "created_at": "2026-07-15T07:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077288594171908329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuMiAsGuyk",
+              "end": 35,
+              "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+              "media_key": "3_2077288578590068737",
+              "start": 12,
+              "url": "https://t.co/AuMiAsGuyk"
+            },
+            {
+              "display_url": "pic.x.com/AuMiAsGuyk",
+              "end": 35,
+              "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+              "media_key": "3_2077288578611122176",
+              "start": 12,
+              "url": "https://t.co/AuMiAsGuyk"
+            },
+            {
+              "display_url": "pic.x.com/AuMiAsGuyk",
+              "end": 35,
+              "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+              "media_key": "3_2077288578544017408",
+              "start": 12,
+              "url": "https://t.co/AuMiAsGuyk"
+            },
+            {
+              "display_url": "pic.x.com/AuMiAsGuyk",
+              "end": 35,
+              "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+              "media_key": "3_2077288578585894912",
+              "start": 12,
+              "url": "https://t.co/AuMiAsGuyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077288594171908329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8288,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "🔝没回消息就是在睡觉觉 https://t.co/AuMiAsGuyk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077288578590068737",
+            "3_2077288578611122176",
+            "3_2077288578544017408",
+            "3_2077288578585894912"
+          ],
+          "media_source_tweet_id": [
+            "2077288594171908329",
+            "2077288594171908329",
+            "2077288594171908329",
+            "2077288594171908329"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2082390026860859548",
+        "created_at": "2026-07-29T08:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082390026860859548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1309142787422588930",
+              "start": 3,
+              "username": "claudineipexe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuMiAsGuyk",
+              "end": 54,
+              "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+              "media_key": "3_2077288578590068737",
+              "start": 31,
+              "url": "https://t.co/AuMiAsGuyk"
+            },
+            {
+              "display_url": "pic.x.com/AuMiAsGuyk",
+              "end": 54,
+              "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+              "media_key": "3_2077288578611122176",
+              "start": 31,
+              "url": "https://t.co/AuMiAsGuyk"
+            },
+            {
+              "display_url": "pic.x.com/AuMiAsGuyk",
+              "end": 54,
+              "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+              "media_key": "3_2077288578544017408",
+              "start": 31,
+              "url": "https://t.co/AuMiAsGuyk"
+            },
+            {
+              "display_url": "pic.x.com/AuMiAsGuyk",
+              "end": 54,
+              "expanded_url": "https://x.com/claudineipexe/status/2077288594171908329/photo/1",
+              "media_key": "3_2077288578585894912",
+              "start": 31,
+              "url": "https://t.co/AuMiAsGuyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082390026860859548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077288594171908329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @claudineipexe: 🔝没回消息就是在睡觉觉 https://t.co/AuMiAsGuyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 200,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 554
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-24T14:49:14.000Z",
+        "description": "世界末日我也睡觉觉！不睡了好了吧",
+        "id": "1309142787422588930",
+        "location": "0.1km",
+        "name": "睡个好觉觉",
+        "pinned_tweet_id": "2077288594171908329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074447583251169280/FOYVv5PX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 14,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "claudineipexe",
+        "verified": false
+      }
+    ]
+  }
+}

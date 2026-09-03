@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2082166080773218565",
+    "created_at": "2026-07-29T08:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082384215249920256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778519546388996096",
+          "start": 0,
+          "username": "qnshhun91498298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082384215249920256",
+    "in_reply_to_user_id": "1778519546388996096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082166080773218565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qnshhun91498298 宝宝加巴喷丁最好分次吃每半小时少量多次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2082166080773218565",
+        "created_at": "2026-07-29T08:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082384215249920256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778519546388996096",
+              "start": 0,
+              "username": "qnshhun91498298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082384215249920256",
+        "in_reply_to_user_id": "1778519546388996096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082166080773218565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qnshhun91498298 宝宝加巴喷丁最好分次吃每半小时少量多次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778519546388996096",
+        "conversation_id": "2082166080773218565",
+        "created_at": "2026-07-28T18:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082166080773218565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082166080773218565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经吃了大概30颗加巴喷丁了  但是我只有微醺的状态  我愤怒了  我恐惧了  我认命了  我没辙了  我傻逼了 我完蛋了  我释怀了  我想死了  我崩溃了 我悲伤了  我屈服了  我委屈了  我生气了  我孤独了  我想要了  我疯狂了  我扭曲了  我害怕了  我心酸了  我无助了  我宕机了  我抑郁了  我焦虑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 198,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 549
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T20:24:46.000Z",
+        "description": "我只是说点od的小胡话不要骂我  我就是一个神经病对不起",
+        "id": "1778519546388996096",
+        "name": "Rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081418621709107200/zm1mlNVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 92,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "qnshhun91498298",
+        "verified": false
+      }
+    ]
+  }
+}

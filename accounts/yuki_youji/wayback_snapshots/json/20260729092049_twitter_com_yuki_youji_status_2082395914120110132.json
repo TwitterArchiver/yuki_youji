@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2082395785623453835",
+    "created_at": "2026-07-29T09:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082395914120110132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1763450818886606848",
+          "start": 0,
+          "username": "Isunia177991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082395914120110132",
+    "in_reply_to_user_id": "1763450818886606848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082395785623453835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isunia177991 宝宝🥺🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2082395785623453835",
+        "created_at": "2026-07-29T09:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082395914120110132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763450818886606848",
+              "start": 0,
+              "username": "Isunia177991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082395914120110132",
+        "in_reply_to_user_id": "1763450818886606848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082395785623453835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isunia177991 宝宝🥺🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763450818886606848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2082395785623453835",
+        "created_at": "2026-07-29T09:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082395785623453835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki_youji/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yuki_youji/status/2081733452953723158",
+              "start": 7,
+              "url": "https://t.co/RREbZnoWQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082395785623453835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081733452953723158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你真可爱呀！ https://t.co/RREbZnoWQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 208,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈 🥦💥 Prime×Diane（ram）\n绿谷出久左位大欢迎 ‼️右位禁止‼️\n♡♡最喜欢的人是六条銀ÒωÓ♡♡\n↑↑↑有大量suki♡言论TT",
+        "id": "1763450818886606848",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2081789543360127155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 131,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false
+      }
+    ]
+  }
+}

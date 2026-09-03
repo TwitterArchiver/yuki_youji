@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082423082413961216",
+        "3_2082423082434842624",
+        "3_2082423082413862912"
+      ],
+      "media_source_tweet_id": [
+        "2082423921958347151",
+        "2082423921958347151",
+        "2082423921958347151"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2082452074495971346",
+    "created_at": "2026-07-29T13:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082452074495971346"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "线上"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "866611637393833984",
+          "start": 3,
+          "username": "3PQK0ZABSplAZI9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kEFVAoffuj",
+          "end": 133,
+          "expanded_url": "https://x.com/3PQK0ZABSplAZI9/status/2082423921958347151/photo/1",
+          "media_key": "3_2082423082413961216",
+          "start": 110,
+          "url": "https://t.co/kEFVAoffuj"
+        },
+        {
+          "display_url": "pic.x.com/kEFVAoffuj",
+          "end": 133,
+          "expanded_url": "https://x.com/3PQK0ZABSplAZI9/status/2082423921958347151/photo/1",
+          "media_key": "3_2082423082434842624",
+          "start": 110,
+          "url": "https://t.co/kEFVAoffuj"
+        },
+        {
+          "display_url": "pic.x.com/kEFVAoffuj",
+          "end": 133,
+          "expanded_url": "https://x.com/3PQK0ZABSplAZI9/status/2082423921958347151/photo/1",
+          "media_key": "3_2082423082413862912",
+          "start": 110,
+          "url": "https://t.co/kEFVAoffuj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082452074495971346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082423921958347151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3PQK0ZABSplAZI9: 置顶🔝\nip上海，全国可✈️\n大家好这里是小源，06 160 40kg 穷的吃不起饭了，喜欢我的宝宝们快来过我🚪欢迎宝宝们互fo!礼貌私信都会回ing #门槛妹 #线上 #线下 https://t.co/kEFVAoffuj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082423082413961216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZAwqNbsAAfkqt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1274,
+        "media_key": "3_2082423082434842624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZAwqSaUAA2lzd.jpg",
+        "width": 1121
+      },
+      {
+        "height": 868,
+        "media_key": "3_2082423082413862912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZAwqNaMAAv1HO.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082423082413961216",
+            "3_2082423082434842624",
+            "3_2082423082413862912"
+          ]
+        },
+        "author_id": "866611637393833984",
+        "conversation_id": "2082423921958347151",
+        "created_at": "2026-07-29T11:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082423921958347151"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "线上"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEFVAoffuj",
+              "end": 112,
+              "expanded_url": "https://x.com/3PQK0ZABSplAZI9/status/2082423921958347151/photo/1",
+              "media_key": "3_2082423082413961216",
+              "start": 89,
+              "url": "https://t.co/kEFVAoffuj"
+            },
+            {
+              "display_url": "pic.x.com/kEFVAoffuj",
+              "end": 112,
+              "expanded_url": "https://x.com/3PQK0ZABSplAZI9/status/2082423921958347151/photo/1",
+              "media_key": "3_2082423082434842624",
+              "start": 89,
+              "url": "https://t.co/kEFVAoffuj"
+            },
+            {
+              "display_url": "pic.x.com/kEFVAoffuj",
+              "end": 112,
+              "expanded_url": "https://x.com/3PQK0ZABSplAZI9/status/2082423921958347151/photo/1",
+              "media_key": "3_2082423082413862912",
+              "start": 89,
+              "url": "https://t.co/kEFVAoffuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082423921958347151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\nip上海，全国可✈️\n大家好这里是小源，06 160 40kg 穷的吃不起饭了，喜欢我的宝宝们快来过我🚪欢迎宝宝们互fo!礼貌私信都会回ing #门槛妹 #线上 #线下 https://t.co/kEFVAoffuj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082423082413961216",
+            "3_2082423082434842624",
+            "3_2082423082413862912"
+          ],
+          "media_source_tweet_id": [
+            "2082423921958347151",
+            "2082423921958347151",
+            "2082423921958347151"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2082452074495971346",
+        "created_at": "2026-07-29T13:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082452074495971346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "线上"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "866611637393833984",
+              "start": 3,
+              "username": "3PQK0ZABSplAZI9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEFVAoffuj",
+              "end": 133,
+              "expanded_url": "https://x.com/3PQK0ZABSplAZI9/status/2082423921958347151/photo/1",
+              "media_key": "3_2082423082413961216",
+              "start": 110,
+              "url": "https://t.co/kEFVAoffuj"
+            },
+            {
+              "display_url": "pic.x.com/kEFVAoffuj",
+              "end": 133,
+              "expanded_url": "https://x.com/3PQK0ZABSplAZI9/status/2082423921958347151/photo/1",
+              "media_key": "3_2082423082434842624",
+              "start": 110,
+              "url": "https://t.co/kEFVAoffuj"
+            },
+            {
+              "display_url": "pic.x.com/kEFVAoffuj",
+              "end": 133,
+              "expanded_url": "https://x.com/3PQK0ZABSplAZI9/status/2082423921958347151/photo/1",
+              "media_key": "3_2082423082413862912",
+              "start": 110,
+              "url": "https://t.co/kEFVAoffuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082452074495971346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082423921958347151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3PQK0ZABSplAZI9: 置顶🔝\nip上海，全国可✈️\n大家好这里是小源，06 160 40kg 穷的吃不起饭了，喜欢我的宝宝们快来过我🚪欢迎宝宝们互fo!礼貌私信都会回ing #门槛妹 #线上 #线下 https://t.co/kEFVAoffuj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 210,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-22T11:08:10.000Z",
+        "description": "小源 19 160 90 ip上海 🚪188/288/520/1314 免费验证 优先口令",
+        "id": "866611637393833984",
+        "name": "たけひじ",
+        "pinned_tweet_id": "2082423921958347151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082422700145049600/YJF-nWhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "3PQK0ZABSplAZI9",
+        "verified": false
+      }
+    ]
+  }
+}

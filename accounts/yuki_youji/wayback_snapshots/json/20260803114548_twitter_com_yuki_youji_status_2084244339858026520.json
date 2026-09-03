@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084129780287590400",
+        "3_2084129792350388224",
+        "3_2084129807709986816",
+        "13_2084129827616182272"
+      ],
+      "media_source_tweet_id": [
+        "2084129911267287473",
+        "2084129911267287473",
+        "2084129911267287473",
+        "2084129911267287473"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2084244339858026520",
+    "created_at": "2026-08-03T11:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084244339858026520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1905567948791844865",
+          "start": 3,
+          "username": "AmyCampbel85423"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CbmJ78JN3i",
+          "end": 49,
+          "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+          "media_key": "3_2084129780287590400",
+          "start": 26,
+          "url": "https://t.co/CbmJ78JN3i"
+        },
+        {
+          "display_url": "pic.x.com/CbmJ78JN3i",
+          "end": 49,
+          "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+          "media_key": "3_2084129792350388224",
+          "start": 26,
+          "url": "https://t.co/CbmJ78JN3i"
+        },
+        {
+          "display_url": "pic.x.com/CbmJ78JN3i",
+          "end": 49,
+          "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+          "media_key": "3_2084129807709986816",
+          "start": 26,
+          "url": "https://t.co/CbmJ78JN3i"
+        },
+        {
+          "display_url": "pic.x.com/CbmJ78JN3i",
+          "end": 49,
+          "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+          "media_key": "13_2084129827616182272",
+          "start": 26,
+          "url": "https://t.co/CbmJ78JN3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084244339858026520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084129911267287473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmyCampbel85423: 回归啦~ https://t.co/CbmJ78JN3i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1234,
+        "media_key": "3_2084129780287590400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxQ_jPa0AA6Gv8.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2084129792350388224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxRAQLagAAeb09.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1324,
+        "media_key": "3_2084129807709986816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxRBJZbYAACPJB.jpg",
+        "width": 946
+      },
+      {
+        "duration_ms": 15061,
+        "height": 1024,
+        "media_key": "13_2084129827616182272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084129827616182272/img/plyoYZYd5eVCfhGd.jpg",
+        "public_metrics": {
+          "view_count": 59
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084129827616182272/vid/avc1/320x568/icsIOuR_BTpRil3J.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084129827616182272/vid/avc1/480x852/mLY52h66e_6z4EQC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084129827616182272/vid/avc1/576x1024/T4Qf2qFUozoc9pKM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084129827616182272/pl/dT2ZW_8dplpEr6zo.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084129780287590400",
+            "3_2084129792350388224",
+            "3_2084129807709986816",
+            "13_2084129827616182272"
+          ]
+        },
+        "author_id": "1905567948791844865",
+        "conversation_id": "2084129911267287473",
+        "created_at": "2026-08-03T04:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084129911267287473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbmJ78JN3i",
+              "end": 28,
+              "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+              "media_key": "3_2084129780287590400",
+              "start": 5,
+              "url": "https://t.co/CbmJ78JN3i"
+            },
+            {
+              "display_url": "pic.x.com/CbmJ78JN3i",
+              "end": 28,
+              "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+              "media_key": "3_2084129792350388224",
+              "start": 5,
+              "url": "https://t.co/CbmJ78JN3i"
+            },
+            {
+              "display_url": "pic.x.com/CbmJ78JN3i",
+              "end": 28,
+              "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+              "media_key": "3_2084129807709986816",
+              "start": 5,
+              "url": "https://t.co/CbmJ78JN3i"
+            },
+            {
+              "display_url": "pic.x.com/CbmJ78JN3i",
+              "end": 28,
+              "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+              "media_key": "13_2084129827616182272",
+              "start": 5,
+              "url": "https://t.co/CbmJ78JN3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084129911267287473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "回归啦~ https://t.co/CbmJ78JN3i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084129780287590400",
+            "3_2084129792350388224",
+            "3_2084129807709986816",
+            "13_2084129827616182272"
+          ],
+          "media_source_tweet_id": [
+            "2084129911267287473",
+            "2084129911267287473",
+            "2084129911267287473",
+            "2084129911267287473"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2084244339858026520",
+        "created_at": "2026-08-03T11:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084244339858026520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1905567948791844865",
+              "start": 3,
+              "username": "AmyCampbel85423"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbmJ78JN3i",
+              "end": 49,
+              "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+              "media_key": "3_2084129780287590400",
+              "start": 26,
+              "url": "https://t.co/CbmJ78JN3i"
+            },
+            {
+              "display_url": "pic.x.com/CbmJ78JN3i",
+              "end": 49,
+              "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+              "media_key": "3_2084129792350388224",
+              "start": 26,
+              "url": "https://t.co/CbmJ78JN3i"
+            },
+            {
+              "display_url": "pic.x.com/CbmJ78JN3i",
+              "end": 49,
+              "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+              "media_key": "3_2084129807709986816",
+              "start": 26,
+              "url": "https://t.co/CbmJ78JN3i"
+            },
+            {
+              "display_url": "pic.x.com/CbmJ78JN3i",
+              "end": 49,
+              "expanded_url": "https://x.com/AmyCampbel85423/status/2084129911267287473/video/1",
+              "media_key": "13_2084129827616182272",
+              "start": 26,
+              "url": "https://t.co/CbmJ78JN3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084244339858026520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084129911267287473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmyCampbel85423: 回归啦~ https://t.co/CbmJ78JN3i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 262,
+          "like_count": 1208,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:29:44.000Z",
+        "description": "小女翩翩给公子请安啦~前世500fo被奸人所害喵现已转生推油寻回中！这个号好贵的这一世请对我好点^_^\n🚪52喵",
+        "id": "1905567948791844865",
+        "location": "10两银子（10米）",
+        "name": "偏偏3.0（推油寻回ing）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084122070376722432/rihh7gfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 4,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "AmyCampbel85423",
+        "verified": false
+      }
+    ]
+  }
+}

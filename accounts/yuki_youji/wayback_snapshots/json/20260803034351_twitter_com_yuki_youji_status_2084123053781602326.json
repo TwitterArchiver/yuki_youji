@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083876228696838144",
+        "3_2083876228700983296"
+      ],
+      "media_source_tweet_id": [
+        "2083876238356337021",
+        "2083876238356337021"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2084123053781602326",
+    "created_at": "2026-08-03T03:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084123053781602326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083873753155674112",
+          "start": 3,
+          "username": "tuji668"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AmGi4OG45y",
+          "end": 48,
+          "expanded_url": "https://x.com/tuji668/status/2083876238356337021/photo/1",
+          "media_key": "3_2083876228696838144",
+          "start": 25,
+          "url": "https://t.co/AmGi4OG45y"
+        },
+        {
+          "display_url": "pic.x.com/AmGi4OG45y",
+          "end": 48,
+          "expanded_url": "https://x.com/tuji668/status/2083876238356337021/photo/1",
+          "media_key": "3_2083876228700983296",
+          "start": 25,
+          "url": "https://t.co/AmGi4OG45y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084123053781602326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083876238356337021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuji668: 入门请私信！\n爱你们🫶 https://t.co/AmGi4OG45y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083876228696838144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtqY59bEAAam9R.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1712,
+        "media_key": "3_2083876228700983296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtqY5-aUAA3-68.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083876228696838144",
+            "3_2083876228700983296"
+          ]
+        },
+        "author_id": "2083873753155674112",
+        "conversation_id": "2083876238356337021",
+        "created_at": "2026-08-02T11:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083876238356337021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmGi4OG45y",
+              "end": 35,
+              "expanded_url": "https://x.com/tuji668/status/2083876238356337021/photo/1",
+              "media_key": "3_2083876228696838144",
+              "start": 12,
+              "url": "https://t.co/AmGi4OG45y"
+            },
+            {
+              "display_url": "pic.x.com/AmGi4OG45y",
+              "end": 35,
+              "expanded_url": "https://x.com/tuji668/status/2083876238356337021/photo/1",
+              "media_key": "3_2083876228700983296",
+              "start": 12,
+              "url": "https://t.co/AmGi4OG45y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083876238356337021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "入门请私信！\n爱你们🫶 https://t.co/AmGi4OG45y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083876228696838144",
+            "3_2083876228700983296"
+          ],
+          "media_source_tweet_id": [
+            "2083876238356337021",
+            "2083876238356337021"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2084123053781602326",
+        "created_at": "2026-08-03T03:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084123053781602326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083873753155674112",
+              "start": 3,
+              "username": "tuji668"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmGi4OG45y",
+              "end": 48,
+              "expanded_url": "https://x.com/tuji668/status/2083876238356337021/photo/1",
+              "media_key": "3_2083876228696838144",
+              "start": 25,
+              "url": "https://t.co/AmGi4OG45y"
+            },
+            {
+              "display_url": "pic.x.com/AmGi4OG45y",
+              "end": 48,
+              "expanded_url": "https://x.com/tuji668/status/2083876238356337021/photo/1",
+              "media_key": "3_2083876228700983296",
+              "start": 25,
+              "url": "https://t.co/AmGi4OG45y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084123053781602326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083876238356337021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuji668: 入门请私信！\n爱你们🫶 https://t.co/AmGi4OG45y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 255,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-02T11:13:59.000Z",
+        "description": "向星星许愿⋆｡°✩\n让所有人幸福！",
+        "id": "2083873753155674112",
+        "name": "小兔叽",
+        "pinned_tweet_id": "2083876238356337021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083874924750585856/dCPdQv4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "tuji668",
+        "verified": false
+      }
+    ]
+  }
+}

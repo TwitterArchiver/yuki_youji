@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074541819984322560",
+        "3_2074541819988500480"
+      ],
+      "media_source_tweet_id": [
+        "2074541831694778487",
+        "2074541831694778487"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2082390570090328405",
+    "created_at": "2026-07-29T08:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082390570090328405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2074444278731001856",
+          "start": 3,
+          "username": "d3mxvr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iZAcW5K9oY",
+          "end": 99,
+          "expanded_url": "https://x.com/d3mxvr/status/2074541831694778487/photo/1",
+          "media_key": "3_2074541819984322560",
+          "start": 76,
+          "url": "https://t.co/iZAcW5K9oY"
+        },
+        {
+          "display_url": "pic.x.com/iZAcW5K9oY",
+          "end": 99,
+          "expanded_url": "https://x.com/d3mxvr/status/2074541831694778487/photo/1",
+          "media_key": "3_2074541819988500480",
+          "start": 76,
+          "url": "https://t.co/iZAcW5K9oY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082390570090328405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074541831694778487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d3mxvr: 小清的置顶\n09年 D杯 177/135\n收养家庭长大 需要零花钱\n目前在读高二 可以陪玩一些手游\n不会的我去学 希望多多支持 https://t.co/iZAcW5K9oY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2074541819984322560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpAyzvboAAYRia.jpg",
+        "width": 680
+      },
+      {
+        "height": 1958,
+        "media_key": "3_2074541819988500480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpAyzwbYAAyzt1.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074541819984322560",
+            "3_2074541819988500480"
+          ]
+        },
+        "author_id": "2074444278731001856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2074541831694778487",
+        "created_at": "2026-07-07T17:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074541831694778487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZAcW5K9oY",
+              "end": 87,
+              "expanded_url": "https://x.com/d3mxvr/status/2074541831694778487/photo/1",
+              "media_key": "3_2074541819984322560",
+              "start": 64,
+              "url": "https://t.co/iZAcW5K9oY"
+            },
+            {
+              "display_url": "pic.x.com/iZAcW5K9oY",
+              "end": 87,
+              "expanded_url": "https://x.com/d3mxvr/status/2074541831694778487/photo/1",
+              "media_key": "3_2074541819988500480",
+              "start": 64,
+              "url": "https://t.co/iZAcW5K9oY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074541831694778487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8241,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "小清的置顶\n09年 D杯 177/135\n收养家庭长大 需要零花钱\n目前在读高二 可以陪玩一些手游\n不会的我去学 希望多多支持 https://t.co/iZAcW5K9oY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074541819984322560",
+            "3_2074541819988500480"
+          ],
+          "media_source_tweet_id": [
+            "2074541831694778487",
+            "2074541831694778487"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2082390570090328405",
+        "created_at": "2026-07-29T08:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082390570090328405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2074444278731001856",
+              "start": 3,
+              "username": "d3mxvr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZAcW5K9oY",
+              "end": 99,
+              "expanded_url": "https://x.com/d3mxvr/status/2074541831694778487/photo/1",
+              "media_key": "3_2074541819984322560",
+              "start": 76,
+              "url": "https://t.co/iZAcW5K9oY"
+            },
+            {
+              "display_url": "pic.x.com/iZAcW5K9oY",
+              "end": 99,
+              "expanded_url": "https://x.com/d3mxvr/status/2074541831694778487/photo/1",
+              "media_key": "3_2074541819988500480",
+              "start": 76,
+              "url": "https://t.co/iZAcW5K9oY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082390570090328405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074541831694778487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d3mxvr: 小清的置顶\n09年 D杯 177/135\n收养家庭长大 需要零花钱\n目前在读高二 可以陪玩一些手游\n不会的我去学 希望多多支持 https://t.co/iZAcW5K9oY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 202,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 555
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T10:45:08.000Z",
+        "description": "🉑验证20 私信只回复口令，没回加QQ1919127390",
+        "id": "2074444278731001856",
+        "name": "小清酱",
+        "pinned_tweet_id": "2074541831694778487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074444717396525056/z3XBwQ0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 7,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "d3mxvr",
+        "verified": false
+      }
+    ]
+  }
+}

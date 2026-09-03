@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083167704761147392"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2083167877646127348",
+    "created_at": "2026-07-31T12:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083167877646127348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5dDj4BveUV",
+          "end": 49,
+          "expanded_url": "https://x.com/yuki_youji/status/2083167877646127348/photo/1",
+          "media_key": "3_2083167704761147392",
+          "start": 26,
+          "url": "https://t.co/5dDj4BveUV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083167877646127348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "画了我妻子的男子设简称我老公，很土对因为他在当牛郎 https://t.co/5dDj4BveUV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2083167704761147392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjl_YnaoAAA1hS.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083167704761147392"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2083167877646127348",
+        "created_at": "2026-07-31T12:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083167877646127348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dDj4BveUV",
+              "end": 49,
+              "expanded_url": "https://x.com/yuki_youji/status/2083167877646127348/photo/1",
+              "media_key": "3_2083167704761147392",
+              "start": 26,
+              "url": "https://t.co/5dDj4BveUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083167877646127348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画了我妻子的男子设简称我老公，很土对因为他在当牛郎 https://t.co/5dDj4BveUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 229,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      }
+    ]
+  }
+}

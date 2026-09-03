@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062913070805213184"
+      ],
+      "media_source_tweet_id": [
+        "2062913082331107471"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2082061996758036754",
+    "created_at": "2026-07-28T11:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082061996758036754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1773143737423847424",
+          "start": 3,
+          "username": "Fanqian77v"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4q7Igi9INa",
+          "end": 78,
+          "expanded_url": "https://x.com/Fanqian77v/status/2062913082331107471/photo/1",
+          "media_key": "3_2062913070805213184",
+          "start": 55,
+          "url": "https://t.co/4q7Igi9INa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082061996758036754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062913082331107471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fanqian77v: 我是小Q\n喜欢我就给我打钱吧！我会很感谢你🥺\n门槛妹一起来互关吧看到都会回！ https://t.co/4q7Igi9INa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2062913070805213184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDwghPa4AAbeeK.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062913070805213184"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2062913082331107471",
+        "created_at": "2026-06-05T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062913082331107471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4q7Igi9INa",
+              "end": 62,
+              "expanded_url": "https://x.com/Fanqian77v/status/2062913082331107471/photo/1",
+              "media_key": "3_2062913070805213184",
+              "start": 39,
+              "url": "https://t.co/4q7Igi9INa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062913082331107471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1060,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是小Q\n喜欢我就给我打钱吧！我会很感谢你🥺\n门槛妹一起来互关吧看到都会回！ https://t.co/4q7Igi9INa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062913070805213184"
+          ],
+          "media_source_tweet_id": [
+            "2062913082331107471"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2082061996758036754",
+        "created_at": "2026-07-28T11:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082061996758036754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1773143737423847424",
+              "start": 3,
+              "username": "Fanqian77v"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4q7Igi9INa",
+              "end": 78,
+              "expanded_url": "https://x.com/Fanqian77v/status/2062913082331107471/photo/1",
+              "media_key": "3_2062913070805213184",
+              "start": 55,
+              "url": "https://t.co/4q7Igi9INa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082061996758036754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062913082331107471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fanqian77v: 我是小Q\n喜欢我就给我打钱吧！我会很感谢你🥺\n门槛妹一起来互关吧看到都会回！ https://t.co/4q7Igi9INa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 189,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 80,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

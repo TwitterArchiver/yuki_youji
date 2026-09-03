@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2081208667228262580",
+    "created_at": "2026-07-28T03:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081943386660151692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1759397837459386368",
+          "start": 0,
+          "username": "GLOW261721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081943386660151692",
+    "in_reply_to_user_id": "1759397837459386368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081936786998063470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GLOW261721 哇……🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2081936782178881536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSGeQqXkAAqgDX.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2081208667228262580",
+        "created_at": "2026-07-28T03:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081943386660151692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1759397837459386368",
+              "start": 0,
+              "username": "GLOW261721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081943386660151692",
+        "in_reply_to_user_id": "1759397837459386368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081936786998063470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GLOW261721 哇……🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081936782178881536"
+          ]
+        },
+        "author_id": "1759397837459386368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081208667228262580",
+        "created_at": "2026-07-28T02:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081936786998063470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X8ndZMJuPb",
+              "end": 43,
+              "expanded_url": "https://x.com/GLOW261721/status/2081936786998063470/photo/1",
+              "media_key": "3_2081936782178881536",
+              "start": 20,
+              "url": "https://t.co/X8ndZMJuPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081936786998063470",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081935391972831309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 是这个，乐天的 https://t.co/X8ndZMJuPb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 180,
+          "like_count": 867,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 502
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T02:02:17.000Z",
+        "description": "",
+        "id": "1759397837459386368",
+        "name": "GLOW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959633709486759936/I6mVxgi3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 61,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "GLOW261721",
+        "verified": false
+      }
+    ]
+  }
+}

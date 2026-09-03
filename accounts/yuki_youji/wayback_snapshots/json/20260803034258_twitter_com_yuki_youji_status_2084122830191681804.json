@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080884462645383168",
+        "3_2080884462678937601"
+      ],
+      "media_source_tweet_id": [
+        "2080884502935781624",
+        "2080884502935781624"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2084122830191681804",
+    "created_at": "2026-08-03T03:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084122830191681804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "332352038",
+          "start": 3,
+          "username": "kkq13p"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Dm2CQHAOD",
+          "end": 55,
+          "expanded_url": "https://x.com/themrscripe/status/2080884502935781624/photo/1",
+          "media_key": "3_2080884462645383168",
+          "start": 32,
+          "url": "https://t.co/1Dm2CQHAOD"
+        },
+        {
+          "display_url": "pic.x.com/1Dm2CQHAOD",
+          "end": 55,
+          "expanded_url": "https://x.com/themrscripe/status/2080884502935781624/photo/1",
+          "media_key": "3_2080884462678937601",
+          "start": 32,
+          "url": "https://t.co/1Dm2CQHAOD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084122830191681804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080884502935781624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @kkq13p: 置顶🔝  \n\n转发这条抽三个88红包🧧 https://t.co/1Dm2CQHAOD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080884462645383168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODJZM6bkAAjeeI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1522,
+        "media_key": "3_2080884462678937601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODJZNCbkAEdRm_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080884462645383168",
+            "3_2080884462678937601"
+          ]
+        },
+        "author_id": "332352038",
+        "conversation_id": "2080884502935781624",
+        "created_at": "2026-07-25T05:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080884502935781624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Dm2CQHAOD",
+              "end": 43,
+              "expanded_url": "https://x.com/themrscripe/status/2080884502935781624/photo/1",
+              "media_key": "3_2080884462645383168",
+              "start": 20,
+              "url": "https://t.co/1Dm2CQHAOD"
+            },
+            {
+              "display_url": "pic.x.com/1Dm2CQHAOD",
+              "end": 43,
+              "expanded_url": "https://x.com/themrscripe/status/2080884502935781624/photo/1",
+              "media_key": "3_2080884462678937601",
+              "start": 20,
+              "url": "https://t.co/1Dm2CQHAOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080884502935781624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5384,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "置顶🔝  \n\n转发这条抽三个88红包🧧 https://t.co/1Dm2CQHAOD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080884462645383168",
+            "3_2080884462678937601"
+          ],
+          "media_source_tweet_id": [
+            "2080884502935781624",
+            "2080884502935781624"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2084122830191681804",
+        "created_at": "2026-08-03T03:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084122830191681804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "332352038",
+              "start": 3,
+              "username": "kkq13p"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Dm2CQHAOD",
+              "end": 55,
+              "expanded_url": "https://x.com/themrscripe/status/2080884502935781624/photo/1",
+              "media_key": "3_2080884462645383168",
+              "start": 32,
+              "url": "https://t.co/1Dm2CQHAOD"
+            },
+            {
+              "display_url": "pic.x.com/1Dm2CQHAOD",
+              "end": 55,
+              "expanded_url": "https://x.com/themrscripe/status/2080884502935781624/photo/1",
+              "media_key": "3_2080884462678937601",
+              "start": 32,
+              "url": "https://t.co/1Dm2CQHAOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084122830191681804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080884502935781624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @kkq13p: 置顶🔝  \n\n转发这条抽三个88红包🧧 https://t.co/1Dm2CQHAOD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 255,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-09T17:06:32.000Z",
+        "description": "私信只回门槛口令//具体价格表私信找我要//坐标问题均15//已成年//🚪88 188 288 520 888 1314无上限",
+        "id": "332352038",
+        "location": "0.1k m",
+        "name": "33",
+        "pinned_tweet_id": "2080884502935781624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083742696573919233/NUWGdv9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1,
+          "like_count": 676,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "kkq13p",
+        "verified": false
+      }
+    ]
+  }
+}

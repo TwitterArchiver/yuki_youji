@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067466998393753600",
+    "conversation_id": "2084216538933182682",
+    "created_at": "2026-08-04T03:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084485025735802965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1935799186735431680",
+          "start": 0,
+          "username": "ink_linku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084485025735802965",
+    "in_reply_to_user_id": "1935799186735431680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084412051531665811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ink_linku 🥺🥺🥺💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067466998393753600",
+        "conversation_id": "2084216538933182682",
+        "created_at": "2026-08-04T03:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084485025735802965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1935799186735431680",
+              "start": 0,
+              "username": "ink_linku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084485025735802965",
+        "in_reply_to_user_id": "1935799186735431680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084412051531665811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ink_linku 🥺🥺🥺💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935799186735431680",
+        "conversation_id": "2084216538933182682",
+        "created_at": "2026-08-03T22:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T23:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084412051531665811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067466998393753600",
+              "start": 0,
+              "username": "yuki_youji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084412051531665811",
+        "in_reply_to_user_id": "2067466998393753600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084216538933182682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_youji 好美呀…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 262,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T20:37:58.000Z",
+        "description": "低浮上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ink_linku",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ink_linku",
+                "start": 0,
+                "url": "https://t.co/4QnKpzTyrM"
+              }
+            ]
+          }
+        },
+        "id": "1935799186735431680",
+        "location": "天堂",
+        "name": "白昼夢中",
+        "pinned_tweet_id": "2082866721853952156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082867011441274881/5T2PZkHY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 149,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/4QnKpzTyrM",
+        "username": "ink_linku",
+        "verified": false
+      }
+    ]
+  }
+}

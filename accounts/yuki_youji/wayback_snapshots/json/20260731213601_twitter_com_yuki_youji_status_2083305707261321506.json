@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082862455903141888",
+        "3_2082862455945056257"
+      ],
+      "media_source_tweet_id": [
+        "2082862467496190345",
+        "2082862467496190345"
+      ]
+    },
+    "author_id": "2067466998393753600",
+    "conversation_id": "2083305707261321506",
+    "created_at": "2026-07-31T21:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083305707261321506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1122176332576821250",
+          "start": 3,
+          "username": "Sally56629846"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RoFdrURpQm",
+          "end": 48,
+          "expanded_url": "https://x.com/Sally56629846/status/2082862467496190345/photo/1",
+          "media_key": "3_2082862455903141888",
+          "start": 25,
+          "url": "https://t.co/RoFdrURpQm"
+        },
+        {
+          "display_url": "pic.x.com/RoFdrURpQm",
+          "end": 48,
+          "expanded_url": "https://x.com/Sally56629846/status/2082862467496190345/photo/1",
+          "media_key": "3_2082862455945056257",
+          "start": 25,
+          "url": "https://t.co/RoFdrURpQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083305707261321506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082862467496190345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sally56629846: 爸爸要操操 https://t.co/RoFdrURpQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1529,
+        "media_key": "3_2082862455903141888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfQXkAawAA6TqB.jpg",
+        "width": 1179
+      },
+      {
+        "height": 827,
+        "media_key": "3_2082862455945056257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfQXkKaUAEbn0R.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082862455903141888",
+            "3_2082862455945056257"
+          ]
+        },
+        "author_id": "1122176332576821250",
+        "conversation_id": "2082862467496190345",
+        "created_at": "2026-07-30T16:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082862467496190345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoFdrURpQm",
+              "end": 29,
+              "expanded_url": "https://x.com/Sally56629846/status/2082862467496190345/photo/1",
+              "media_key": "3_2082862455903141888",
+              "start": 6,
+              "url": "https://t.co/RoFdrURpQm"
+            },
+            {
+              "display_url": "pic.x.com/RoFdrURpQm",
+              "end": 29,
+              "expanded_url": "https://x.com/Sally56629846/status/2082862467496190345/photo/1",
+              "media_key": "3_2082862455945056257",
+              "start": 6,
+              "url": "https://t.co/RoFdrURpQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082862467496190345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 411,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸要操操 https://t.co/RoFdrURpQm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082862455903141888",
+            "3_2082862455945056257"
+          ],
+          "media_source_tweet_id": [
+            "2082862467496190345",
+            "2082862467496190345"
+          ]
+        },
+        "author_id": "2067466998393753600",
+        "conversation_id": "2083305707261321506",
+        "created_at": "2026-07-31T21:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083305707261321506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1122176332576821250",
+              "start": 3,
+              "username": "Sally56629846"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoFdrURpQm",
+              "end": 48,
+              "expanded_url": "https://x.com/Sally56629846/status/2082862467496190345/photo/1",
+              "media_key": "3_2082862455903141888",
+              "start": 25,
+              "url": "https://t.co/RoFdrURpQm"
+            },
+            {
+              "display_url": "pic.x.com/RoFdrURpQm",
+              "end": 48,
+              "expanded_url": "https://x.com/Sally56629846/status/2082862467496190345/photo/1",
+              "media_key": "3_2082862455945056257",
+              "start": 25,
+              "url": "https://t.co/RoFdrURpQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083305707261321506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082862467496190345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sally56629846: 爸爸要操操 https://t.co/RoFdrURpQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 242,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-27T16:31:01.000Z",
+        "description": "🚪188/288\n 520/1314（可线下）\n希望我的门槛哥发大财身体健康天天开心\n想要钱 想要爱 想要做爱",
+        "id": "1122176332576821250",
+        "name": "Sally（骗人死全家",
+        "pinned_tweet_id": "2082862467496190345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082840421026430976/rIgIF4GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 7,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "Sally56629846",
+        "verified": false
+      }
+    ]
+  }
+}
