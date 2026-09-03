@@ -1,7 +1,7 @@
 {
   "name": "yuki由纪",
   "username": "@yuki_youji",
-  "bio": "地雷女｜osdd(人格分裂)｜躁郁｜x小窗可以闲聊｜妻子@woapmpble 欢迎和由纪互fo，没回关可能是没看见，互fo小窗 喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+  "bio": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
   "location": "乌托邦",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,8 +10,8 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 38,
-        "start": 28,
+        "end": 47,
+        "start": 37,
         "username": "woapmpble"
       }
     ]
