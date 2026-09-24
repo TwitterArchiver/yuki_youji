@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-24T18:28:39",
+  "last_updated": "2026-09-24T18:28:58",
   "html": {
     "https://web.archive.org/web/20260620135152if_/https://twitter.com/yuki_youji/status/2068330996995666304": {
       "status": "done",
@@ -5754,25 +5754,25 @@
       "referenced_by": [
         "20260731213703_twitter_com_yuki_youji_status_2083305966976799004.json"
       ],
-      "last_updated": "2026-09-03T17:53:42"
+      "last_updated": "2026-09-24T18:28:56"
     },
     "https://video.twimg.com/amplify_video/2083108317002653697/vid/avc1/960x720/AWX7Z8AwEQsc06h-.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260801064204_twitter_com_yuki_youji_status_2083443126673555938.json"
       ],
-      "last_updated": "2026-09-03T17:53:46",
+      "last_updated": "2026-09-24T18:28:58",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260801064204/https://video.twimg.com/amplify_video/2083108317002653697/vid/avc1/960x720/AWX7Z8AwEQsc06h-.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2084129827616182272/vid/avc1/576x1024/T4Qf2qFUozoc9pKM.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260803114548_twitter_com_yuki_youji_status_2084244339858026520.json"
       ],
-      "last_updated": "2026-09-03T17:53:44",
+      "last_updated": "2026-09-24T18:28:58",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803114548/https://video.twimg.com/amplify_video/2084129827616182272/vid/avc1/576x1024/T4Qf2qFUozoc9pKM.mp4",
-      "miss_count": 1
+      "miss_count": 2
     }
   },
   "avatars": {
@@ -8991,8 +8991,8 @@
           "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:18:55",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260701041511_twitter_com_yuki_youji_status_2072172137163690171.json": {
       "status": "done",
@@ -9029,8 +9029,8 @@
           "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:02",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260701043213_twitter_com_yuki_youji_status_2072176426141536615.json": {
       "status": "done",
@@ -9341,8 +9341,8 @@
           "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:16",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260704110849_twitter_com_yuki_youji_status_2073363396150616108.json": {
       "status": "failed",
@@ -9357,8 +9357,8 @@
           "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:16",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260704111845_twitter_com_yuki_youji_status_2073365894240362707.json": {
       "status": "done",
@@ -9518,8 +9518,8 @@
           "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:08",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260710115243_twitter_com_yuki_youji_status_2075548769937199368.json": {
       "status": "done",
@@ -9637,8 +9637,8 @@
           "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:07",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260713093928_twitter_com_yuki_youji_status_2076602402950852996.json": {
       "status": "failed",
@@ -9655,8 +9655,8 @@
           "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:05",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260713094019_twitter_com_yuki_youji_status_2076602616910660039.json": {
       "status": "failed",
@@ -9669,8 +9669,8 @@
           "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:18:53",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260713094031_twitter_com_yuki_youji_status_2076602666093023273.json": {
       "status": "done",
@@ -10424,8 +10424,8 @@
           "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:10",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260719130335_twitter_com_yuki_youji_status_2078828097298948130.json": {
       "status": "done",
@@ -10649,8 +10649,8 @@
           "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:21",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260720125049_twitter_com_yuki_youji_status_2079187269471342646.json": {
       "status": "failed",
@@ -10665,8 +10665,8 @@
           "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:18",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260720130148_twitter_com_yuki_youji_status_2079190035451314412.json": {
       "status": "done",
@@ -11069,8 +11069,8 @@
           "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:24",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260722134408_twitter_com_yuki_youji_status_2079925465775837208.json": {
       "status": "done",
@@ -12567,8 +12567,8 @@
           "https://pbs.twimg.com/profile_images/2080175280577187840/lpbAl5X6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:20",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260725095346_twitter_com_yuki_youji_status_2080954653685215330.json": {
       "status": "done",
@@ -12663,8 +12663,8 @@
           "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:18:53",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260725095851_twitter_com_yuki_youji_status_2080955931488301367.json": {
       "status": "done",
@@ -13182,8 +13182,8 @@
           "https://pbs.twimg.com/profile_images/2080175280577187840/lpbAl5X6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:18:49",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260725132433_twitter_com_yuki_youji_status_2081007699161129338.json": {
       "status": "done",
@@ -14320,8 +14320,8 @@
           "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:12",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260720061812_twitter_com_yuki_youji_status_2079088466005311902.json": {
       "status": "done",
@@ -14421,8 +14421,8 @@
           "https://pbs.twimg.com/profile_images/2080175280577187840/lpbAl5X6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:08",
-      "miss_count": 5
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 6
     },
     "20260727070408_twitter_com_yuki_youji_status_2081636740645974314.json": {
       "status": "done",
@@ -14547,8 +14547,8 @@
           "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:07",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260727132919_twitter_com_yuki_youji_status_2081733676384260505.json": {
       "status": "done",
@@ -14583,8 +14583,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:00",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260727134438_twitter_com_yuki_youji_status_2081737528386982275.json": {
       "status": "done",
@@ -14742,8 +14742,8 @@
           "https://pbs.twimg.com/profile_images/2081295469628751872/6WEOXJ-G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:05",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260728042914_twitter_com_yuki_youji_status_2081960147744968924.json": {
       "status": "done",
@@ -14773,8 +14773,8 @@
           "https://pbs.twimg.com/profile_images/2055018362447724544/XlKreXLM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:01",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260728043029_twitter_com_yuki_youji_status_2081960459310444929.json": {
       "status": "done",
@@ -14864,8 +14864,8 @@
           "https://pbs.twimg.com/profile_images/2079461595558895616/N-oJVpR4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:18:52",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260728052230_twitter_com_yuki_youji_status_2081973551759085905.json": {
       "status": "done",
@@ -14975,8 +14975,8 @@
           "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:03",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260728131734_twitter_com_yuki_youji_status_2082093106221195581.json": {
       "status": "failed",
@@ -14993,8 +14993,8 @@
           "https://pbs.twimg.com/profile_images/2078974498095964160/Y9AP3jqd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:03",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260729032324_twitter_com_yuki_youji_status_2082305966142529947.json": {
       "status": "done",
@@ -15021,8 +15021,8 @@
           "https://pbs.twimg.com/profile_images/2074444717396525056/z3XBwQ0m_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:18:58",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260729032450_twitter_com_yuki_youji_status_2082306327410614288.json": {
       "status": "done",
@@ -15074,8 +15074,8 @@
           "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:18:55",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260729033949_twitter_com_yuki_youji_status_2082310099893453213.json": {
       "status": "failed",
@@ -15090,8 +15090,8 @@
           "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:16",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260729034017_twitter_com_yuki_youji_status_2082310215140319711.json": {
       "status": "done",
@@ -15372,8 +15372,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:13",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260729084433_twitter_com_yuki_youji_status_2082386784747675728.json": {
       "status": "done",
@@ -15445,8 +15445,8 @@
           "https://pbs.twimg.com/profile_images/2074447583251169280/FOYVv5PX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:26",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260729085826_twitter_com_yuki_youji_status_2082390281589321785.json": {
       "status": "failed",
@@ -15460,8 +15460,8 @@
           "https://pbs.twimg.com/profile_images/2059681799945568257/iRnXI8f5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:14",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260729085935_twitter_com_yuki_youji_status_2082390570090328405.json": {
       "status": "failed",
@@ -15476,8 +15476,8 @@
           "https://pbs.twimg.com/profile_images/2074444717396525056/z3XBwQ0m_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:02",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260729090308_twitter_com_yuki_youji_status_2082391461816049755.json": {
       "status": "done",
@@ -15514,8 +15514,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:03",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260729091109_twitter_com_yuki_youji_status_2082393481348350445.json": {
       "status": "done",
@@ -15549,8 +15549,8 @@
           "https://pbs.twimg.com/profile_images/2042321452834439168/pnQx--rb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:40",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260729091933_twitter_com_yuki_youji_status_2082395594983911661.json": {
       "status": "done",
@@ -15714,8 +15714,8 @@
           "https://pbs.twimg.com/profile_images/2082422700145049600/YJF-nWhF_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:16",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260729130430_twitter_com_yuki_youji_status_2082452205354012793.json": {
       "status": "done",
@@ -15771,8 +15771,8 @@
           "https://pbs.twimg.com/profile_images/2081771951421554688/6txOXW-V_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:25",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260730034612_twitter_com_yuki_youji_status_2082674091472073063.json": {
       "status": "failed",
@@ -15787,8 +15787,8 @@
           "https://pbs.twimg.com/profile_images/2059681799945568257/iRnXI8f5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:11",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260730040257_twitter_com_yuki_youji_status_2082678306323984608.json": {
       "status": "done",
@@ -15926,8 +15926,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:06",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260730094010_twitter_com_yuki_youji_status_2082763171983716807.json": {
       "status": "done",
@@ -16016,8 +16016,8 @@
           "https://pbs.twimg.com/profile_images/2078974498095964160/Y9AP3jqd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:09",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260730103836_twitter_com_yuki_youji_status_2082777878027293023.json": {
       "status": "done",
@@ -16128,8 +16128,8 @@
           "https://pbs.twimg.com/profile_images/2071631040549122048/Na8Jd86n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:12",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260730140431_twitter_com_yuki_youji_status_2082829695381598401.json": {
       "status": "done",
@@ -16202,8 +16202,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:10",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260731090109_twitter_com_yuki_youji_status_2083115738274083234.json": {
       "status": "failed",
@@ -16217,8 +16217,8 @@
           "https://pbs.twimg.com/profile_images/1903960536741548033/wCpUPl4z_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:25",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260731090148_twitter_com_yuki_youji_status_2083115901864624626.json": {
       "status": "done",
@@ -16326,8 +16326,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:18",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260731122856_twitter_com_yuki_youji_status_2083168031400988955.json": {
       "status": "failed",
@@ -16340,8 +16340,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:18",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260731125914_twitter_com_yuki_youji_status_2083175657018945558.json": {
       "status": "done",
@@ -16372,8 +16372,8 @@
           "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:34",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260731130225_twitter_com_yuki_youji_status_2083176456977522798.json": {
       "status": "done",
@@ -16432,8 +16432,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:33",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260731160430_twitter_com_yuki_youji_status_2083222277852967127.json": {
       "status": "failed",
@@ -16446,8 +16446,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:11",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260731161648_twitter_com_yuki_youji_status_2083225373488406572.json": {
       "status": "done",
@@ -16475,8 +16475,8 @@
           "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:13",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260731180908_twitter_com_yuki_youji_status_2083253644863152256.json": {
       "status": "done",
@@ -16501,8 +16501,8 @@
           "https://pbs.twimg.com/profile_images/2082867011441274881/5T2PZkHY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:13",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260731181854_twitter_com_yuki_youji_status_2083256103413149972.json": {
       "status": "failed",
@@ -16516,8 +16516,8 @@
           "https://pbs.twimg.com/profile_images/2082867011441274881/5T2PZkHY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:21",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260731190750_twitter_com_yuki_youji_status_2083268418590150995.json": {
       "status": "done",
@@ -16619,8 +16619,8 @@
           "https://pbs.twimg.com/profile_images/2082840421026430976/rIgIF4GZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:18",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260731213703_twitter_com_yuki_youji_status_2083305966976799004.json": {
       "status": "failed",
@@ -16638,8 +16638,8 @@
           "https://pbs.twimg.com/profile_images/1965912317805121536/IDmc-vgG_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:26",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260731231307_twitter_com_yuki_youji_status_2083330144568238082.json": {
       "status": "done",
@@ -16663,8 +16663,8 @@
           "https://pbs.twimg.com/profile_images/2082055995086262273/ZL5B2Vqc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:12",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260801004548_twitter_com_yuki_youji_status_2083353467218014618.json": {
       "status": "done",
@@ -16692,8 +16692,8 @@
           "https://pbs.twimg.com/profile_images/2082485758456365056/Of2SShm2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:20",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:58",
+      "miss_count": 2
     },
     "20260801064306_twitter_com_yuki_youji_status_2083443385223012415.json": {
       "status": "failed",
@@ -16707,8 +16707,8 @@
           "https://pbs.twimg.com/profile_images/2042321452834439168/pnQx--rb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:18",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260801064342_twitter_com_yuki_youji_status_2083443537652384087.json": {
       "status": "failed",
@@ -16722,8 +16722,8 @@
           "https://pbs.twimg.com/profile_images/2082867011441274881/5T2PZkHY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:16",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260801065152_twitter_com_yuki_youji_status_2083445592446194084.json": {
       "status": "failed",
@@ -16739,8 +16739,8 @@
           "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:26",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260801073319_twitter_com_yuki_youji_status_2083456022598066614.json": {
       "status": "done",
@@ -16788,8 +16788,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:20",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260802133757_twitter_com_yuki_youji_status_2083910175401148857.json": {
       "status": "done",
@@ -16879,8 +16879,8 @@
           "https://pbs.twimg.com/profile_images/2083742696573919233/NUWGdv9d_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:25",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260803034351_twitter_com_yuki_youji_status_2084123053781602326.json": {
       "status": "failed",
@@ -16895,8 +16895,8 @@
           "https://pbs.twimg.com/profile_images/2083874924750585856/dCPdQv4K_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:23",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260803034440_twitter_com_yuki_youji_status_2084123259638088100.json": {
       "status": "failed",
@@ -16911,8 +16911,8 @@
           "https://pbs.twimg.com/profile_images/2082464916120948736/ZfRajTWk_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:39",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 2
     },
     "20260803034741_twitter_com_yuki_youji_status_2084124017917915602.json": {
       "status": "done",
@@ -16937,8 +16937,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:20",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260803041537_twitter_com_yuki_youji_status_2084131048439611879.json": {
       "status": "done",
@@ -16976,8 +16976,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:23",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260803054544_twitter_com_yuki_youji_status_2084153725166501956.json": {
       "status": "done",
@@ -17014,8 +17014,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:28",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260803094134_twitter_com_yuki_youji_status_2084213075515969904.json": {
       "status": "done",
@@ -17064,8 +17064,8 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:21",
-      "miss_count": 3
+      "last_updated": "2026-09-24T18:28:56",
+      "miss_count": 4
     },
     "20260803100906_twitter_com_yuki_youji_status_2084220003809993139.json": {
       "status": "done",
@@ -17169,8 +17169,8 @@
           "https://pbs.twimg.com/profile_images/2084122070376722432/rihh7gfJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:19:41",
-      "miss_count": 1
+      "last_updated": "2026-09-24T18:28:58",
+      "miss_count": 2
     },
     "20260804034212_twitter_com_yuki_youji_status_2084485025735802965.json": {
       "status": "done",
