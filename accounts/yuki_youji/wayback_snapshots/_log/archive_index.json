@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-24T18:28:58",
+  "last_updated": "2026-09-24T18:29:13",
   "html": {
     "https://web.archive.org/web/20260620135152if_/https://twitter.com/yuki_youji/status/2068330996995666304": {
       "status": "done",
@@ -7796,13 +7796,13 @@
       "last_updated": "2026-09-03T17:54:01"
     },
     "https://pbs.twimg.com/profile_images/2082055995086262273/ZL5B2Vqc_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260731231809_twitter_com_yuki_youji_status_2083331412443480495.json"
       ],
-      "last_updated": "2026-09-03T17:54:11",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731231809if_/https://pbs.twimg.com/profile_images/2082055995086262273/ZL5B2Vqc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff241e4fa40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 2
+      "last_updated": "2026-09-24T18:29:13",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260731231809if_/https://pbs.twimg.com/profile_images/2082055995086262273/ZL5B2Vqc_normal.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2082485758456365056/Of2SShm2_normal.jpg": {
       "status": "done",
@@ -16654,7 +16654,7 @@
       "last_updated": "2026-09-03T17:54:01"
     },
     "20260731231809_twitter_com_yuki_youji_status_2083331412443480495.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -16663,7 +16663,7 @@
           "https://pbs.twimg.com/profile_images/2082055995086262273/ZL5B2Vqc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-24T18:28:56",
+      "last_updated": "2026-09-24T18:29:13",
       "miss_count": 2
     },
     "20260801004548_twitter_com_yuki_youji_status_2083353467218014618.json": {
